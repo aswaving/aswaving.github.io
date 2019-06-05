@@ -182,3 +182,4 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 - ([twir286](https://this-week-in-rust.org/blog/2019/05/14/this-week-in-rust-286/)) - [panic_never](https://github.com/japaric/panic-never), a crate to make every panic a link-time error.
 - ([twir287](https://this-week-in-rust.org/blog/2019/05/21/this-week-in-rust-287/)) -  [memory-profiler](https://github.com/nokia/memory-profiler), does what it says on the box. [momo](https://github.com/llogiq/momo) is a procedural macro that outlines generic conversions to reduce monomorphized code. 
 - ([twir288](https://this-week-in-rust.org/blog/2019/05/28/this-week-in-rust-288/)) -  [mockiato](https://github.com/myelin-ai/mockiato), a strict yet friendly mocking library for Rust 2018.
+- ([twir289](https://this-week-in-rust.org/blog/2019/06/04/this-week-in-rust-289/)) - [emu](https://github.com/calebwin/emu), a Rust-based language for programming GPUs.
