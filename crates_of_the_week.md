@@ -1,186 +1,186 @@
 # Rust crates of the week
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
-## 2015
-- ([twir97]()) - [lazy_static](https://crates.io/crates/lazy_static)
-- ([twir98]()) - [quickcheck](https://github.com/BurntSushi/quickcheck) 
-- ([twir99]()) - [itertools](https://github.com/bluss/rust-itertools)
-- ([twir100](https://this-week-in-rust.org/blog/2015/10/12/this-week-in-rust-100/)) - [conrod](https://crates.io/crates/conrod), a simple to use immediate-mode GUI library written in pure Rust.
-- ([twir101](https://this-week-in-rust.org/blog/2015/10/19/this-week-in-rust-101/)) - [glium](https://github.com/tomaka/glium), a safe Rust wrapper for OpenGL.
-- ([twir102](https://this-week-in-rust.org/blog/2015/10/26/this-week-in-rust-102/)) - [winapi-rs](https://github.com/retep998/winapi-rs)
-- ([twir103](https://this-week-in-rust.org/blog/2015/11/02/this-week-in-rust-103/)) - [alias](https://github.com/huonw/alias). `alias` allows mutably aliasing values – which seems to actually be safe, somewhat surprisingly.
-- ([twir104](https://this-week-in-rust.org/blog/2015/11/09/this-week-in-rust-104/)) - [ramp](https://crates.io/crates/ramp), Ramp supplies some high performance low memory easy to use big integral types. Whenever you need integers too large for a u64 and cannot afford to lose precision, ramp has just what you need.
-- ([twir105](https://this-week-in-rust.org/blog/2015/11/16/this-week-in-rust-105/)) - [hyper](https://github.com/hyperium/hyper), offers a Rust HTTP(S) implementation for both clients and servers.
-- ([twir106](https://this-week-in-rust.org/blog/2015/11/23/this-week-in-rust-106/)) - [nom](https://crates.io/crates/nom), a library of fast zero-copy parser combinators, which has already been used to create safe, high-performance parsers for a number of formats both binary and textual.
-- ([twir107](https://this-week-in-rust.org/blog/2015/11/30/this-week-in-rust-107/)) - [chrono](https://github.com/lifthrasiir/rust-chrono), a crate that offers very handy timezone-aware `Duration` and `Date`/`Time` types.
-- ([twir108](https://this-week-in-rust.org/blog/2015/12/07/this-week-in-rust-108/)) - [cargo-count](https://github.com/kbknapp/cargo-count), a neat way to summarize line counts for cargo projects.
-- ([twir109](https://this-week-in-rust.org/blog/2015/12/14/this-week-in-rust-109/)) - [quick-error](https://github.com/tailhook/quick-error), a rust-macro which makes errors easy to write.
-- ([twir110](https://this-week-in-rust.org/blog/2015/12/21/this-week-in-rust-110/)) - [clippy](https://github.com/Manishearth/rust-clippy), a collection of lints for better Rust code.
-- ([twir111](https://this-week-in-rust.org/blog/2015/12/28/this-week-in-rust-111/)) - [handlebars-rust](https://github.com/sunng87/handlebars-rust), an implementation of the Handlebars templating language for Rust. It also allows custom helpers and template inheritance for real-world usage.
-
-## 2016
-- ([twir112](https://this-week-in-rust.org/blog/2016/01/04/this-week-in-rust-112/)) - [rustfmt](https://crates.io/crates/rustfmt/), because it's nice to Rust with style.
-- ([twir113](https://this-week-in-rust.org/blog/2016/01/11/this-week-in-rust-113/)) - [crossbeam](https://crates.io/crates/crossbeam), a library of non-blocking data structures and synchronization primitives that makes writing concurrent programs easier and more efficient (both in terms of code and runtime).
-- ([twir114](https://this-week-in-rust.org/blog/2016/01/18/this-week-in-rust-114/)) - [toml](https://github.com/alexcrichton/toml-rs), for all our configuration needs, simple yet effective.
-- ([twir115](https://this-week-in-rust.org/blog/2016/01/25/this-week-in-rust-115/)) - [racer](https://github.com/phildawes/racer), powers code completion in all Rust development environments.
-- ([twir116](https://this-week-in-rust.org/blog/2016/02/01/this-week-in-rust-116/)) - [herbie-lint](https://crates.io/crates/herbie-lint), a miraculous compiler plugin to check the numerical stability of floating-point operations in the code.
-- ([twir117](https://this-week-in-rust.org/blog/2016/02/08/this-week-in-rust-117/)) - [roaring](https://crates.io/crates/roaring), the Rust version of Prof. D. Lemire's compressed bitmap data structure. 
-- ([twir118](https://this-week-in-rust.org/blog/2016/02/15/this-week-in-rust-118/)) - [rayon](https://crates.io/crates/rayon), gives us `par_iter()/par_iter_mut()` functions that use an internal thread pool to easily parallelize data-parallel operations. There's also `rayon::join(|| .., || ..)` for Fork-Join-style tasks. Apart from the ease of use, it also performs very well, comparable to hand-optimized code.
-- ([twir119](https://this-week-in-rust.org/blog/2016/02/22/this-week-in-rust-119/)) - [diesel](http://diesel.rs/), a rustic typesafe extensible object-relational mapper and query builder.
-- ([twir120](https://this-week-in-rust.org/blog/2016/02/29/this-week-in-rust-120/)) - [rotor](https://crates.io/crates/rotor), a [mio](https://crates.io/crates/mio)-based async-IO library providing an event loop, state machine combinators and futures.
-- ([twir121](https://this-week-in-rust.org/blog/2016/03/07/this-week-in-rust-121/)) - [preferences](https://crates.io/crates/preferences), which does the right thing to your program's preferences on all common operating systems.
-- ([twir122](https://this-week-in-rust.org/blog/2016/03/14/this-week-in-rust-122/)) - [LALRPOP](https://crates.io/crates/lalrpop), a LR(1) parser generator that compiles to Rust code.
-- ([twir123](https://this-week-in-rust.org/blog/2016/03/21/this-week-in-rust-123/)) - [tempfile](https://crates.io/crates/tempfile), a crate that does exactly what it says on the tin. 
-- ([twir124](https://this-week-in-rust.org/blog/2016/03/28/this-week-in-rust-124/)) - [gfx](https://crates.io/crates/gfx), a crate to show stuff on a screen on most available platforms that have one. 
-- ([twir125](https://this-week-in-rust.org/blog/2016/04/04/this-week-in-rust-125/)) - [rustful](https://crates.io/crates/rustful), a simple, modular REST-like HTTP framework. 
-- ([twir126](https://this-week-in-rust.org/blog/2016/04/11/this-week-in-rust-126/)) - [gcc](https://crates.io/crates/gcc), a crate to easily use the local C compiler, which makes FFI with a build script a breeze.
-- ([twir127](https://this-week-in-rust.org/blog/2016/04/25/these-weeks-in-rust-127/)) - [owning_ref](https://crates.io/crates/owning_ref), contains a reference type that can carry its owner with it.
-- ([twir128](https://this-week-in-rust.org/blog/2016/05/02/this-week-in-rust-128/)) - [arrayvec](https://crates.io/crates/arrayvec), gives us a Vec-like interface over plain arrays for those instances where you don't want the indirection. 
-- ([twir129](https://this-week-in-rust.org/blog/2016/05/09/this-week-in-rust-129/)) - [semantic-rs](https://github.com/semantic-rs/semantic-rs),  lets us update our project from the commandline ensuring semver compliance on the way. 
-- ([twir130](https://this-week-in-rust.org/blog/2016/05/16/this-week-in-rust-130/)) - [cargo-profiler](https://github.com/pegasos1/cargo-profiler), lets us profile our code directly from cargo using a variety of tools, notably valgrind's callgrind and cachegrind. 
-- ([twir131](https://this-week-in-rust.org/blog/2016/05/23/this-week-in-rust-131/)) - [parking-lot](https://crates.io/crates/parking_lot), gives us synchronization primitives (Mutex, RWLock, CondVar and friends) that are both smaller and faster than the standard library's implementations.
-- ([twir133](https://this-week-in-rust.org/blog/2016/06/06/this-week-in-rust-133/)) - [pbr](https://crates.io/crates/pbr), gives us a simple way to set up a progress bar for our applications.
-- ([twir134](https://this-week-in-rust.org/blog/2016/06/13/this-week-in-rust-134/)) - [petgraph](https://crates.io/crates/petgraph), provides graph structures and algorithms. 
-- ([twir135](https://this-week-in-rust.org/blog/2016/06/20/this-week-in-rust-135/)) - [error-chain](https://crates.io/crates/error-chain), feels like the missing piece in Rust's Result-based error-handling puzzle.
-- ([twir136](https://this-week-in-rust.org/blog/2016/06/27/this-week-in-rust-136/)) - [bins](https://crates.io/crates/bins), let's us programmatically create pastebins. 
-- ([twir137](https://this-week-in-rust.org/blog/2016/07/05/this-week-in-rust-137/)) - [reustmann](https://crates.io/crates/reustmann), a Von-Neumann Architecture written in Rust. This is presumably useful as a base substrate to train genetic algorithms on.
-- ([twir139](https://this-week-in-rust.org/blog/2016/07/19/this-week-in-rust-139/)) - [cargo-modules](https://crates.io/crates/cargo-modules), gives us the `cargo modules` subcommand that shows the module structure of our crates in a tree view, optionally warning of orphans.
-- ([twir140](https://this-week-in-rust.org/blog/2016/07/26/this-week-in-rust-140/)) - [trace](https://crates.io/crates/trace), a syntax extension to insert `print!` statements to functions to help trace execution. 
-- ([twir141](https://this-week-in-rust.org/blog/2016/08/02/this-week-in-rust-141/)) - [lru_time_cache](https://crates.io/crates/lru_time_cache), a simple but complete least-recently-used cache implementation.
-- ([twir142](https://this-week-in-rust.org/blog/2016/08/09/this-week-in-rust-142/)) - [rusttype](https://crates.io/crates/rusttype), a pure Rust freetype replacement.
-- ([twir143](https://this-week-in-rust.org/blog/2016/08/16/this-week-in-rust-143/)) - [font-rs](https://github.com/google/font-rs), yet another pure Rust font renderer, which is incomplete, but very fast.
-- ([twir145](https://this-week-in-rust.org/blog/2016/08/30/this-week-in-rust-145/)) - [ring](https://crates.io/crates/ring), a crypto implementation.
-- ([twir146](https://this-week-in-rust.org/blog/2016/09/06/this-week-in-rust-146/)) - [accurate](https://github.com/bsteinb/accurate/), a way to do accurate floating point sums. 
-- ([twir147](https://this-week-in-rust.org/blog/2016/09/13/this-week-in-rust-147/)) - [tokio](https://github.com/tokio-rs/tokio), a high-level asynchronous IO library based on futures.
-- ([twir148](https://this-week-in-rust.org/blog/2016/09/20/this-week-in-rust-148/)) - [mysql-proxy](https://crates.io/crates/mysql-proxy), a flexible, lightweight and scalable proxy for MySQL databases.
-- ([twir149](https://this-week-in-rust.org/blog/2016/09/27/this-week-in-rust-149/)) - [ripgrep](https://crates.io/crates/ripgrep), a grep/ag/pt/whatever search tool you use replacement that absolutely smokes the competition in most performance tests.
-- ([twir152](https://this-week-in-rust.org/blog/2016/10/18/this-week-in-rust-152/)) - [xargo](https://github.com/japaric/xargo), for effortless cross compilation of Rust programs to custom bare-metal targets like ARM Cortex-M.
-- ([twir154](https://this-week-in-rust.org/blog/2016/11/01/this-week-in-rust-154/)) - [app_dirs](https://github.com/AndyBarron/app-dirs-rs), lets you put your app's data in the right place on every platform.
-- ([twir157](https://this-week-in-rust.org/blog/2016/11/22/this-week-in-rust-157/)) - [cargo-benchcmp](https://github.com/BurntSushi/cargo-benchcmp), generates nice before-after summaries for benchmarks.
-- ([twir159](https://this-week-in-rust.org/blog/2016/12/06/this-week-in-rust-159/)) - [seahash](https://crates.io/crates/seahash), a statistically well-tested fast hash.
-- ([twir161](https://this-week-in-rust.org/blog/2016/12/20/this-week-in-rust-161/)) - [ruru](https://github.com/d-unseductable/ruru), a wrapper around Ruby's C-API.
-- ([twir162](https://this-week-in-rust.org/blog/2016/12/27/this-week-in-rust-162/)) - [raster](https://github.com/kosinix/raster), an image processing library.
-
-## 2017
-- ([twir163](https://this-week-in-rust.org/blog/2017/01/03/this-week-in-rust-163/)) - [rocket](https://crates.io/crates/rocket), an experimental web framework (will need a nightly Rust!) with a focus on ease-of-use, expressability and speed.
-- ([twir164](https://this-week-in-rust.org/blog/2017/01/10/this-week-in-rust-164/)) - [trust](https://github.com/japaric/trust), a Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows.
-- ([twir165](https://this-week-in-rust.org/blog/2017/01/17/this-week-in-rust-165/)) - [alacritty](https://github.com/jwilm/alacritty), an OpenGL-propelled Terminal application. Really fast, nice looking. Missing scrollback.
-- ([twir167](https://this-week-in-rust.org/blog/2017/01/31/this-week-in-rust-167/)) - [tantivy](https://crates.io/crates/tantivy), a full text search engine, akin to Lucene.
-- ([twir168](https://this-week-in-rust.org/blog/2017/02/07/this-week-in-rust-168/)) - [djangohashers](https://crates.io/crates/djangohashers), a Rust port of Django's password primitives. 
-- ([twir169](https://this-week-in-rust.org/blog/2017/02/14/this-week-in-rust-169/)) - [derive_builder](https://crates.io/crates/derive_builder), automatically implement the builder pattern for arbitrary structs. Now with macro 1.1 support (custom derive since Rust 1.15).
-- ([twir170](https://this-week-in-rust.org/blog/2017/02/21/this-week-in-rust-170/)) - [CDRS](https://crates.io/crates/cdrs), a client for Apache Cassandra written completely in Rust.
-- ([twir171](https://this-week-in-rust.org/blog/2017/02/28/this-week-in-rust-171/)) - [nalgebra](https://crates.io/crates/nalgebra), a linear algebra library in and for Rust.
-- ([twir172](https://this-week-in-rust.org/blog/2017/03/07/this-week-in-rust-172/)) - [cargo-fuzz](https://crates.io/crates/cargo-fuzz), a cargo subcommand to run libfuzz on your code.
-- ([twir173](https://this-week-in-rust.org/blog/2017/03/14/this-week-in-rust-173/)) - [utest](https://github.com/japaric/utest), a testing framework for embedded software.
-- ([twir175](https://this-week-in-rust.org/blog/2017/03/28/this-week-in-rust-175/)) - [rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions), replaces the standard ones to make them shiny.
-- ([twir176](https://this-week-in-rust.org/blog/2017/04/04/this-week-in-rust-176/)) - [fst](https://github.com/BurntSushi/fst), contains Finite State Transducers and assorted algorithms that use them (e.g. fuzzy text search).
-- ([twir177](https://this-week-in-rust.org/blog/2017/04/11/this-week-in-rust-177/)) - [rust-skeptic](https://github.com/brson/rust-skeptic), a cargo subcommand to doctest your README.md
-- ([twir179](https://this-week-in-rust.org/blog/2017/04/25/this-week-in-rust-179/)) - [pq](https://crates.io/crates/pq), a crate to generically decode protobuf messages.
-- ([twir180](https://this-week-in-rust.org/blog/2017/05/02/this-week-in-rust-180/)) - [indicatif](https://crates.io/crates/indicatif), a crate to show nice progress bars on the console.
-- ([twir181](https://this-week-in-rust.org/blog/2017/05/09/this-week-in-rust-181/)) - [remove_dir_all](https://crates.io/crates/remove_dir_all/), a safe, reliable implementation of `remove_dir_all` for Windows.
-- ([twir182](https://this-week-in-rust.org/blog/2017/05/16/this-week-in-rust-182/)) - [PX8](https://github.com/Gigoteur/PX8), a Rust implementation of an Open Source fantasy console.
-- ([twir185](https://this-week-in-rust.org/blog/2017/06/06/this-week-in-rust-185/)) - [array_tool](https://crates.io/crates/array_tool), a crate with some nice extra functionality for Vecs and Strings.
-- ([twir186](https://this-week-in-rust.org/blog/2017/06/13/this-week-in-rust-186/)) - [structop](https://crates.io/crates/structopt),  crate that lets your auto-derive your command-line options from a struct to parse them into.
-- ([twir187](https://this-week-in-rust.org/blog/2017/06/20/this-week-in-rust-187/)) - [include_dir](https://crates.io/crates/include_dir), a crate that lets you include entire directory contents in your binary – like include_str!, but on steroids.
-- ([twir188](https://this-week-in-rust.org/blog/2017/06/27/this-week-in-rust-188/)) - [strum](https://crates.io/crates/strum), a crate that allows you to derive stringify and parse operations for your enums.
-- ([twir189](https://this-week-in-rust.org/blog/2017/07/04/this-week-in-rust-189/)) - [cargo-make](https://crates.io/crates/cargo-make), a crate that helps you automate your build workflow beyond what cargo already offers.
-- ([twir191](https://this-week-in-rust.org/blog/2017/07/18/this-week-in-rust-191/)) - [extfsm](https://crates.io/crates/extfsm), a crate to help build finite state machines.
-- ([twir192](https://this-week-in-rust.org/blog/2017/07/25/this-week-in-rust-192/)) - [cute](https://crates.io/crates/cute), a crate containing a macro to allow Python (or Haskell) style comprehensions (e.g. `c![x / 2, for x in 0..10, if (x & 1) == 0]`).
-- ([twir193](https://this-week-in-rust.org/blog/2017/08/01/this-week-in-rust-193/)) - [tarpaulin](https://crates.io/crates/cargo-tarpaulin), a crate to collect test coverage of your Rust code.
-- ([twir194](https://this-week-in-rust.org/blog/2017/08/08/this-week-in-rust-194/)) - [aesni](https://crates.io/crates/aesni), a crate providing a Rust AES (Rijndael) block ciphers implementation using AES-NI.
-- ([twir195](https://this-week-in-rust.org/blog/2017/08/15/this-week-in-rust-195/)) - [exa](https://the.exa.website/), a modern ls replacement (with a tree thrown in as well) written in Rust.
-- ([twir196](https://this-week-in-rust.org/blog/2017/08/22/this-week-in-rust-196/)) - [pest](https://crates.io/crates/pest), a PEG-based parsing library.
-- ([twir198](https://this-week-in-rust.org/blog/2017/09/05/this-week-in-rust-198/)) - [brain](https://crates.io/crates/brain), a programming language transpiler to brainfuck of all things.
-- ([twir199](https://this-week-in-rust.org/blog/2017/09/12/this-week-in-rust-199/)) - [pikkr](https://github.com/pikkr/pikkr), a JSON parser that can extract values without tokenization and is blazingly fast using AVX2 instructions.
-- ([twir200](https://this-week-in-rust.org/blog/2017/09/19/this-week-in-rust-200/)) - [rug](https://crates.io/crates/rug), a crate providing arbitrary-precision integers, rationals and floating-point numbers, using GMP, MPFR and MPC.
-- ([twir201](https://this-week-in-rust.org/blog/2017/09/26/this-week-in-rust-201/)) - [rustbreak](https://crates.io/crates/rustbreak), a crate providing simple single-file storage to e.g. persist settings.
-- ([twir203](https://this-week-in-rust.org/blog/2017/10/10/this-week-in-rust-203/)) - [abrute](https://crates.io/crates/abrute), a crate to brute-force AES keys.
-- ([twir204](https://this-week-in-rust.org/blog/2017/10/17/this-week-in-rust-204/)) - [if_chain](https://crates.io/crates/if_chain), a macro that helps combat rightwards drift where code nests many ifs and if lets. Since the latter cannot be contracted with &&, this can be really helpful to make code more readable.
-- ([twir205](https://this-week-in-rust.org/blog/2017/10/24/this-week-in-rust-205/)) - [colored](https://crates.io/crates/colored), a UNIX-based terminal color crate.
-- ([twir206](https://this-week-in-rust.org/blog/2017/10/31/this-week-in-rust-206/)) - [cargo-outdate](https://crates.io/crates/cargo-outdated), a cargo subcommand that shows outdated dependencies including latest compatible and latest version.
-- ([twir207](https://this-week-in-rust.org/blog/2017/11/07/this-week-in-rust-207/)) - [futures-await](https://crates.io/crates/futures-await), a crate to simplify writing futures-based async code.
-- ([twir208](https://this-week-in-rust.org/blog/2017/11/14/this-week-in-rust-208/)) - [failure](https://github.com/withoutboats/failure), a crate to deal with... you guessed it, failure.
-- ([twir209](https://this-week-in-rust.org/blog/2017/11/21/this-week-in-rust-209/)) - [ammonia](https://crates.io/crates/ammonia), a crate for sanitizing HTML to prevent cross-site scripting (XSS), layout breaking and clickjacking.
-- ([twir210](https://this-week-in-rust.org/blog/2017/11/28/this-week-in-rust-210/)) - [faster](https://github.com/AdamNiederer/faster), a crate for zero-overhead, cross-platform, beautiful explicit SIMD code.
-- ([twir212](https://this-week-in-rust.org/blog/2017/12/12/this-week-in-rust-212/)) - [printpdf](https://crates.io/crates/printpdf), a pure Rust PDF-writing library that already has a lot of features (though I note a lot of bool-taking methods).
-- ([twir213](https://this-week-in-rust.org/blog/2017/12/19/this-week-in-rust-213/)) - [cargo-audit](https://crates.io/crates/cargo-audit), a cargo subcommand to look through a crates dependencies for known insecure versions.
-- ([twir214](https://this-week-in-rust.org/blog/2017/12/26/this-week-in-rust-214/)) - [crossbeam-channel](https://crates.io/crates/crossbeam-channel), a crate that improves multi-producer multi-consumer channels compared to what the standard library offers.
+## 2019
+- ([twir290](https://this-week-in-rust.org/blog/2019/06/11/this-week-in-rust-290/)) - [uom](https://crates.io/crates/uom), units of measurement, a crate that does automatic type-safe zero-cost dimensional analysis.
+- ([twir289](https://this-week-in-rust.org/blog/2019/06/04/this-week-in-rust-289/)) - [emu](https://github.com/calebwin/emu), a Rust-based language for programming GPUs.
+- ([twir288](https://this-week-in-rust.org/blog/2019/05/28/this-week-in-rust-288/)) -  [mockiato](https://github.com/myelin-ai/mockiato), a strict yet friendly mocking library for Rust 2018.
+- ([twir287](https://this-week-in-rust.org/blog/2019/05/21/this-week-in-rust-287/)) -  [memory-profiler](https://github.com/nokia/memory-profiler), does what it says on the box. [momo](https://github.com/llogiq/momo) is a procedural macro that outlines generic conversions to reduce monomorphized code. 
+- ([twir286](https://this-week-in-rust.org/blog/2019/05/14/this-week-in-rust-286/)) - [panic_never](https://github.com/japaric/panic-never), a crate to make every panic a link-time error.
+- ([twir285](https://this-week-in-rust.org/blog/2019/05/07/this-week-in-rust-285/)) - [select-rustc](https://crates.io/crates/select-rustc), a crate for conditional compilation according to rust version.
+- ([twir284](https://this-week-in-rust.org/blog/2019/04/30/this-week-in-rust-284/)) - [cast-rs](https://github.com/japaric/cast.rs), a crate with ergonomic, checked cast functions for primitive types.
+- ([twir283](https://this-week-in-rust.org/blog/2019/04/23/this-week-in-rust-283/)) - [color-backtrace](https://github.com/athre0z/color-backtrace), a crate to give panic backtraces more information (and some color, too).
+- ([twir282](https://this-week-in-rust.org/blog/2019/04/16/this-week-in-rust-282/)) - [send-fd](https://github.com/Standard-Cognition/sendfd), a simple way to send file descriptors over UNIX sockets.
+- ([twir281](https://this-week-in-rust.org/blog/2019/04/09/this-week-in-rust-281/)) - [interact](https://github.com/interact-rs/interact), a framework for online introspection of the running program state.
+- ([twir280](https://this-week-in-rust.org/blog/2019/04/02/this-week-in-rust-280/)) - [sonic](https://github.com/valeriansaliou/sonic), a fast, lightweight & schema-less search backend.
+- ([twir279](https://this-week-in-rust.org/blog/2019/03/26/this-week-in-rust-279/)) - [safety-guard](https://gitlab.com/tdiekmann/safety-guard), a crate providing a `#[safety]` attribute that generates both a doc entry and a debug assertion.
+- ([twir278](https://this-week-in-rust.org/blog/2019/03/19/this-week-in-rust-278/)) - [copyless](https://crates.io/crates/copyless), a crate to extend boxes and vets to operate on values while avoiding `memcpy`s.
+- ([twir277](https://this-week-in-rust.org/blog/2019/03/12/this-week-in-rust-277/)) - [validator](https://github.com/Keats/validator), a crate offering simple validation for Rust structs.
+- ([twir276](https://this-week-in-rust.org/blog/2019/03/05/this-week-in-rust-276/)) - [multi_try](https://github.com/JoshMcguigan/multi_try),  a crate to simplify working with multiple results.
+- ([twir275](https://this-week-in-rust.org/blog/2019/02/26/this-week-in-rust-275/)) - [shellfn](https://crates.io/crates/shellfn), a proc macro to easily and safely use shell scripts in Rust.
+- ([twir274](https://this-week-in-rust.org/blog/2019/02/19/this-week-in-rust-274/)) - [num-format](https://github.com/bcmyers/num-format), a crate to format numbers to international standards.
+- ([twir273](https://this-week-in-rust.org/blog/2019/02/12/this-week-in-rust-273/)) - [sysinfo](https://github.com/guillaumeGomez/sysinfo), a system handler to get information and interact with processes.
+- ([twir272](https://this-week-in-rust.org/blog/2019/02/05/this-week-in-rust-272/)) - [log-derive](https://github.com/guillaumeGomez/sysinfo), a procedural macro to log function outputs.
+- ([twir271](https://this-week-in-rust.org/blog/2019/01/29/this-week-in-rust-271/)) - [typetag](https://github.com/dtolnay/typetag), a small crate to allow serde trait objects.
+- ([twir270](https://this-week-in-rust.org/blog/2019/01/22/this-week-in-rust-270/)) - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer), an experimental Rust compiler frontend for IDEs.
+- ([twir269](https://this-week-in-rust.org/blog/2019/01/15/this-week-in-rust-269/)) - [ropey](https://github.com/cessen/ropey), an editable text buffer data structure.
+- ([twir268](https://this-week-in-rust.org/blog/2019/01/08/this-week-in-rust-268/)) - [gfx-hal](https://crates.io/crates/gfx-hal), a hardware abstraction for fox-rs.
+- ([twir267](https://this-week-in-rust.org/blog/2019/01/01/this-week-in-rust-267/)) - [Dose Response](https://tryjumping.itch.io/dose-response), an online-playable tonguelike game with a probably bleak outcome.
 
 ## 2018
-- ([twir215](https://this-week-in-rust.org/blog/2018/01/02/this-week-in-rust-215/)) - [YEW](https://github.com/DenisKolodin/yew), a framework for making Elm/React/Angular-like client web-apps with Rust.
-- ([twir216](https://this-week-in-rust.org/blog/2018/01/09/this-week-in-rust-216/)) - [artifact](https://github.com/vitiral/artifact), a design documentation tool.
-- ([twir217](https://this-week-in-rust.org/blog/2018/01/16/this-week-in-rust-217/)) - [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat), a cargo subcommand to find out how much space crates/functions take up in an executable.
-- ([twir218](https://this-week-in-rust.org/blog/2018/01/23/this-week-in-rust-218/)) - [actix-web](https://github.com/actix/actix-web), a small fast pragmatic open-source Rust web framework.
-- ([twir219](https://this-week-in-rust.org/blog/2018/01/30/this-week-in-rust-219/)) - [rust-semverver](https://github.com/rust-lang-nursery/rust-semverver), an as-of-yet buggy, but already useful semantic versioning (semver) checking tool.
-- ([twir220](https://this-week-in-rust.org/blog/2018/02/06/this-week-in-rust-220/)) - [datafusion](https://www.datafusion.rs/), a query planner/execution framework for Big Data processing.
-- ([twir222](https://this-week-in-rust.org/blog/2018/02/20/this-week-in-rust-222/)) - [afl.rs](https://github.com/rust-fuzz/afl.rs), a by now pretty well-known fuzzing tool for Rust.
-- ([twir223](https://this-week-in-rust.org/blog/2018/02/27/this-week-in-rust-223/)) - [fselect](https://github.com/jhspetersson/fselect), a crate to find files by SQL-like queries.
-- ([twir224](https://this-week-in-rust.org/blog/2018/03/06/this-week-in-rust-224/)) - [trace](https://github.com/gsingh93/trace), a crate to allow for quick debug outputs without `println!`.
-- ([twir225](https://this-week-in-rust.org/blog/2018/03/13/this-week-in-rust-225/)) - [cursive](https://crates.io/crates/cursive), a library for easy text-user interface applications.
-- ([twir226](https://this-week-in-rust.org/blog/2018/03/20/this-week-in-rust-226/)) - [noisy_float](https://crates.io/crates/noisy_float), a crate with surprisingly useful floating point types that would rather panic than be Not a Number.
-- ([twir227](https://this-week-in-rust.org/blog/2018/03/27/this-week-in-rust-227/)) - [fui](https://crates.io/crates/fui), a crate to add both a command-line interface and text forms to your program.
-- ([twir228](https://this-week-in-rust.org/blog/2018/04/03/this-week-in-rust-228/)) - [ditto](https://github.com/alex-shapiro/ditto), CRDTs for common data structures like maps, vecs, sets, text, and JSON.
-- ([twir229](https://this-week-in-rust.org/blog/2018/04/10/this-week-in-rust-229/)) - [shiplift](https://crates.io/crates/shiplift), a rusty API for talking with docker daemons
-- ([twir230](https://this-week-in-rust.org/blog/2018/04/17/this-week-in-rust-230/)) - [rain](https://github.com/substantic/rain), a framework for large-scale distributed computations.
-- ([twir231](https://this-week-in-rust.org/blog/2018/04/24/this-week-in-rust-231/)) - [human-panic](https://crates.io/crates/human-panic), a crate to make Rust's error handling usable to end users.
-- ([twir232](https://this-week-in-rust.org/blog/2018/05/01/this-week-in-rust-232/)) - [imgref](https://github.com/kornelski/imgref),  a trivial Rust struct for interchange of pixel buffers with width, height and stride.
-- ([twir233](https://this-week-in-rust.org/blog/2018/05/08/this-week-in-rust-233/)) - [semverver](https://crates.io/crates/semverver), a currently nightly-only cargo subcommand to detect semver violations.
-- ([twir234](https://this-week-in-rust.org/blog/2018/05/15/this-week-in-rust-234/)) - [askama](https://crates.io/crates/askama), a Jinja-like type-safe compiled templating engine.
-- ([twir235](https://this-week-in-rust.org/blog/2018/05/22/this-week-in-rust-235/)) - [thunder](https://crates.io/crates/thunder), a crate for creating simple command-line programs.
-- ([twir236](https://this-week-in-rust.org/blog/2018/05/29/this-week-in-rust-236/)) - [syntect](https://crates.io/crates/syntect), a library for syntax highlighting using Sublime Text syntax definitions.
-- ([twir237](https://this-week-in-rust.org/blog/2018/06/05/this-week-in-rust-237/)) - [im](https://docs.rs/im), a library for immutable data structures in Rust.
-- ([twir238](https://this-week-in-rust.org/blog/2018/06/12/this-week-in-rust-238/)) - [clap-verbosity-flag](https://crates.io/crates/clap-verbosity-flag), a small crate to easily add a verbosity setting to Rust command line applications.
-- ([twir239](https://this-week-in-rust.org/blog/2018/06/19/this-week-in-rust-239/)) - [SIMDNoise](https://crates.io/crates/simdnoise), a crate to use modern CPU vector instructions to generate various types of noise really fast.
-- ([twir240](https://this-week-in-rust.org/blog/2018/06/26/this-week-in-rust-240/)) - [mutagen](https://github.com/llogiq/mutagen), a mutation testing framework for Rust.
-- ([twir241](https://this-week-in-rust.org/blog/2018/07/03/this-week-in-rust-241/)) - [datafrog](https://crates.io/crates/datafrog), the lightweight embeddable datalog engine that powers Rust's non-lexical lifetimes (NLL).
-- ([twir242](https://this-week-in-rust.org/blog/2018/07/10/this-week-in-rust-242/)) - [cargo-geiger](https://github.com/anderejd/cargo-geiger), which detects usage of unsafe Rust in your project and its dependencies.
-- ([twir243](https://this-week-in-rust.org/blog/2018/07/17/this-week-in-rust-243/)) - [paste](https://github.com/jkcclemens/paste), a self-hosted pastebin made of a lot of Rust and a little Ruby.
-- ([twir244](https://this-week-in-rust.org/blog/2018/07/24/this-week-in-rust-244/)) - [rav1e](https://github.com/xiph/rav1e), the fastest and safest AV1 encoder from Xiph.Org Foundation
-- ([twir245](https://this-week-in-rust.org/blog/2018/07/31/this-week-in-rust-245/)) - [Taizen](https://github.com/NerdyPepper/taizen), a wikipedia browser for your terminal.
-- ([twir246](https://this-week-in-rust.org/blog/2018/08/07/this-week-in-rust-246/)) - [warp](https://github.com/seanmonstar/warp), a fast, composable web framework.
-- ([twir247](https://this-week-in-rust.org/blog/2018/08/14/this-week-in-rust-247/)) - [macro_railroad](https://github.com/lukaslueg/macro_railroad), a library to create neat syntax diagrams for macro_rules! declarative macros.
-- ([twir248](https://this-week-in-rust.org/blog/2018/08/21/this-week-in-rust-248/)) - [wasm-bindgen-futures](https://crates.io/crates/wasm-bindgen-futures), a crate to make ECMAScript promises and Rust futures interoperate.
-- ([twir249](https://this-week-in-rust.org/blog/2018/08/28/this-week-in-rust-249/)) - [generational-arena](https://github.com/fitzgen/generational-arena), a safe arena allocator that allows deletion without suffering from the ABA problem by using generational indices.
-- ([twir250](https://this-week-in-rust.org/blog/2018/09/04/this-week-in-rust-250/)) - [cgroups](https://crates.io/crates/cgroups), a native Rust library for managing control groups under Linux.
-- ([twir251](https://this-week-in-rust.org/blog/2018/09/11/this-week-in-rust-251/)) - [cargo-src](https://crates.io/crates/cargo-src), a Rust source browser with syntax highlighting, jump to def, smart search and much more.
-- ([twir252](https://this-week-in-rust.org/blog/2018/09/18/this-week-in-rust-252/)) - [mtpng](https://github.com/brion/mtpng), a paralllized PNG encoder.
-- ([twir253](https://this-week-in-rust.org/blog/2018/09/25/this-week-in-rust-253/)) - [packed_simd](https://github.com/rust-lang-nursery/packed_simd), a crate with portable SIMD vector types 
-- ([twir254](https://this-week-in-rust.org/blog/2018/10/02/this-week-in-rust-254/)) - [evcxr](https://github.com/google/evcxr), a Rust REPL and Rust Jupyter Kernel.
-- ([twir255](https://this-week-in-rust.org/blog/2018/10/09/this-week-in-rust-255/)) - [pest](https://pest.rs/), Parsing Expression Grammar-based parser library.
-- ([twir256](https://this-week-in-rust.org/blog/2018/10/16/this-week-in-rust-256/)) - [noria](https://crates.io/crates/noria), a new streaming data-flow system designed to act as a fast storage backend for read-heavy web applications.
-- ([twir257](https://this-week-in-rust.org/blog/2018/10/23/this-week-in-rust-257/)) - [static-assertions](https://docs.rs/static_assertions), a crate that does what it says on the tin – allow you to write static assertions.
-- ([twir258](https://this-week-in-rust.org/blog/2018/10/30/this-week-in-rust-258/)) - [dutree](https://github.com/nachoparker/dutree), a command line tool that produces a colorful tree view of your disk usage.
-- ([twir259](https://this-week-in-rust.org/blog/2018/11/06/this-week-in-rust-259/)) - [parse_wiki_text](https://crates.io/crates/parse_wiki_text), a crate to parse MediaWiki entries into a tree of elements.
-- ([twir260](https://this-week-in-rust.org/blog/2018/11/13/this-week-in-rust-260/)) - [cargo-nono](https://github.com/hobofan/cargo-nono), a cargo subcommand to check a crate's dependencies for no-std compatibility.
-- ([twir261](https://this-week-in-rust.org/blog/2018/11/20/this-week-in-rust-261/)) - [cargo-sweep](https://github.com/holmgr/cargo-sweep), a cargo subcommand to clean cargo's various temporaries.
-- ([twir262](https://this-week-in-rust.org/blog/2018/11/27/this-week-in-rust-262/)) - [modulator](https://crates.io/crates/modulator), a crate of abstract modulators for use in audio synthesizers (and possibly elsewhere).
-- ([twir263](https://this-week-in-rust.org/blog/2018/12/04/this-week-in-rust-263/)) - [cargo-call-stack](https://github.com/japaric/cargo-call-stack), a cargo subcommand for whole-program call stack analysis
-- ([twir264](https://this-week-in-rust.org/blog/2018/12/11/this-week-in-rust-264/)) - [lsd](https://github.com/Peltoche/lsd), a colorful and fast `ls` replacement.
-- ([twir265](https://this-week-in-rust.org/blog/2018/12/18/this-week-in-rust-265/)) - [yasered](https://github.com/media-io/yaserde), a specialized (de)serialisation crate compatible with serde
 - ([twir266](https://this-week-in-rust.org/blog/2018/12/25/this-week-in-rust-266/)) - [sandspiel](https://sandspiel.club/), a WASM-powered online sandbox automaton game.
+- ([twir265](https://this-week-in-rust.org/blog/2018/12/18/this-week-in-rust-265/)) - [yasered](https://github.com/media-io/yaserde), a specialized (de)serialisation crate compatible with serde
+- ([twir264](https://this-week-in-rust.org/blog/2018/12/11/this-week-in-rust-264/)) - [lsd](https://github.com/Peltoche/lsd), a colorful and fast `ls` replacement.
+- ([twir263](https://this-week-in-rust.org/blog/2018/12/04/this-week-in-rust-263/)) - [cargo-call-stack](https://github.com/japaric/cargo-call-stack), a cargo subcommand for whole-program call stack analysis
+- ([twir262](https://this-week-in-rust.org/blog/2018/11/27/this-week-in-rust-262/)) - [modulator](https://crates.io/crates/modulator), a crate of abstract modulators for use in audio synthesizers (and possibly elsewhere).
+- ([twir261](https://this-week-in-rust.org/blog/2018/11/20/this-week-in-rust-261/)) - [cargo-sweep](https://github.com/holmgr/cargo-sweep), a cargo subcommand to clean cargo's various temporaries.
+- ([twir260](https://this-week-in-rust.org/blog/2018/11/13/this-week-in-rust-260/)) - [cargo-nono](https://github.com/hobofan/cargo-nono), a cargo subcommand to check a crate's dependencies for no-std compatibility.
+- ([twir259](https://this-week-in-rust.org/blog/2018/11/06/this-week-in-rust-259/)) - [parse_wiki_text](https://crates.io/crates/parse_wiki_text), a crate to parse MediaWiki entries into a tree of elements.
+- ([twir258](https://this-week-in-rust.org/blog/2018/10/30/this-week-in-rust-258/)) - [dutree](https://github.com/nachoparker/dutree), a command line tool that produces a colorful tree view of your disk usage.
+- ([twir257](https://this-week-in-rust.org/blog/2018/10/23/this-week-in-rust-257/)) - [static-assertions](https://docs.rs/static_assertions), a crate that does what it says on the tin – allow you to write static assertions.
+- ([twir256](https://this-week-in-rust.org/blog/2018/10/16/this-week-in-rust-256/)) - [noria](https://crates.io/crates/noria), a new streaming data-flow system designed to act as a fast storage backend for read-heavy web applications.
+- ([twir255](https://this-week-in-rust.org/blog/2018/10/09/this-week-in-rust-255/)) - [pest](https://pest.rs/), Parsing Expression Grammar-based parser library.
+- ([twir254](https://this-week-in-rust.org/blog/2018/10/02/this-week-in-rust-254/)) - [evcxr](https://github.com/google/evcxr), a Rust REPL and Rust Jupyter Kernel.
+- ([twir253](https://this-week-in-rust.org/blog/2018/09/25/this-week-in-rust-253/)) - [packed_simd](https://github.com/rust-lang-nursery/packed_simd), a crate with portable SIMD vector types 
+- ([twir252](https://this-week-in-rust.org/blog/2018/09/18/this-week-in-rust-252/)) - [mtpng](https://github.com/brion/mtpng), a paralllized PNG encoder.
+- ([twir251](https://this-week-in-rust.org/blog/2018/09/11/this-week-in-rust-251/)) - [cargo-src](https://crates.io/crates/cargo-src), a Rust source browser with syntax highlighting, jump to def, smart search and much more.
+- ([twir250](https://this-week-in-rust.org/blog/2018/09/04/this-week-in-rust-250/)) - [cgroups](https://crates.io/crates/cgroups), a native Rust library for managing control groups under Linux.
+- ([twir249](https://this-week-in-rust.org/blog/2018/08/28/this-week-in-rust-249/)) - [generational-arena](https://github.com/fitzgen/generational-arena), a safe arena allocator that allows deletion without suffering from the ABA problem by using generational indices.
+- ([twir248](https://this-week-in-rust.org/blog/2018/08/21/this-week-in-rust-248/)) - [wasm-bindgen-futures](https://crates.io/crates/wasm-bindgen-futures), a crate to make ECMAScript promises and Rust futures interoperate.
+- ([twir247](https://this-week-in-rust.org/blog/2018/08/14/this-week-in-rust-247/)) - [macro_railroad](https://github.com/lukaslueg/macro_railroad), a library to create neat syntax diagrams for macro_rules! declarative macros.
+- ([twir246](https://this-week-in-rust.org/blog/2018/08/07/this-week-in-rust-246/)) - [warp](https://github.com/seanmonstar/warp), a fast, composable web framework.
+- ([twir245](https://this-week-in-rust.org/blog/2018/07/31/this-week-in-rust-245/)) - [Taizen](https://github.com/NerdyPepper/taizen), a wikipedia browser for your terminal.
+- ([twir244](https://this-week-in-rust.org/blog/2018/07/24/this-week-in-rust-244/)) - [rav1e](https://github.com/xiph/rav1e), the fastest and safest AV1 encoder from Xiph.Org Foundation
+- ([twir243](https://this-week-in-rust.org/blog/2018/07/17/this-week-in-rust-243/)) - [paste](https://github.com/jkcclemens/paste), a self-hosted pastebin made of a lot of Rust and a little Ruby.
+- ([twir242](https://this-week-in-rust.org/blog/2018/07/10/this-week-in-rust-242/)) - [cargo-geiger](https://github.com/anderejd/cargo-geiger), which detects usage of unsafe Rust in your project and its dependencies.
+- ([twir241](https://this-week-in-rust.org/blog/2018/07/03/this-week-in-rust-241/)) - [datafrog](https://crates.io/crates/datafrog), the lightweight embeddable datalog engine that powers Rust's non-lexical lifetimes (NLL).
+- ([twir240](https://this-week-in-rust.org/blog/2018/06/26/this-week-in-rust-240/)) - [mutagen](https://github.com/llogiq/mutagen), a mutation testing framework for Rust.
+- ([twir239](https://this-week-in-rust.org/blog/2018/06/19/this-week-in-rust-239/)) - [SIMDNoise](https://crates.io/crates/simdnoise), a crate to use modern CPU vector instructions to generate various types of noise really fast.
+- ([twir238](https://this-week-in-rust.org/blog/2018/06/12/this-week-in-rust-238/)) - [clap-verbosity-flag](https://crates.io/crates/clap-verbosity-flag), a small crate to easily add a verbosity setting to Rust command line applications.
+- ([twir237](https://this-week-in-rust.org/blog/2018/06/05/this-week-in-rust-237/)) - [im](https://docs.rs/im), a library for immutable data structures in Rust.
+- ([twir236](https://this-week-in-rust.org/blog/2018/05/29/this-week-in-rust-236/)) - [syntect](https://crates.io/crates/syntect), a library for syntax highlighting using Sublime Text syntax definitions.
+- ([twir235](https://this-week-in-rust.org/blog/2018/05/22/this-week-in-rust-235/)) - [thunder](https://crates.io/crates/thunder), a crate for creating simple command-line programs.
+- ([twir234](https://this-week-in-rust.org/blog/2018/05/15/this-week-in-rust-234/)) - [askama](https://crates.io/crates/askama), a Jinja-like type-safe compiled templating engine.
+- ([twir233](https://this-week-in-rust.org/blog/2018/05/08/this-week-in-rust-233/)) - [semverver](https://crates.io/crates/semverver), a currently nightly-only cargo subcommand to detect semver violations.
+- ([twir232](https://this-week-in-rust.org/blog/2018/05/01/this-week-in-rust-232/)) - [imgref](https://github.com/kornelski/imgref),  a trivial Rust struct for interchange of pixel buffers with width, height and stride.
+- ([twir231](https://this-week-in-rust.org/blog/2018/04/24/this-week-in-rust-231/)) - [human-panic](https://crates.io/crates/human-panic), a crate to make Rust's error handling usable to end users.
+- ([twir230](https://this-week-in-rust.org/blog/2018/04/17/this-week-in-rust-230/)) - [rain](https://github.com/substantic/rain), a framework for large-scale distributed computations.
+- ([twir229](https://this-week-in-rust.org/blog/2018/04/10/this-week-in-rust-229/)) - [shiplift](https://crates.io/crates/shiplift), a rusty API for talking with docker daemons
+- ([twir228](https://this-week-in-rust.org/blog/2018/04/03/this-week-in-rust-228/)) - [ditto](https://github.com/alex-shapiro/ditto), CRDTs for common data structures like maps, vecs, sets, text, and JSON.
+- ([twir227](https://this-week-in-rust.org/blog/2018/03/27/this-week-in-rust-227/)) - [fui](https://crates.io/crates/fui), a crate to add both a command-line interface and text forms to your program.
+- ([twir226](https://this-week-in-rust.org/blog/2018/03/20/this-week-in-rust-226/)) - [noisy_float](https://crates.io/crates/noisy_float), a crate with surprisingly useful floating point types that would rather panic than be Not a Number.
+- ([twir225](https://this-week-in-rust.org/blog/2018/03/13/this-week-in-rust-225/)) - [cursive](https://crates.io/crates/cursive), a library for easy text-user interface applications.
+- ([twir224](https://this-week-in-rust.org/blog/2018/03/06/this-week-in-rust-224/)) - [trace](https://github.com/gsingh93/trace), a crate to allow for quick debug outputs without `println!`.
+- ([twir223](https://this-week-in-rust.org/blog/2018/02/27/this-week-in-rust-223/)) - [fselect](https://github.com/jhspetersson/fselect), a crate to find files by SQL-like queries.
+- ([twir222](https://this-week-in-rust.org/blog/2018/02/20/this-week-in-rust-222/)) - [afl.rs](https://github.com/rust-fuzz/afl.rs), a by now pretty well-known fuzzing tool for Rust.
+- ([twir220](https://this-week-in-rust.org/blog/2018/02/06/this-week-in-rust-220/)) - [datafusion](https://www.datafusion.rs/), a query planner/execution framework for Big Data processing.
+- ([twir219](https://this-week-in-rust.org/blog/2018/01/30/this-week-in-rust-219/)) - [rust-semverver](https://github.com/rust-lang-nursery/rust-semverver), an as-of-yet buggy, but already useful semantic versioning (semver) checking tool.
+- ([twir218](https://this-week-in-rust.org/blog/2018/01/23/this-week-in-rust-218/)) - [actix-web](https://github.com/actix/actix-web), a small fast pragmatic open-source Rust web framework.
+- ([twir217](https://this-week-in-rust.org/blog/2018/01/16/this-week-in-rust-217/)) - [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat), a cargo subcommand to find out how much space crates/functions take up in an executable.
+- ([twir216](https://this-week-in-rust.org/blog/2018/01/09/this-week-in-rust-216/)) - [artifact](https://github.com/vitiral/artifact), a design documentation tool.
+- ([twir215](https://this-week-in-rust.org/blog/2018/01/02/this-week-in-rust-215/)) - [YEW](https://github.com/DenisKolodin/yew), a framework for making Elm/React/Angular-like client web-apps with Rust.
 
-## 2019
-- ([twir267](https://this-week-in-rust.org/blog/2019/01/01/this-week-in-rust-267/)) - [Dose Response](https://tryjumping.itch.io/dose-response), an online-playable tonguelike game with a probably bleak outcome.
-- ([twir268](https://this-week-in-rust.org/blog/2019/01/08/this-week-in-rust-268/)) - [gfx-hal](https://crates.io/crates/gfx-hal), a hardware abstraction for fox-rs.
-- ([twir269](https://this-week-in-rust.org/blog/2019/01/15/this-week-in-rust-269/)) - [ropey](https://github.com/cessen/ropey), an editable text buffer data structure.
-- ([twir270](https://this-week-in-rust.org/blog/2019/01/22/this-week-in-rust-270/)) - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer), an experimental Rust compiler frontend for IDEs.
-- ([twir271](https://this-week-in-rust.org/blog/2019/01/29/this-week-in-rust-271/)) - [typetag](https://github.com/dtolnay/typetag), a small crate to allow serde trait objects.
-- ([twir272](https://this-week-in-rust.org/blog/2019/02/05/this-week-in-rust-272/)) - [log-derive](https://github.com/guillaumeGomez/sysinfo), a procedural macro to log function outputs.
-- ([twir273](https://this-week-in-rust.org/blog/2019/02/12/this-week-in-rust-273/)) - [sysinfo](https://github.com/guillaumeGomez/sysinfo), a system handler to get information and interact with processes.
-- ([twir274](https://this-week-in-rust.org/blog/2019/02/19/this-week-in-rust-274/)) - [num-format](https://github.com/bcmyers/num-format), a crate to format numbers to international standards.
-- ([twir275](https://this-week-in-rust.org/blog/2019/02/26/this-week-in-rust-275/)) - [shellfn](https://crates.io/crates/shellfn), a proc macro to easily and safely use shell scripts in Rust.
-- ([twir276](https://this-week-in-rust.org/blog/2019/03/05/this-week-in-rust-276/)) - [multi_try](https://github.com/JoshMcguigan/multi_try),  a crate to simplify working with multiple results.
-- ([twir277](https://this-week-in-rust.org/blog/2019/03/12/this-week-in-rust-277/)) - [validator](https://github.com/Keats/validator), a crate offering simple validation for Rust structs.
-- ([twir278](https://this-week-in-rust.org/blog/2019/03/19/this-week-in-rust-278/)) - [copyless](https://crates.io/crates/copyless), a crate to extend boxes and vets to operate on values while avoiding `memcpy`s.
-- ([twir279](https://this-week-in-rust.org/blog/2019/03/26/this-week-in-rust-279/)) - [safety-guard](https://gitlab.com/tdiekmann/safety-guard), a crate providing a `#[safety]` attribute that generates both a doc entry and a debug assertion.
-- ([twir280](https://this-week-in-rust.org/blog/2019/04/02/this-week-in-rust-280/)) - [sonic](https://github.com/valeriansaliou/sonic), a fast, lightweight & schema-less search backend.
-- ([twir281](https://this-week-in-rust.org/blog/2019/04/09/this-week-in-rust-281/)) - [interact](https://github.com/interact-rs/interact), a framework for online introspection of the running program state.
-- ([twir282](https://this-week-in-rust.org/blog/2019/04/16/this-week-in-rust-282/)) - [send-fd](https://github.com/Standard-Cognition/sendfd), a simple way to send file descriptors over UNIX sockets.
-- ([twir283](https://this-week-in-rust.org/blog/2019/04/23/this-week-in-rust-283/)) - [color-backtrace](https://github.com/athre0z/color-backtrace), a crate to give panic backtraces more information (and some color, too).
-- ([twir284](https://this-week-in-rust.org/blog/2019/04/30/this-week-in-rust-284/)) - [cast-rs](https://github.com/japaric/cast.rs), a crate with ergonomic, checked cast functions for primitive types.
-- ([twir285](https://this-week-in-rust.org/blog/2019/05/07/this-week-in-rust-285/)) - [select-rustc](https://crates.io/crates/select-rustc), a crate for conditional compilation according to rust version.
-- ([twir286](https://this-week-in-rust.org/blog/2019/05/14/this-week-in-rust-286/)) - [panic_never](https://github.com/japaric/panic-never), a crate to make every panic a link-time error.
-- ([twir287](https://this-week-in-rust.org/blog/2019/05/21/this-week-in-rust-287/)) -  [memory-profiler](https://github.com/nokia/memory-profiler), does what it says on the box. [momo](https://github.com/llogiq/momo) is a procedural macro that outlines generic conversions to reduce monomorphized code. 
-- ([twir288](https://this-week-in-rust.org/blog/2019/05/28/this-week-in-rust-288/)) -  [mockiato](https://github.com/myelin-ai/mockiato), a strict yet friendly mocking library for Rust 2018.
-- ([twir289](https://this-week-in-rust.org/blog/2019/06/04/this-week-in-rust-289/)) - [emu](https://github.com/calebwin/emu), a Rust-based language for programming GPUs.
-- ([twir290](https://this-week-in-rust.org/blog/2019/06/11/this-week-in-rust-290/)) - [uom](https://crates.io/crates/uom), units of measurement, a crate that does automatic type-safe zero-cost dimensional analysis.
+## 2017
+- ([twir214](https://this-week-in-rust.org/blog/2017/12/26/this-week-in-rust-214/)) - [crossbeam-channel](https://crates.io/crates/crossbeam-channel), a crate that improves multi-producer multi-consumer channels compared to what the standard library offers.
+- ([twir213](https://this-week-in-rust.org/blog/2017/12/19/this-week-in-rust-213/)) - [cargo-audit](https://crates.io/crates/cargo-audit), a cargo subcommand to look through a crates dependencies for known insecure versions.
+- ([twir212](https://this-week-in-rust.org/blog/2017/12/12/this-week-in-rust-212/)) - [printpdf](https://crates.io/crates/printpdf), a pure Rust PDF-writing library that already has a lot of features (though I note a lot of bool-taking methods).
+- ([twir210](https://this-week-in-rust.org/blog/2017/11/28/this-week-in-rust-210/)) - [faster](https://github.com/AdamNiederer/faster), a crate for zero-overhead, cross-platform, beautiful explicit SIMD code.
+- ([twir209](https://this-week-in-rust.org/blog/2017/11/21/this-week-in-rust-209/)) - [ammonia](https://crates.io/crates/ammonia), a crate for sanitizing HTML to prevent cross-site scripting (XSS), layout breaking and clickjacking.
+- ([twir208](https://this-week-in-rust.org/blog/2017/11/14/this-week-in-rust-208/)) - [failure](https://github.com/withoutboats/failure), a crate to deal with... you guessed it, failure.
+- ([twir207](https://this-week-in-rust.org/blog/2017/11/07/this-week-in-rust-207/)) - [futures-await](https://crates.io/crates/futures-await), a crate to simplify writing futures-based async code.
+- ([twir206](https://this-week-in-rust.org/blog/2017/10/31/this-week-in-rust-206/)) - [cargo-outdate](https://crates.io/crates/cargo-outdated), a cargo subcommand that shows outdated dependencies including latest compatible and latest version.
+- ([twir205](https://this-week-in-rust.org/blog/2017/10/24/this-week-in-rust-205/)) - [colored](https://crates.io/crates/colored), a UNIX-based terminal color crate.
+- ([twir204](https://this-week-in-rust.org/blog/2017/10/17/this-week-in-rust-204/)) - [if_chain](https://crates.io/crates/if_chain), a macro that helps combat rightwards drift where code nests many ifs and if lets. Since the latter cannot be contracted with &&, this can be really helpful to make code more readable.
+- ([twir203](https://this-week-in-rust.org/blog/2017/10/10/this-week-in-rust-203/)) - [abrute](https://crates.io/crates/abrute), a crate to brute-force AES keys.
+- ([twir201](https://this-week-in-rust.org/blog/2017/09/26/this-week-in-rust-201/)) - [rustbreak](https://crates.io/crates/rustbreak), a crate providing simple single-file storage to e.g. persist settings.
+- ([twir200](https://this-week-in-rust.org/blog/2017/09/19/this-week-in-rust-200/)) - [rug](https://crates.io/crates/rug), a crate providing arbitrary-precision integers, rationals and floating-point numbers, using GMP, MPFR and MPC.
+- ([twir199](https://this-week-in-rust.org/blog/2017/09/12/this-week-in-rust-199/)) - [pikkr](https://github.com/pikkr/pikkr), a JSON parser that can extract values without tokenization and is blazingly fast using AVX2 instructions.
+- ([twir198](https://this-week-in-rust.org/blog/2017/09/05/this-week-in-rust-198/)) - [brain](https://crates.io/crates/brain), a programming language transpiler to brainfuck of all things.
+- ([twir196](https://this-week-in-rust.org/blog/2017/08/22/this-week-in-rust-196/)) - [pest](https://crates.io/crates/pest), a PEG-based parsing library.
+- ([twir195](https://this-week-in-rust.org/blog/2017/08/15/this-week-in-rust-195/)) - [exa](https://the.exa.website/), a modern ls replacement (with a tree thrown in as well) written in Rust.
+- ([twir194](https://this-week-in-rust.org/blog/2017/08/08/this-week-in-rust-194/)) - [aesni](https://crates.io/crates/aesni), a crate providing a Rust AES (Rijndael) block ciphers implementation using AES-NI.
+- ([twir193](https://this-week-in-rust.org/blog/2017/08/01/this-week-in-rust-193/)) - [tarpaulin](https://crates.io/crates/cargo-tarpaulin), a crate to collect test coverage of your Rust code.
+- ([twir192](https://this-week-in-rust.org/blog/2017/07/25/this-week-in-rust-192/)) - [cute](https://crates.io/crates/cute), a crate containing a macro to allow Python (or Haskell) style comprehensions (e.g. `c![x / 2, for x in 0..10, if (x & 1) == 0]`).
+- ([twir191](https://this-week-in-rust.org/blog/2017/07/18/this-week-in-rust-191/)) - [extfsm](https://crates.io/crates/extfsm), a crate to help build finite state machines.
+- ([twir189](https://this-week-in-rust.org/blog/2017/07/04/this-week-in-rust-189/)) - [cargo-make](https://crates.io/crates/cargo-make), a crate that helps you automate your build workflow beyond what cargo already offers.
+- ([twir188](https://this-week-in-rust.org/blog/2017/06/27/this-week-in-rust-188/)) - [strum](https://crates.io/crates/strum), a crate that allows you to derive stringify and parse operations for your enums.
+- ([twir187](https://this-week-in-rust.org/blog/2017/06/20/this-week-in-rust-187/)) - [include_dir](https://crates.io/crates/include_dir), a crate that lets you include entire directory contents in your binary – like include_str!, but on steroids.
+- ([twir186](https://this-week-in-rust.org/blog/2017/06/13/this-week-in-rust-186/)) - [structop](https://crates.io/crates/structopt),  crate that lets your auto-derive your command-line options from a struct to parse them into.
+- ([twir185](https://this-week-in-rust.org/blog/2017/06/06/this-week-in-rust-185/)) - [array_tool](https://crates.io/crates/array_tool), a crate with some nice extra functionality for Vecs and Strings.
+- ([twir182](https://this-week-in-rust.org/blog/2017/05/16/this-week-in-rust-182/)) - [PX8](https://github.com/Gigoteur/PX8), a Rust implementation of an Open Source fantasy console.
+- ([twir181](https://this-week-in-rust.org/blog/2017/05/09/this-week-in-rust-181/)) - [remove_dir_all](https://crates.io/crates/remove_dir_all/), a safe, reliable implementation of `remove_dir_all` for Windows.
+- ([twir180](https://this-week-in-rust.org/blog/2017/05/02/this-week-in-rust-180/)) - [indicatif](https://crates.io/crates/indicatif), a crate to show nice progress bars on the console.
+- ([twir179](https://this-week-in-rust.org/blog/2017/04/25/this-week-in-rust-179/)) - [pq](https://crates.io/crates/pq), a crate to generically decode protobuf messages.
+- ([twir177](https://this-week-in-rust.org/blog/2017/04/11/this-week-in-rust-177/)) - [rust-skeptic](https://github.com/brson/rust-skeptic), a cargo subcommand to doctest your README.md
+- ([twir176](https://this-week-in-rust.org/blog/2017/04/04/this-week-in-rust-176/)) - [fst](https://github.com/BurntSushi/fst), contains Finite State Transducers and assorted algorithms that use them (e.g. fuzzy text search).
+- ([twir175](https://this-week-in-rust.org/blog/2017/03/28/this-week-in-rust-175/)) - [rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions), replaces the standard ones to make them shiny.
+- ([twir173](https://this-week-in-rust.org/blog/2017/03/14/this-week-in-rust-173/)) - [utest](https://github.com/japaric/utest), a testing framework for embedded software.
+- ([twir172](https://this-week-in-rust.org/blog/2017/03/07/this-week-in-rust-172/)) - [cargo-fuzz](https://crates.io/crates/cargo-fuzz), a cargo subcommand to run libfuzz on your code.
+- ([twir171](https://this-week-in-rust.org/blog/2017/02/28/this-week-in-rust-171/)) - [nalgebra](https://crates.io/crates/nalgebra), a linear algebra library in and for Rust.
+- ([twir170](https://this-week-in-rust.org/blog/2017/02/21/this-week-in-rust-170/)) - [CDRS](https://crates.io/crates/cdrs), a client for Apache Cassandra written completely in Rust.
+- ([twir169](https://this-week-in-rust.org/blog/2017/02/14/this-week-in-rust-169/)) - [derive_builder](https://crates.io/crates/derive_builder), automatically implement the builder pattern for arbitrary structs. Now with macro 1.1 support (custom derive since Rust 1.15).
+- ([twir168](https://this-week-in-rust.org/blog/2017/02/07/this-week-in-rust-168/)) - [djangohashers](https://crates.io/crates/djangohashers), a Rust port of Django's password primitives. 
+- ([twir167](https://this-week-in-rust.org/blog/2017/01/31/this-week-in-rust-167/)) - [tantivy](https://crates.io/crates/tantivy), a full text search engine, akin to Lucene.
+- ([twir165](https://this-week-in-rust.org/blog/2017/01/17/this-week-in-rust-165/)) - [alacritty](https://github.com/jwilm/alacritty), an OpenGL-propelled Terminal application. Really fast, nice looking. Missing scrollback.
+- ([twir164](https://this-week-in-rust.org/blog/2017/01/10/this-week-in-rust-164/)) - [trust](https://github.com/japaric/trust), a Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows.
+- ([twir163](https://this-week-in-rust.org/blog/2017/01/03/this-week-in-rust-163/)) - [rocket](https://crates.io/crates/rocket), an experimental web framework (will need a nightly Rust!) with a focus on ease-of-use, expressability and speed.
+
+## 2016
+- ([twir162](https://this-week-in-rust.org/blog/2016/12/27/this-week-in-rust-162/)) - [raster](https://github.com/kosinix/raster), an image processing library.
+- ([twir161](https://this-week-in-rust.org/blog/2016/12/20/this-week-in-rust-161/)) - [ruru](https://github.com/d-unseductable/ruru), a wrapper around Ruby's C-API.
+- ([twir159](https://this-week-in-rust.org/blog/2016/12/06/this-week-in-rust-159/)) - [seahash](https://crates.io/crates/seahash), a statistically well-tested fast hash.
+- ([twir157](https://this-week-in-rust.org/blog/2016/11/22/this-week-in-rust-157/)) - [cargo-benchcmp](https://github.com/BurntSushi/cargo-benchcmp), generates nice before-after summaries for benchmarks.
+- ([twir154](https://this-week-in-rust.org/blog/2016/11/01/this-week-in-rust-154/)) - [app_dirs](https://github.com/AndyBarron/app-dirs-rs), lets you put your app's data in the right place on every platform.
+- ([twir152](https://this-week-in-rust.org/blog/2016/10/18/this-week-in-rust-152/)) - [xargo](https://github.com/japaric/xargo), for effortless cross compilation of Rust programs to custom bare-metal targets like ARM Cortex-M.
+- ([twir149](https://this-week-in-rust.org/blog/2016/09/27/this-week-in-rust-149/)) - [ripgrep](https://crates.io/crates/ripgrep), a grep/ag/pt/whatever search tool you use replacement that absolutely smokes the competition in most performance tests.
+- ([twir148](https://this-week-in-rust.org/blog/2016/09/20/this-week-in-rust-148/)) - [mysql-proxy](https://crates.io/crates/mysql-proxy), a flexible, lightweight and scalable proxy for MySQL databases.
+- ([twir147](https://this-week-in-rust.org/blog/2016/09/13/this-week-in-rust-147/)) - [tokio](https://github.com/tokio-rs/tokio), a high-level asynchronous IO library based on futures.
+- ([twir146](https://this-week-in-rust.org/blog/2016/09/06/this-week-in-rust-146/)) - [accurate](https://github.com/bsteinb/accurate/), a way to do accurate floating point sums. 
+- ([twir145](https://this-week-in-rust.org/blog/2016/08/30/this-week-in-rust-145/)) - [ring](https://crates.io/crates/ring), a crypto implementation.
+- ([twir143](https://this-week-in-rust.org/blog/2016/08/16/this-week-in-rust-143/)) - [font-rs](https://github.com/google/font-rs), yet another pure Rust font renderer, which is incomplete, but very fast.
+- ([twir142](https://this-week-in-rust.org/blog/2016/08/09/this-week-in-rust-142/)) - [rusttype](https://crates.io/crates/rusttype), a pure Rust freetype replacement.
+- ([twir141](https://this-week-in-rust.org/blog/2016/08/02/this-week-in-rust-141/)) - [lru_time_cache](https://crates.io/crates/lru_time_cache), a simple but complete least-recently-used cache implementation.
+- ([twir140](https://this-week-in-rust.org/blog/2016/07/26/this-week-in-rust-140/)) - [trace](https://crates.io/crates/trace), a syntax extension to insert `print!` statements to functions to help trace execution. 
+- ([twir139](https://this-week-in-rust.org/blog/2016/07/19/this-week-in-rust-139/)) - [cargo-modules](https://crates.io/crates/cargo-modules), gives us the `cargo modules` subcommand that shows the module structure of our crates in a tree view, optionally warning of orphans.
+- ([twir137](https://this-week-in-rust.org/blog/2016/07/05/this-week-in-rust-137/)) - [reustmann](https://crates.io/crates/reustmann), a Von-Neumann Architecture written in Rust. This is presumably useful as a base substrate to train genetic algorithms on.
+- ([twir136](https://this-week-in-rust.org/blog/2016/06/27/this-week-in-rust-136/)) - [bins](https://crates.io/crates/bins), let's us programmatically create pastebins. 
+- ([twir135](https://this-week-in-rust.org/blog/2016/06/20/this-week-in-rust-135/)) - [error-chain](https://crates.io/crates/error-chain), feels like the missing piece in Rust's Result-based error-handling puzzle.
+- ([twir134](https://this-week-in-rust.org/blog/2016/06/13/this-week-in-rust-134/)) - [petgraph](https://crates.io/crates/petgraph), provides graph structures and algorithms. 
+- ([twir133](https://this-week-in-rust.org/blog/2016/06/06/this-week-in-rust-133/)) - [pbr](https://crates.io/crates/pbr), gives us a simple way to set up a progress bar for our applications.
+- ([twir131](https://this-week-in-rust.org/blog/2016/05/23/this-week-in-rust-131/)) - [parking-lot](https://crates.io/crates/parking_lot), gives us synchronization primitives (Mutex, RWLock, CondVar and friends) that are both smaller and faster than the standard library's implementations.
+- ([twir130](https://this-week-in-rust.org/blog/2016/05/16/this-week-in-rust-130/)) - [cargo-profiler](https://github.com/pegasos1/cargo-profiler), lets us profile our code directly from cargo using a variety of tools, notably valgrind's callgrind and cachegrind. 
+- ([twir129](https://this-week-in-rust.org/blog/2016/05/09/this-week-in-rust-129/)) - [semantic-rs](https://github.com/semantic-rs/semantic-rs),  lets us update our project from the commandline ensuring semver compliance on the way. 
+- ([twir128](https://this-week-in-rust.org/blog/2016/05/02/this-week-in-rust-128/)) - [arrayvec](https://crates.io/crates/arrayvec), gives us a Vec-like interface over plain arrays for those instances where you don't want the indirection. 
+- ([twir127](https://this-week-in-rust.org/blog/2016/04/25/these-weeks-in-rust-127/)) - [owning_ref](https://crates.io/crates/owning_ref), contains a reference type that can carry its owner with it.
+- ([twir126](https://this-week-in-rust.org/blog/2016/04/11/this-week-in-rust-126/)) - [gcc](https://crates.io/crates/gcc), a crate to easily use the local C compiler, which makes FFI with a build script a breeze.
+- ([twir125](https://this-week-in-rust.org/blog/2016/04/04/this-week-in-rust-125/)) - [rustful](https://crates.io/crates/rustful), a simple, modular REST-like HTTP framework. 
+- ([twir124](https://this-week-in-rust.org/blog/2016/03/28/this-week-in-rust-124/)) - [gfx](https://crates.io/crates/gfx), a crate to show stuff on a screen on most available platforms that have one. 
+- ([twir123](https://this-week-in-rust.org/blog/2016/03/21/this-week-in-rust-123/)) - [tempfile](https://crates.io/crates/tempfile), a crate that does exactly what it says on the tin. 
+- ([twir122](https://this-week-in-rust.org/blog/2016/03/14/this-week-in-rust-122/)) - [LALRPOP](https://crates.io/crates/lalrpop), a LR(1) parser generator that compiles to Rust code.
+- ([twir121](https://this-week-in-rust.org/blog/2016/03/07/this-week-in-rust-121/)) - [preferences](https://crates.io/crates/preferences), which does the right thing to your program's preferences on all common operating systems.
+- ([twir120](https://this-week-in-rust.org/blog/2016/02/29/this-week-in-rust-120/)) - [rotor](https://crates.io/crates/rotor), a [mio](https://crates.io/crates/mio)-based async-IO library providing an event loop, state machine combinators and futures.
+- ([twir119](https://this-week-in-rust.org/blog/2016/02/22/this-week-in-rust-119/)) - [diesel](http://diesel.rs/), a rustic typesafe extensible object-relational mapper and query builder.
+- ([twir118](https://this-week-in-rust.org/blog/2016/02/15/this-week-in-rust-118/)) - [rayon](https://crates.io/crates/rayon), gives us `par_iter()/par_iter_mut()` functions that use an internal thread pool to easily parallelize data-parallel operations. There's also `rayon::join(|| .., || ..)` for Fork-Join-style tasks. Apart from the ease of use, it also performs very well, comparable to hand-optimized code.
+- ([twir117](https://this-week-in-rust.org/blog/2016/02/08/this-week-in-rust-117/)) - [roaring](https://crates.io/crates/roaring), the Rust version of Prof. D. Lemire's compressed bitmap data structure. 
+- ([twir116](https://this-week-in-rust.org/blog/2016/02/01/this-week-in-rust-116/)) - [herbie-lint](https://crates.io/crates/herbie-lint), a miraculous compiler plugin to check the numerical stability of floating-point operations in the code.
+- ([twir115](https://this-week-in-rust.org/blog/2016/01/25/this-week-in-rust-115/)) - [racer](https://github.com/phildawes/racer), powers code completion in all Rust development environments.
+- ([twir114](https://this-week-in-rust.org/blog/2016/01/18/this-week-in-rust-114/)) - [toml](https://github.com/alexcrichton/toml-rs), for all our configuration needs, simple yet effective.
+- ([twir113](https://this-week-in-rust.org/blog/2016/01/11/this-week-in-rust-113/)) - [crossbeam](https://crates.io/crates/crossbeam), a library of non-blocking data structures and synchronization primitives that makes writing concurrent programs easier and more efficient (both in terms of code and runtime).
+- ([twir112](https://this-week-in-rust.org/blog/2016/01/04/this-week-in-rust-112/)) - [rustfmt](https://crates.io/crates/rustfmt/), because it's nice to Rust with style.
+
+## 2015
+- ([twir111](https://this-week-in-rust.org/blog/2015/12/28/this-week-in-rust-111/)) - [handlebars-rust](https://github.com/sunng87/handlebars-rust), an implementation of the Handlebars templating language for Rust. It also allows custom helpers and template inheritance for real-world usage.
+- ([twir110](https://this-week-in-rust.org/blog/2015/12/21/this-week-in-rust-110/)) - [clippy](https://github.com/Manishearth/rust-clippy), a collection of lints for better Rust code.
+- ([twir109](https://this-week-in-rust.org/blog/2015/12/14/this-week-in-rust-109/)) - [quick-error](https://github.com/tailhook/quick-error), a rust-macro which makes errors easy to write.
+- ([twir108](https://this-week-in-rust.org/blog/2015/12/07/this-week-in-rust-108/)) - [cargo-count](https://github.com/kbknapp/cargo-count), a neat way to summarize line counts for cargo projects.
+- ([twir107](https://this-week-in-rust.org/blog/2015/11/30/this-week-in-rust-107/)) - [chrono](https://github.com/lifthrasiir/rust-chrono), a crate that offers very handy timezone-aware `Duration` and `Date`/`Time` types.
+- ([twir106](https://this-week-in-rust.org/blog/2015/11/23/this-week-in-rust-106/)) - [nom](https://crates.io/crates/nom), a library of fast zero-copy parser combinators, which has already been used to create safe, high-performance parsers for a number of formats both binary and textual.
+- ([twir105](https://this-week-in-rust.org/blog/2015/11/16/this-week-in-rust-105/)) - [hyper](https://github.com/hyperium/hyper), offers a Rust HTTP(S) implementation for both clients and servers.
+- ([twir104](https://this-week-in-rust.org/blog/2015/11/09/this-week-in-rust-104/)) - [ramp](https://crates.io/crates/ramp), Ramp supplies some high performance low memory easy to use big integral types. Whenever you need integers too large for a u64 and cannot afford to lose precision, ramp has just what you need.
+- ([twir103](https://this-week-in-rust.org/blog/2015/11/02/this-week-in-rust-103/)) - [alias](https://github.com/huonw/alias). `alias` allows mutably aliasing values – which seems to actually be safe, somewhat surprisingly.
+- ([twir102](https://this-week-in-rust.org/blog/2015/10/26/this-week-in-rust-102/)) - [winapi-rs](https://github.com/retep998/winapi-rs)
+- ([twir101](https://this-week-in-rust.org/blog/2015/10/19/this-week-in-rust-101/)) - [glium](https://github.com/tomaka/glium), a safe Rust wrapper for OpenGL.
+- ([twir100](https://this-week-in-rust.org/blog/2015/10/12/this-week-in-rust-100/)) - [conrod](https://crates.io/crates/conrod), a simple to use immediate-mode GUI library written in pure Rust.
+- ([twir99]()) - [itertools](https://github.com/bluss/rust-itertools)
+- ([twir98]()) - [quickcheck](https://github.com/BurntSushi/quickcheck) 
+- ([twir97]()) - [lazy_static](https://crates.io/crates/lazy_static)
