@@ -2,10 +2,11 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2019
+- ([twir291](https://this-week-in-rust.org/blog/2019/06/18/this-week-in-rust-291/)) - [safe](https://github.com/Centril/rust-safe), a `#[safe]` attribute for explaining why `unsafe { ... }` is OK.
 - ([twir290](https://this-week-in-rust.org/blog/2019/06/11/this-week-in-rust-290/)) - [uom](https://crates.io/crates/uom), units of measurement, a crate that does automatic type-safe zero-cost dimensional analysis.
 - ([twir289](https://this-week-in-rust.org/blog/2019/06/04/this-week-in-rust-289/)) - [emu](https://github.com/calebwin/emu), a Rust-based language for programming GPUs.
-- ([twir288](https://this-week-in-rust.org/blog/2019/05/28/this-week-in-rust-288/)) -  [mockiato](https://github.com/myelin-ai/mockiato), a strict yet friendly mocking library for Rust 2018.
-- ([twir287](https://this-week-in-rust.org/blog/2019/05/21/this-week-in-rust-287/)) -  [memory-profiler](https://github.com/nokia/memory-profiler), does what it says on the box. [momo](https://github.com/llogiq/momo) is a procedural macro that outlines generic conversions to reduce monomorphized code. 
+- ([twir288](https://this-week-in-rust.org/blog/2019/05/28/this-week-in-rust-288/)) - [mockiato](https://github.com/myelin-ai/mockiato), a strict yet friendly mocking library for Rust 2018.
+- ([twir287](https://this-week-in-rust.org/blog/2019/05/21/this-week-in-rust-287/)) - [memory-profiler](https://github.com/nokia/memory-profiler), does what it says on the box. [momo](https://github.com/llogiq/momo) is a procedural macro that outlines generic conversions to reduce monomorphized code. 
 - ([twir286](https://this-week-in-rust.org/blog/2019/05/14/this-week-in-rust-286/)) - [panic_never](https://github.com/japaric/panic-never), a crate to make every panic a link-time error.
 - ([twir285](https://this-week-in-rust.org/blog/2019/05/07/this-week-in-rust-285/)) - [select-rustc](https://crates.io/crates/select-rustc), a crate for conditional compilation according to rust version.
 - ([twir284](https://this-week-in-rust.org/blog/2019/04/30/this-week-in-rust-284/)) - [cast-rs](https://github.com/japaric/cast.rs), a crate with ergonomic, checked cast functions for primitive types.
