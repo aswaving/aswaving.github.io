@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2019
+- ([twir294](https://this-week-in-rust.org/blog/2019/07/09/this-week-in-rust-294/)) - [rustexp](https://rustexp.lpil.uk/), a website to edit and test Rust regular expressions.
 - ([twir293](https://this-week-in-rust.org/blog/2019/07/02/this-week-in-rust-293/)) - [aljabar](https://github.com/maplant/aljabar), an extremely generic linear algebra libary (nightly only). 
 - ([twir292](https://this-week-in-rust.org/blog/2019/06/25/this-week-in-rust-292/)) - [winit](https://github.com/rust-windowing/winit), a pure-rust cross-platform window initialization library.
 - ([twir291](https://this-week-in-rust.org/blog/2019/06/18/this-week-in-rust-291/)) - [safe](https://github.com/Centril/rust-safe), a `#[safe]` attribute for explaining why `unsafe { ... }` is OK.
