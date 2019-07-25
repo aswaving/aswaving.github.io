@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2019
+- ([twir296](https://this-week-in-rust.org/blog/2019/07/23/this-week-in-rust-296/)) - [abscissa](https://github.com/iqlusioninc/abscissa), a security-oriented Rust application framework.
 - ([twir295](https://this-week-in-rust.org/blog/2019/07/16/this-week-in-rust-295/)) - [overloadable](https://crates.io/crates/overloadable),  a crate to provides you with the capabilities to overload your functions in a similar style to C# or C++, including support for meta attributes, type parameters and constraints, and visibility modifiers.
 - ([twir294](https://this-week-in-rust.org/blog/2019/07/09/this-week-in-rust-294/)) - [rustexp](https://rustexp.lpil.uk/), a website to edit and test Rust regular expressions.
 - ([twir293](https://this-week-in-rust.org/blog/2019/07/02/this-week-in-rust-293/)) - [aljabar](https://github.com/maplant/aljabar), an extremely generic linear algebra libary (nightly only). 
