@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2019
+- ([twir300](https://this-week-in-rust.org/blog/2019/08/20/this-week-in-rust-300/)) - [async-std](https://crates.io/crates/async-std), a library with async variants of the standard library's IO etc.
 - ([twir299](https://this-week-in-rust.org/blog/2019/08/13/this-week-in-rust-299/)) - [topgrade](https://crates.io/crates/topgrade), a command-line program to upgrade all the things. 
 - ([twir298](https://this-week-in-rust.org/blog/2019/08/06/this-week-in-rust-298/)) - [broot](https://github.com/Canop/broot), a program to show the gist of a directory tree. 
 - ([twir297](https://this-week-in-rust.org/blog/2019/07/30/this-week-in-rust-297/)) - [async-trait](https://github.com/dtolnay/async-trait), a procedural macro to allow `async fn`s in trait methods. 
