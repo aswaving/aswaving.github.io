@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2019
+- ([twir302](https://this-week-in-rust.org/blog/2019/09/03/this-week-in-rust-302/)) - [cargo-udeps](https://crates.io/crates/cargo-udeps), a cargo subcommand to find unused dependencies.
 - ([twir301](https://this-week-in-rust.org/blog/2019/08/27/this-week-in-rust-301/)) - [include_flate](https://crates.io/crates/include_flate), a variant of include_bytes!/include_str with compile-time DEFLATE compression and runtime lazy decompression.
 - ([twir300](https://this-week-in-rust.org/blog/2019/08/20/this-week-in-rust-300/)) - [async-std](https://crates.io/crates/async-std), a library with async variants of the standard library's IO etc.
 - ([twir299](https://this-week-in-rust.org/blog/2019/08/13/this-week-in-rust-299/)) - [topgrade](https://crates.io/crates/topgrade), a command-line program to upgrade all the things. 
