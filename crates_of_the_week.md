@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2019
+- ([twir306](https://this-week-in-rust.org/blog/2019/10/01/this-week-in-rust-306/)) - [pin-project](https://crates.io/crates/pin-project), a proc-macro-derive for ergonomic and safe `Pin` projections.
 - ([twir305](https://this-week-in-rust.org/blog/2019/09/24/this-week-in-rust-305/)) - [runtime](https://github.com/mun-lang/runtime), an experimental hot-reloading oriented runtime in Rust.
 - ([twir304](https://this-week-in-rust.org/blog/2019/09/17/this-week-in-rust-304/)) - [texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis), a program to generate textures by choosing examples.
 - ([twir303](https://this-week-in-rust.org/blog/2019/09/10/this-week-in-rust-303/)) - [viu](https://github.com/atanunq/viu), a terminal image viewer.
