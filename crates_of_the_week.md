@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2019
+- ([twir309](https://this-week-in-rust.org/blog/2019/10/22/this-week-in-rust-309/)) - [grubbnet](https://github.com/dooskington/grubbnet), a TCP client/server library for networked applications and games.
 - ([twir308](https://this-week-in-rust.org/blog/2019/10/15/this-week-in-rust-308/)) - Three crates: [Watt](https://github.com/dtolnay/watt), a fast WASM-based proc-macro runtime, [Anyhow](https://github.com/dtolnay/anyhow), yet another error handling crate and [spotify-tui](https://github.com/Rigellute/spotify-tui), a console user interface for Spotify. 
 - ([twir307](https://this-week-in-rust.org/blog/2019/10/08/this-week-in-rust-307/)) - [algebraics](https://crates.io/crates/algebraics), a pure-Rust algebraic numbers library for infinite-precision computation.
 - ([twir306](https://this-week-in-rust.org/blog/2019/10/01/this-week-in-rust-306/)) - [pin-project](https://crates.io/crates/pin-project), a proc-macro-derive for ergonomic and safe `Pin` projections.
