@@ -2,6 +2,8 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2019
+- ([twir312](https://this-week-in-rust.org/blog/2019/11/12/this-week-in-rust-312/)) - [accurate](https://crates.io/crates/accurate), accumulator types for more accurate (or even provably correct) sum and dot product of floating-point numbers.
+[transfer](https://github.com/dureuill/transfer), a crate to transfer values between pinned instances. [genawaiter](https://github.com/whatisaphone/genawaiter), a crate to allow generators on stable Rust. a procedural derive macro to implement `Display` by string-interpolating the doc comment.
 - ([twir311](https://this-week-in-rust.org/blog/2019/11/05/this-week-in-rust-311/)) - [displaydoc](https://github.com/yaahc/displaydoc), a procedural derive macro to implement `Display` by string-interpolating the doc comment.
 - ([twir309](https://this-week-in-rust.org/blog/2019/10/22/this-week-in-rust-309/)) - [grubbnet](https://github.com/dooskington/grubbnet), a TCP client/server library for networked applications and games.
 - ([twir308](https://this-week-in-rust.org/blog/2019/10/15/this-week-in-rust-308/)) - Three crates: [Watt](https://github.com/dtolnay/watt), a fast WASM-based proc-macro runtime, [Anyhow](https://github.com/dtolnay/anyhow), yet another error handling crate and [spotify-tui](https://github.com/Rigellute/spotify-tui), a console user interface for Spotify. 
