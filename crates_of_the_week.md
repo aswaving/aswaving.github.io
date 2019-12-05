@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2019
+- ([twir315](https://this-week-in-rust.org/blog/2019/12/03/this-week-in-rust-315/)) - [joinery](https://docs.rs/joinery),  a library for generic string joining.
 - ([twir314](https://this-week-in-rust.org/blog/2019/11/26/this-week-in-rust-314/)) - [rerast](https://github.com/google/rerast), a rule-based Rust code transformation tool.
 - ([twir313](https://this-week-in-rust.org/blog/2019/11/19/this-week-in-rust-313/)) - [wasmtime](https://github.com/bytecodealliance/wasmtime), a standalone JIT-style runtime for WebAssembly.
 - ([twir312](https://this-week-in-rust.org/blog/2019/11/12/this-week-in-rust-312/)) - [accurate](https://crates.io/crates/accurate), accumulator types for more accurate (or even provably correct) sum and dot product of floating-point numbers.
