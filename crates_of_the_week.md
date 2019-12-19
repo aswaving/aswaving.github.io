@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2019
+- ([twir317](https://this-week-in-rust.org/blog/2019/12/17/this-week-in-rust-317/)) - [bstr](https://github.com/BurntSushi/bstr), a string type for Rust that is not required to be valid UTF-8.
 - ([twir316](https://this-week-in-rust.org/blog/2019/12/10/this-week-in-rust-316/)) - [StaticVec](https://github.com/slightlyoutofphase/staticvec), a nightly-only const-generics-backed fixed size vec crate.
 - ([twir315](https://this-week-in-rust.org/blog/2019/12/03/this-week-in-rust-315/)) - [joinery](https://docs.rs/joinery), a library for generic string joining.
 - ([twir314](https://this-week-in-rust.org/blog/2019/11/26/this-week-in-rust-314/)) - [rerast](https://github.com/google/rerast), a rule-based Rust code transformation tool.
