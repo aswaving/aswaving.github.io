@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2019
+- ([twir319](https://this-week-in-rust.org/blog/2019/12/31/this-week-in-rust-319/)) - [attohttpc](https://crates.io/crates/attohttpc), a tiny synchronous HTTP client library.
 - ([twir318](https://this-week-in-rust.org/blog/2019/12/24/this-week-in-rust-318/)) - [bstr](https://github.com/o0Ignition0o/cargo-scout), a cargo subcommand to run clippy on only the changed code in your crate (following git diff).
 - ([twir317](https://this-week-in-rust.org/blog/2019/12/17/this-week-in-rust-317/)) - [bstr](https://github.com/BurntSushi/bstr), a string type for Rust that is not required to be valid UTF-8.
 - ([twir316](https://this-week-in-rust.org/blog/2019/12/10/this-week-in-rust-316/)) - [StaticVec](https://github.com/slightlyoutofphase/staticvec), a nightly-only const-generics-backed fixed size vec crate.
