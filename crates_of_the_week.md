@@ -1,6 +1,9 @@
 # Rust crates of the week
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
+## 2020
+- ([twir320](https://this-week-in-rust.org/blog/2020/01/07/this-week-in-rust-320/)) - [sqlx](https://crates.io/crates/sqlx), a modern SQL client library.
+
 ## 2019
 - ([twir319](https://this-week-in-rust.org/blog/2019/12/31/this-week-in-rust-319/)) - [attohttpc](https://crates.io/crates/attohttpc), a tiny synchronous HTTP client library.
 - ([twir318](https://this-week-in-rust.org/blog/2019/12/24/this-week-in-rust-318/)) - [bstr](https://github.com/o0Ignition0o/cargo-scout), a cargo subcommand to run clippy on only the changed code in your crate (following git diff).
