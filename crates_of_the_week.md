@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir321](https://this-week-in-rust.org/blog/2020/01/14/this-week-in-rust-321/)) - [cxx](https://github.com/dtolnay/cxx), a library to build a C++ FFI safely by taking care of both sides.
 - ([twir320](https://this-week-in-rust.org/blog/2020/01/07/this-week-in-rust-320/)) - [sqlx](https://crates.io/crates/sqlx), a modern SQL client library.
 
 ## 2019
