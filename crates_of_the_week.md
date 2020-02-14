@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir325](https://this-week-in-rust.org/blog/2020/02/11/this-week-in-rust-325/)) - [argh](https://github.com/google/argh), a small opinionated argument parsing library for Rust.
 - ([twir324](https://this-week-in-rust.org/blog/2020/02/04/this-week-in-rust-324/)) - [faux](https://github.com/nrxus/faux), a trait-less mocking library for Rust.
 - ([twir323](https://this-week-in-rust.org/blog/2020/01/28/this-week-in-rust-323/)) - [test-case](https://crates.io/crates/test-case), a framework for parameterized testing.
 - ([twir322](https://this-week-in-rust.org/blog/2020/01/21/this-week-in-rust-322/)) - [fasteval](https://crates.io/crates/fasteval), for fast and safe evaluation of algebraic expressions.
