@@ -2,6 +2,8 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir328](https://this-week-in-rust.org/blog/2020/03/03/this-week-in-rust-328/)) - [tokenizers](https://github.com/huggingface/tokenizers), Python & NodeJS bindings for fast text tokenization for machine learning.
+- ([twir327](https://this-week-in-rust.org/blog/2020/02/25/this-week-in-rust-327/)) - [wundergraph](https://crates.io/crates/wundergraph), a GraphQL interface library, and [kibi](https://github.com/ilai-deutel/kibi), a text editor in thousand lines of Rust.
 - ([twir326](https://this-week-in-rust.org/blog/2020/02/18/this-week-in-rust-326/)) - [pointer-utils](https://github.com/CAD97/pointer-utils), for working with pointers, and [jlrs](https://github.com/Taaitaaiger/jlrs),  to call [Julia](https://julialang.org/) from Rust.
 - ([twir325](https://this-week-in-rust.org/blog/2020/02/11/this-week-in-rust-325/)) - [argh](https://github.com/google/argh), a small opinionated argument parsing library for Rust.
 - ([twir324](https://this-week-in-rust.org/blog/2020/02/04/this-week-in-rust-324/)) - [faux](https://github.com/nrxus/faux), a trait-less mocking library for Rust.
