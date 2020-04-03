@@ -2,6 +2,8 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir332](https://this-week-in-rust.org/blog/2020/03/31/this-week-in-rust-332/)) - [async-recursion](https://github.com/dcchut/async-recursion), a macro to allow recursion in async functions.
+- ([twir331](https://this-week-in-rust.org/blog/2020/03/24/this-week-in-rust-331/)) - [flume](https://github.com/zesterer/flume), a fast multi-producer single-consumer channel.
 - ([twir330](https://this-week-in-rust.org/blog/2020/03/17/this-week-in-rust-330/)) - [beef](https://github.com/maciejhirsz/beef), an alternative memory-compact Clone on Write (CoW) implementation.
 - ([twir329](https://this-week-in-rust.org/blog/2020/03/10/this-week-in-rust-329/)) - [plotly](https://github.com/igiagkiozis/plotly), a plotly.js-backed plotting library.
 - ([twir328](https://this-week-in-rust.org/blog/2020/03/03/this-week-in-rust-328/)) - [tokenizers](https://github.com/huggingface/tokenizers), Python & NodeJS bindings for fast text tokenization for machine learning.
