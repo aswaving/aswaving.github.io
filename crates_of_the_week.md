@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir334](https://this-week-in-rust.org/blog/2020/04/14/this-week-in-rust-334/)) - [sudo](https://crates.io/crates/sudo), a library to let your program run as root.
 - ([twir333](https://this-week-in-rust.org/blog/2020/04/07/this-week-in-rust-333/)) - [explaine.rs](https://github.com/jrvidal/explaine.rs), an interactive Rust syntax playground.
 - ([twir332](https://this-week-in-rust.org/blog/2020/03/31/this-week-in-rust-332/)) - [async-recursion](https://github.com/dcchut/async-recursion), a macro to allow recursion in async functions.
 - ([twir331](https://this-week-in-rust.org/blog/2020/03/24/this-week-in-rust-331/)) - [flume](https://github.com/zesterer/flume), a fast multi-producer single-consumer channel.
