@@ -2,6 +2,8 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir337](https://this-week-in-rust.org/blog/2020/05/05/this-week-in-rust-337/)) - [winrt](https://github.com/microsoft/winrt-rs), Microsoft's Rust/WinRT language projection.
+- ([twir336](https://this-week-in-rust.org/blog/2020/04/29/this-week-in-rust-336/)) - [coercible_errors](https://crates.io/crates/coercible_errors), a library that allows generic trait implementations to omit the size cost of `Result::Err` if errors never happen.
 - ([twir335](https://this-week-in-rust.org/blog/2020/04/21/this-week-in-rust-335/)) - [regex2fat](https://github.com/8051Enthusiast/regex2fat), a program to convert a regular expression into a decidedly nonstandard FAT32 file system. Funny.
 - ([twir334](https://this-week-in-rust.org/blog/2020/04/14/this-week-in-rust-334/)) - [sudo](https://crates.io/crates/sudo), a library to let your program run as root.
 - ([twir333](https://this-week-in-rust.org/blog/2020/04/07/this-week-in-rust-333/)) - [explaine.rs](https://github.com/jrvidal/explaine.rs), an interactive Rust syntax playground.
