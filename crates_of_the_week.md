@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir339](https://this-week-in-rust.org/blog/2020/05/19/this-week-in-rust-339/)) - [apply](https://crates.io/crates/apply), for chaining free functions into method call chains.
 - ([twir338](https://this-week-in-rust.org/blog/2020/05/12/this-week-in-rust-338/)) - [cargo-workspaces](https://github.com/pksunkara/cargo-workspaces), a cargo subcommand to manage your cargo workspace.
 - ([twir337](https://this-week-in-rust.org/blog/2020/05/05/this-week-in-rust-337/)) - [winrt](https://github.com/microsoft/winrt-rs), Microsoft's Rust/WinRT language projection.
 - ([twir336](https://this-week-in-rust.org/blog/2020/04/29/this-week-in-rust-336/)) - [coercible_errors](https://crates.io/crates/coercible_errors), a library that allows generic trait implementations to omit the size cost of `Result::Err` if errors never happen.
