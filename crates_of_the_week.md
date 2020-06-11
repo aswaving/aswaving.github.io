@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir341](https://this-week-in-rust.org/blog/2020/06/10/this-week-in-rust-342/)) - [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck), a cargo subcommand to spell-check your docs.
 - ([twir340](https://this-week-in-rust.org/blog/2020/05/27/this-week-in-rust-340/)) - [cargo-asm](https://github.com/gnzlbg/cargo-asm), a cargo subcommand to show the resulting assembly of a function. Useful for performance work.
 - ([twir339](https://this-week-in-rust.org/blog/2020/05/19/this-week-in-rust-339/)) - [apply](https://crates.io/crates/apply), for chaining free functions into method call chains.
 - ([twir338](https://this-week-in-rust.org/blog/2020/05/12/this-week-in-rust-338/)) - [cargo-workspaces](https://github.com/pksunkara/cargo-workspaces), a cargo subcommand to manage your cargo workspace.
