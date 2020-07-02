@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir345](https://this-week-in-rust.org/blog/2020/06/30/this-week-in-rust-345/)) - [print_bytes](https://crates.io/crates/print_bytes), a library to print arbitrary bytes to a stream as losslessly as possible.
 - ([twir344](https://this-week-in-rust.org/blog/2020/06/23/this-week-in-rust-344/)) - [diskonaut](https://github.com/imsnif/diskonaut), a disk usage explorer.
 - ([twir343](https://this-week-in-rust.org/blog/2020/06/16/this-week-in-rust-343/)) - [safer-ffi](https://github.com/getditto/safer_ffi), a library to help write safe FFI code.
 - ([twir342](https://this-week-in-rust.org/blog/2020/06/10/this-week-in-rust-342/)) - [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck), a cargo subcommand to spell-check your docs.
