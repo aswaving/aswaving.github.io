@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir347](https://this-week-in-rust.org/blog/2020/07/14/this-week-in-rust-347/)) - [nnnoiseless](https://jneem.github.io/nnnoiseless), a filter for audio noise removal ported from C.
 - ([twir346](https://this-week-in-rust.org/blog/2020/07/08/this-week-in-rust-346/)) - [suckit](https://github.com/skallwar/suckit), a tool to recursively download a website.
 - ([twir345](https://this-week-in-rust.org/blog/2020/06/30/this-week-in-rust-345/)) - [print_bytes](https://crates.io/crates/print_bytes), a library to print arbitrary bytes to a stream as losslessly as possible.
 - ([twir344](https://this-week-in-rust.org/blog/2020/06/23/this-week-in-rust-344/)) - [diskonaut](https://github.com/imsnif/diskonaut), a disk usage explorer.
