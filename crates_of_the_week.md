@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir351](https://this-week-in-rust.org/blog/2020/08/11/this-week-in-rust-351/)) - [bevy](https://crates.io/crates/bevy), a very capable yet simple game engine.
 - ([twir350](https://this-week-in-rust.org/blog/2020/08/04/this-week-in-rust-350/)) - [partial-io](https://lib.rs/crates/partial-io), a set of helpers to test partial, interrupted and would-block I/O operations.
 - ([twir349](https://this-week-in-rust.org/blog/2020/07/28/this-week-in-rust-349/)) - [polyfuse](https://github.com/ubnt-intrepid/polyfuse), a library for writing FUSE file systems using async code.
 - ([twir348](https://this-week-in-rust.org/blog/2020/07/21/this-week-in-rust-348/)) - [pre](https://github.com/aticu/pre), a library for declaring and checking the assurance of precondition, useful for unsafe functions.
