@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir354](https://this-week-in-rust.org/blog/2020/09/04/this-week-in-rust-354/)) - [GlueSQL](https://github.com/gluesql/gluesql), a SQL database engine written in Rust with WebAssembly support.
 - ([twir353](https://this-week-in-rust.org/blog/2020/08/26/this-week-in-rust-353/)) - [pdf](https://github.com/pdf-rs/pdf), a crate for reading PDF files.
 - ([twir352](https://this-week-in-rust.org/blog/2020/08/18/this-week-in-rust-352/)) - [cargo-c](https://github.com/lu-zero/cargo-c), a cargo subcommand to build and install C-ABI compatibile dynamic and static libraries.
 - ([twir351](https://this-week-in-rust.org/blog/2020/08/11/this-week-in-rust-351/)) - [bevy](https://crates.io/crates/bevy), a very capable yet simple game engine.
