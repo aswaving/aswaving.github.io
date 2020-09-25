@@ -2,6 +2,8 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir357](https://this-week-in-rust.org/blog/2020/09/23/this-week-in-rust-357/)) - [cargo-about](https://crates.io/crates/cargo-about), a handy cargo subcommand to list the dependencies and their licenses!
+- ([twir356](https://this-week-in-rust.org/blog/2020/09/16/this-week-in-rust-356/)) - [gitoxide](https://github.com/Byron/gitoxide), an idiomatic, modern, lean, fast, safe & pure Rust implementation of git.
 - ([twir355](https://this-week-in-rust.org/blog/2020/09/09/this-week-in-rust-355/)) - [serde-query](https://github.com/pandaman64/serde-query/), an efficient query language for Serde.
 - ([twir354](https://this-week-in-rust.org/blog/2020/09/04/this-week-in-rust-354/)) - [GlueSQL](https://github.com/gluesql/gluesql), a SQL database engine written in Rust with WebAssembly support.
 - ([twir353](https://this-week-in-rust.org/blog/2020/08/26/this-week-in-rust-353/)) - [pdf](https://github.com/pdf-rs/pdf), a crate for reading PDF files.
