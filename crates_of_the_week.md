@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir358](https://this-week-in-rust.org/blog/2020/09/30/this-week-in-rust-358/)) - [fs-err](https://crates.io/crates/fs-err), a library to make filesystem errors usable.
 - ([twir357](https://this-week-in-rust.org/blog/2020/09/23/this-week-in-rust-357/)) - [cargo-about](https://crates.io/crates/cargo-about), a handy cargo subcommand to list the dependencies and their licenses!
 - ([twir356](https://this-week-in-rust.org/blog/2020/09/16/this-week-in-rust-356/)) - [gitoxide](https://github.com/Byron/gitoxide), an idiomatic, modern, lean, fast, safe & pure Rust implementation of git.
 - ([twir355](https://this-week-in-rust.org/blog/2020/09/09/this-week-in-rust-355/)) - [serde-query](https://github.com/pandaman64/serde-query/), an efficient query language for Serde.
