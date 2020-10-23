@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir361](https://this-week-in-rust.org/blog/2020/10/21/this-week-in-rust-361/)) - [icu4x](https://github.com/unicode-org/icu4x), the Unicode Consortium's official crate for dealing with i18n in resource constrained environments.
 - ([twir360](https://this-week-in-rust.org/blog/2020/10/14/this-week-in-rust-360/)) - [paste](https://crates.io/crates/paste), a macro to concatenate identifiers (which would otherwise be nightly only).
 - ([twir359](https://this-week-in-rust.org/blog/2020/10/07/this-week-in-rust-359/)) - [uniffi](https://github.com/mozilla/uniffi-rs), a unified ffi binding generator for Rust.
 - ([twir358](https://this-week-in-rust.org/blog/2020/09/30/this-week-in-rust-358/)) - [fs-err](https://crates.io/crates/fs-err), a library to make filesystem errors usable.
