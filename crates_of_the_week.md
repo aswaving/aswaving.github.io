@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir365](https://this-week-in-rust.org/blog/2020/11/18/this-week-in-rust-365/)) - [lingua](https://github.com/pemistahl/lingua-rs), a ngrams-based natural language detector.
 - ([twir364](https://this-week-in-rust.org/blog/2020/11/11/this-week-in-rust-364/)) - [postfix-macros](https://github.com/est31/postfix-macros), a clever hack to allow postfix macros in stable Rust.
 - ([twir363](https://this-week-in-rust.org/blog/2020/11/04/this-week-in-rust-363/)) - [tract](https://github.com/sonos/tract) from Sonos, a neural network inference library, written purely in Rust for models in ONNX, NNEF and TF formats.
 - ([twir362](https://this-week-in-rust.org/blog/2020/10/28/this-week-in-rust-362/)) - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) from Embark Studios, a system to compile Rust code into Vulkan graphics shaders (with other shader types to follow.
