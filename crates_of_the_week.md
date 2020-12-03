@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir367](https://this-week-in-rust.org/blog/2020/12/02/this-week-in-rust-367/)) - [kira](https://github.com/tesselode/kira), a library for expressive game audio with many bells and whistles.
 - ([twir366](https://this-week-in-rust.org/blog/2020/11/25/this-week-in-rust-366/)) - [cargo-intraconv](https://crates.io/crates/cargo-intraconv), a cargo subcommand to convert links in rust documentation to the newly stable intra-doc-links format.
 - ([twir365](https://this-week-in-rust.org/blog/2020/11/18/this-week-in-rust-365/)) - [lingua](https://github.com/pemistahl/lingua-rs), a ngrams-based natural language detector.
 - ([twir364](https://this-week-in-rust.org/blog/2020/11/11/this-week-in-rust-364/)) - [postfix-macros](https://github.com/est31/postfix-macros), a clever hack to allow postfix macros in stable Rust.
