@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2020
+- ([twir370](https://this-week-in-rust.org/blog/2020/12/23/this-week-in-rust-370/)) - [RustFFT](https://github.com/ejmahler/RustFFT), a mixed-radix FFT implementation.
 - ([twir369](https://this-week-in-rust.org/blog/2020/12/16/this-week-in-rust-369/)) - [thermite](https://github.com/raygon-renderer/thermite), a SIMD struct-of-arrays-algorithms library.
 - ([twir368](https://this-week-in-rust.org/blog/2020/12/09/this-week-in-rust-368/)) - [breadx](https://github.com/not-a-seagull/breadx), a X-windows protocol implementation in 100% safe and mutex-free Rust. 
 - ([twir367](https://this-week-in-rust.org/blog/2020/12/02/this-week-in-rust-367/)) - [kira](https://github.com/tesselode/kira), a library for expressive game audio with many bells and whistles.
