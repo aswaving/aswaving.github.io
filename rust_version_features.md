@@ -1,4 +1,5 @@
-# Rust language feature feature introductions
+# Rust language feature introductions
+For all details, see the [Rust release notes](https://github.com/rust-lang/rust/blob/master/RELEASES.md).
 
 ## 1.13 (November 2016)
 - `?` operator
