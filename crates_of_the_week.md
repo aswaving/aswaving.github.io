@@ -1,9 +1,13 @@
 # Rust crates of the week
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
-## 2020
-- ([twir373](https://this-week-in-rust.org/blog/2021/01/13/this-week-in-rust-373/)) - [fast-float](https://github.com/aldanor/fast-float-rust), provides methods to parse floats really fast. 
+## 2021
+- ([twir374](https://this-week-in-rust.org/blog/2021/01/20/this-week-in-rust-374/)) - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter), a lightning fast linter for `.env` files.
+- ([twir373](https://this-week-in-rust.org/blog/2021/01/13/this-week-in-rust-373/)) - [fast-float](https://github.com/aldanor/fast-float-rust), provides methods to 
+parse floats really fast. 
 - ([twir372](https://this-week-in-rust.org/blog/2021/01/06/this-week-in-rust-372/)) - [nom-supreme](https://crates.io/crates/nom-supreme), utilities for nom parsers, especially for great parse error handling.
+
+## 2020
 - ([twir371](https://this-week-in-rust.org/blog/2020/12/30/this-week-in-rust-371/)) - [autograd](https://github.com/raskr/rust-autograd), a library of differentiable operations and tensors for machine learning applications.
 - ([twir370](https://this-week-in-rust.org/blog/2020/12/23/this-week-in-rust-370/)) - [RustFFT](https://github.com/ejmahler/RustFFT), a mixed-radix FFT implementation.
 - ([twir369](https://this-week-in-rust.org/blog/2020/12/16/this-week-in-rust-369/)) - [thermite](https://github.com/raygon-renderer/thermite), a SIMD struct-of-arrays-algorithms library.
