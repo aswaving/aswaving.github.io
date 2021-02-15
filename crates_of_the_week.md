@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2021
+- ([twir377](https://this-week-in-rust.org/blog/2021/02/10/this-week-in-rust-377/)) - [thread_io](https://crates.io/crates/thread_io), makes disk IO in a background thread easy and elegant.
 - ([twir376](https://this-week-in-rust.org/blog/2021/02/03/this-week-in-rust-376/)) - [fancy-regex](https://github.com/fancy-regex/fancy-regex), a regex implementation using regex for speed and backtracking for fancy features.
 - ([twir375](https://this-week-in-rust.org/blog/2021/01/27/this-week-in-rust-375/)) - [aquamarine](https://github.com/mersinvald/aquamarine), inline diagrams for rustdocs.
 - ([twir374](https://this-week-in-rust.org/blog/2021/01/20/this-week-in-rust-374/)) - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter), a lightning fast linter for `.env` files.
