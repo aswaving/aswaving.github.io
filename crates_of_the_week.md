@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2021
+- ([twir380](https://this-week-in-rust.org/blog/2021/03/03/this-week-in-rust-380/)) - [camino](https://crates.io/crates/camino), a library with UTF-8 coded paths mimicking `std::os::Path`'s API.
 - ([twir379](https://this-week-in-rust.org/blog/2021/02/24/this-week-in-rust-379/)) - [lever](https://crates.io/crates/lever), a library for writing transactional systems.
 - ([twir378](https://this-week-in-rust.org/blog/2021/02/17/this-week-in-rust-378/)) - [firestorm](https://crates.io/crates/firestorm), fast intrusive flamegraph profiling.
 - ([twir377](https://this-week-in-rust.org/blog/2021/02/10/this-week-in-rust-377/)) - [thread_io](https://crates.io/crates/thread_io), makes disk IO in a background thread easy and elegant.
