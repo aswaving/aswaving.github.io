@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2021
+- ([twir383](https://this-week-in-rust.org/blog/2021/03/24/this-week-in-rust-383/)) - [egg](https://egraphs-good.github.io/), a project using e-graphs to provide a new way to build program optimizers and synthesizers.
 - ([twir382](https://this-week-in-rust.org/blog/2021/03/17/this-week-in-rust-382/)) - [ibig](https://github.com/tczajka/ibig-rs), fast big integers.
 - ([twir381](https://this-week-in-rust.org/blog/2021/03/10/this-week-in-rust-381/)) - [sorceress](https://crates.io/crates/sorceress), a Rust environment for sound synthesis and algorithmic composition.
 - ([twir380](https://this-week-in-rust.org/blog/2021/03/03/this-week-in-rust-380/)) - [camino](https://crates.io/crates/camino), a library with UTF-8 coded paths mimicking `std::os::Path`'s API.
