@@ -2,6 +2,9 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2021
+- ([twir388](https://this-week-in-rust.org/blog/2021/04/28/this-week-in-rust-388/)) - [cargo-rr](https://github.com/danielzfranklin/cargo-rr), a cargo subcommand to use the time-traveling rr debugger on our code.
+- ([twir387](https://this-week-in-rust.org/blog/2021/04/21/this-week-in-rust-387/)) - [deltoid](https://github.com/jjpe/deltoid), for delta-compressing Rust data structures.
+- ([twir386](https://this-week-in-rust.org/blog/2021/04/14/this-week-in-rust-386/)) - [dipa](https://docs.rs/dipa), to derive delta-encoding for Rust data structure.
 - ([twir385](https://this-week-in-rust.org/blog/2021/04/07/this-week-in-rust-385/)) - [rs_pbrt](https://crates.io/crates/rs_pbrt), a counterpart to the [PBRT](http://www.pbrt.org/) book's (3rd edition) C++ code.
 - ([twir384](https://this-week-in-rust.org/blog/2021/03/31/this-week-in-rust-384/)) - [tide-acme](https://github.com/http-rs/tide-acme), for automatic HTTPS certificaion using Let's Encrypt for [Tide](https://crates.io/crates/tide).
 - ([twir383](https://this-week-in-rust.org/blog/2021/03/24/this-week-in-rust-383/)) - [egg](https://egraphs-good.github.io/), a project using e-graphs to provide a new way to build program optimizers and synthesizers.
