@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2021
+- ([twir389](https://this-week-in-rust.org/blog/2021/05/05/this-week-in-rust-389/)) - [display_utils](https://docs.rs/display_utils), a library with `Display`able structs to make string manipulation easier.
 - ([twir388](https://this-week-in-rust.org/blog/2021/04/28/this-week-in-rust-388/)) - [cargo-rr](https://github.com/danielzfranklin/cargo-rr), a cargo subcommand to use the time-traveling rr debugger on our code.
 - ([twir387](https://this-week-in-rust.org/blog/2021/04/21/this-week-in-rust-387/)) - [deltoid](https://github.com/jjpe/deltoid), for delta-compressing Rust data structures.
 - ([twir386](https://this-week-in-rust.org/blog/2021/04/14/this-week-in-rust-386/)) - [dipa](https://docs.rs/dipa), to derive delta-encoding for Rust data structure.
