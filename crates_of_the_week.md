@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2021
+- ([twir390](https://this-week-in-rust.org/blog/2021/05/12/this-week-in-rust-390/)) - [tokio-console](https://github.com/tokio-rs/console), a "top"-like utility to view your tasks run.
 - ([twir389](https://this-week-in-rust.org/blog/2021/05/05/this-week-in-rust-389/)) - [display_utils](https://docs.rs/display_utils), a library with `Display`able structs to make string manipulation easier.
 - ([twir388](https://this-week-in-rust.org/blog/2021/04/28/this-week-in-rust-388/)) - [cargo-rr](https://github.com/danielzfranklin/cargo-rr), a cargo subcommand to use the time-traveling rr debugger on our code.
 - ([twir387](https://this-week-in-rust.org/blog/2021/04/21/this-week-in-rust-387/)) - [deltoid](https://github.com/jjpe/deltoid), for delta-compressing Rust data structures.
