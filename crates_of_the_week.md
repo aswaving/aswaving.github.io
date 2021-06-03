@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2021
+- ([twir393](https://this-week-in-rust.org/blog/2021/06/02/this-week-in-rust-393/)) - [rustc-codegen-gcc](https://github.com/antoyo/rustc_codegen_gcc), a drop-in replacement for the LLVM-based rust compiler backend targetting GCC.
 - ([twir392](https://this-week-in-rust.org/blog/2021/05/26/this-week-in-rust-392/)) - [typed-index-collections](https://github.com/zheland/typed-index-collections), lets you make Vecs with custom-typed indices.
 - ([twir391](https://this-week-in-rust.org/blog/2021/05/19/this-week-in-rust-391/)) - [arraygen](https://docs.rs/arraygen), a derive proc macro to generate arrays from structs.
 - ([twir390](https://this-week-in-rust.org/blog/2021/05/12/this-week-in-rust-390/)) - [tokio-console](https://github.com/tokio-rs/console), a "top"-like utility to view your tasks run.
