@@ -1,10 +1,10 @@
 # Rust crates of the week
-All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) () newsletter, on a single page.
+All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2021
 - ([397](https://this-week-in-rust.org/blog/2021/06/30/this-week-in-rust-397/)) [hypergraph](https://github.com/yamafaktory/hypergraph), graph data structure implementation where edges can join arbitrary numbers of vertices.
 - ([396](https://this-week-in-rust.org/blog/2021/06/23/this-week-in-rust-396/)) [serde-encrypt](https://github.com/laysakura/serde-encrypt), adds encryption to all `Serialize` impls.
-- ([395](https://this-week-in-rust.org/blog/2021/06/16/this-week-in-rust-395/)) -  two crates: [nativeshell](https://github.com/nativeshell/nativeshell) gets you a Flutter app in Rust, while [static-rc](https://github.com/matthieu-m/static-rc) is a compile-time reference-counted smart pointer.
+- ([395](https://this-week-in-rust.org/blog/2021/06/16/this-week-in-rust-395/)) 1) [nativeshell](https://github.com/nativeshell/nativeshell) gets you a Flutter app in Rust, 2) [static-rc](https://github.com/matthieu-m/static-rc) is a compile-time reference-counted smart pointer.
 - ([394](https://this-week-in-rust.org/blog/2021/06/09/this-week-in-rust-394/)) [cargo-sort](https://github.com/DevinR528/cargo-sort), a cargo subcommand to sort your `Cargo.toml`'s dependencies and workspace members.
 - ([393](https://this-week-in-rust.org/blog/2021/06/02/this-week-in-rust-393/)) [rustc-codegen-gcc](https://github.com/antoyo/rustc_codegen_gcc), a drop-in replacement for the LLVM-based rust compiler backend targetting GCC.
 - ([392](https://this-week-in-rust.org/blog/2021/05/26/this-week-in-rust-392/)) [typed-index-collections](https://github.com/zheland/typed-index-collections), lets you make Vecs with custom-typed indices.
@@ -92,11 +92,10 @@ parse floats really fast.
 - ([315](https://this-week-in-rust.org/blog/2019/12/03/this-week-in-rust-315/)) [joinery](https://docs.rs/joinery), a library for generic string joining.
 - ([314](https://this-week-in-rust.org/blog/2019/11/26/this-week-in-rust-314/)) [rerast](https://github.com/google/rerast), a rule-based Rust code transformation tool.
 - ([313](https://this-week-in-rust.org/blog/2019/11/19/this-week-in-rust-313/)) [wasmtime](https://github.com/bytecodealliance/wasmtime), a standalone JIT-style runtime for WebAssembly.
-- ([312](https://this-week-in-rust.org/blog/2019/11/12/this-week-in-rust-312/)) [accurate](https://crates.io/crates/accurate), accumulator types for more accurate (or even provably correct) sum and dot product of floating-point numbers.
-[transfer](https://github.com/dureuill/transfer), a crate to transfer values between pinned instances. [genawaiter](https://github.com/whatisaphone/genawaiter), a crate to allow generators on stable Rust. a procedural derive macro to implement `Display` by string-interpolating the doc comment.
+- ([312](https://this-week-in-rust.org/blog/2019/11/12/this-week-in-rust-312/)) 1) [accurate](https://crates.io/crates/accurate), accumulator types for more accurate (or even provably correct) sum and dot product of floating-point numbers. 2) [transfer](https://github.com/dureuill/transfer), a crate to transfer values between pinned instances. 3) [genawaiter](https://github.com/whatisaphone/genawaiter), a crate to allow generators on stable Rust. a procedural derive macro to implement `Display` by string-interpolating the doc comment.
 - ([311](https://this-week-in-rust.org/blog/2019/11/05/this-week-in-rust-311/)) [displaydoc](https://github.com/yaahc/displaydoc), a procedural derive macro to implement `Display` by string-interpolating the doc comment.
 - ([309](https://this-week-in-rust.org/blog/2019/10/22/this-week-in-rust-309/)) [grubbnet](https://github.com/dooskington/grubbnet), a TCP client/server library for networked applications and games.
-- ([308](https://this-week-in-rust.org/blog/2019/10/15/this-week-in-rust-308/)) - Three crates: [Watt](https://github.com/dtolnay/watt), a fast WASM-based proc-macro runtime, [Anyhow](https://github.com/dtolnay/anyhow), yet another error handling crate and [spotify-tui](https://github.com/Rigellute/spotify-tui), a console user interface for Spotify. 
+- ([308](https://this-week-in-rust.org/blog/2019/10/15/this-week-in-rust-308/)) 1) [Watt](https://github.com/dtolnay/watt), a fast WASM-based proc-macro runtime, 2) [Anyhow](https://github.com/dtolnay/anyhow), yet another error handling crate, and 3) [spotify-tui](https://github.com/Rigellute/spotify-tui), a console user interface for Spotify. 
 - ([307](https://this-week-in-rust.org/blog/2019/10/08/this-week-in-rust-307/)) [algebraics](https://crates.io/crates/algebraics), a pure-Rust algebraic numbers library for infinite-precision computation.
 - ([306](https://this-week-in-rust.org/blog/2019/10/01/this-week-in-rust-306/)) [pin-project](https://crates.io/crates/pin-project), a proc-macro-derive for ergonomic and safe `Pin` projections.
 - ([305](https://this-week-in-rust.org/blog/2019/09/24/this-week-in-rust-305/)) [runtime](https://github.com/mun-lang/runtime), an experimental hot-reloading oriented runtime in Rust.
