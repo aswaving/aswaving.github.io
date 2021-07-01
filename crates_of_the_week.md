@@ -2,7 +2,8 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) (twir) newsletter, on a single page.
 
 ## 2021
-- ([twir396](https://this-week-in-rust.org/blog/2021/06/23/this-week-in-rust-396/)) - [serde-encrypt](https://github.com/laysakura/serde-encrypt) adds encryption to all `Serialize` impls.
+- ([twir397](https://this-week-in-rust.org/blog/2021/06/30/this-week-in-rust-397/)) - [hypergraph](https://github.com/yamafaktory/hypergraph), graph data structure implementation where edges can join arbitrary numbers of vertices.
+- ([twir396](https://this-week-in-rust.org/blog/2021/06/23/this-week-in-rust-396/)) - [serde-encrypt](https://github.com/laysakura/serde-encrypt), adds encryption to all `Serialize` impls.
 - ([twir395](https://this-week-in-rust.org/blog/2021/06/16/this-week-in-rust-395/)) -  two crates: [nativeshell](https://github.com/nativeshell/nativeshell) gets you a Flutter app in Rust, while [static-rc](https://github.com/matthieu-m/static-rc) is a compile-time reference-counted smart pointer.
 - ([twir394](https://this-week-in-rust.org/blog/2021/06/09/this-week-in-rust-394/)) - [cargo-sort](https://github.com/DevinR528/cargo-sort), a cargo subcommand to sort your `Cargo.toml`'s dependencies and workspace members.
 - ([twir393](https://this-week-in-rust.org/blog/2021/06/02/this-week-in-rust-393/)) - [rustc-codegen-gcc](https://github.com/antoyo/rustc_codegen_gcc), a drop-in replacement for the LLVM-based rust compiler backend targetting GCC.
