@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2021
+- ([398](https://this-week-in-rust.org/blog/2021/07/07/this-week-in-rust-398/)) [css-inline](https://github.com/Stranger6667/css-inline), to inline CSS into `style` tags.
 - ([397](https://this-week-in-rust.org/blog/2021/06/30/this-week-in-rust-397/)) [hypergraph](https://github.com/yamafaktory/hypergraph), graph data structure implementation where edges can join arbitrary numbers of vertices.
 - ([396](https://this-week-in-rust.org/blog/2021/06/23/this-week-in-rust-396/)) [serde-encrypt](https://github.com/laysakura/serde-encrypt), adds encryption to all `Serialize` impls.
 - ([395](https://this-week-in-rust.org/blog/2021/06/16/this-week-in-rust-395/)) 1) [nativeshell](https://github.com/nativeshell/nativeshell) gets you a Flutter app in Rust, 2) [static-rc](https://github.com/matthieu-m/static-rc) is a compile-time reference-counted smart pointer.
