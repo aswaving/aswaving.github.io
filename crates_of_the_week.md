@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2021
+- ([401](https://this-week-in-rust.org/blog/2021/07/28/this-week-in-rust-401/)) [loadstone](https://crates.io/crates/loadstone), a bare-metal bootloader for embedded systems.
 - ([400](https://this-week-in-rust.org/blog/2021/07/21/this-week-in-rust-400/)) [dylint](https://github.com/trailofbits/dylint), a tool for running Rust lints from dynamic libraries. 
 - ([399](https://this-week-in-rust.org/blog/2021/07/14/this-week-in-rust-399/)) [endbasic](https://www.endbasic.dev/), an emulator friendly DOS / BASIC environment running on small hardware and the web.
 - ([398](https://this-week-in-rust.org/blog/2021/07/07/this-week-in-rust-398/)) [css-inline](https://github.com/Stranger6667/css-inline), to inline CSS into `style` tags.
