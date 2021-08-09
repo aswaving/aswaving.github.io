@@ -11,7 +11,7 @@ fn main() -> io::Result<()> {
     let f = File::open(filename)?;
     let mut reader = BufReader::new(f)?;
     let mut buffer = String::new();
-    while Ok(count) = reader.read_line(&mut buffer) {
+    while let Ok(count) = reader.read_line(&mut buffer) {
         if count == 0 {
             break;
         }
