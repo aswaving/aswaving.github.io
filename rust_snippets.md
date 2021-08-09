@@ -1,4 +1,4 @@
-### Reading a file line by line
+### Reading a text file line by line
 
 ```rust 
 use std::io;
