@@ -9,7 +9,7 @@ fn main() -> io::Result<()> {
     // ...
     //
     let f = File::open(filename)?;
-    let mut reader = BufReader::new(f)?;
+    let mut reader = BufReader::new(f);
     let mut buffer = String::new();
     while let Ok(count) = reader.read_line(&mut buffer) {
         if count == 0 {
