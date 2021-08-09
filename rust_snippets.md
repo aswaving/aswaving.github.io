@@ -17,6 +17,7 @@ fn main() -> io::Result<()> {
         }
         // process line
         // ...
+        buffer.clear();
     }
     Ok(())
 }
