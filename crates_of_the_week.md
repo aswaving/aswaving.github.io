@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2021
+- ([403](https://this-week-in-rust.org/blog/2021/08/10/this-week-in-rust-403/)) [ockam](https://crates.io/crates/ockam), a crate to implement transport-agnostic end-to-end encryption for the rest of us.
 - ([402](https://this-week-in-rust.org/blog/2021/08/04/this-week-in-rust-402/)) [sycamore](https://crates.io/crates/sycamore), for making web applications using WebAssembly. 
 - ([401](https://this-week-in-rust.org/blog/2021/07/28/this-week-in-rust-401/)) [loadstone](https://crates.io/crates/loadstone), a bare-metal bootloader for embedded systems.
 - ([400](https://this-week-in-rust.org/blog/2021/07/21/this-week-in-rust-400/)) [dylint](https://github.com/trailofbits/dylint), a tool for running Rust lints from dynamic libraries. 
