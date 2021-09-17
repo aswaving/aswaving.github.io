@@ -2,6 +2,8 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2021
+- ([408](https://this-week-in-rust.org/blog/2021/09/15/this-week-in-rust-408/)) [qcell](https://github.com/uazu/qcell), with a type that works like a compile-time `RefCell`. 
+- ([407](https://this-week-in-rust.org/blog/2021/09/08/this-week-in-rust-407/)) [gradient](https://github.com/mazznoer/gradient-rs), a command line tool to extract gradients from SVG, display and manipulate them.
 - ([406](https://this-week-in-rust.org/blog/2021/09/01/this-week-in-rust-406/)) [cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov), a cargo subcommand for LLVM-based code coverage.
 - ([405](https://this-week-in-rust.org/blog/2021/08/25/this-week-in-rust-405/)) [kube-leader-election](https://github.com/hendrikmaus/kube-leader-election), a crate to implement leader election for Kubernetes workloads.
 - ([404](https://this-week-in-rust.org/blog/2021/08/18/this-week-in-rust-404/)) [synth](https://github.com/getsynth/synth), a declarative test data generator written in Rust.
