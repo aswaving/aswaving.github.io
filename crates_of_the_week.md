@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2021
+- ([411](https://this-week-in-rust.org/blog/2021/10/06/this-week-in-rust-411/)) [pubgrub](https://crates.io/crates/pubgrub), a Rust implementation of the state of the art version solving algorithm.
 - ([410](https://this-week-in-rust.org/blog/2021/09/29/this-week-in-rust-410/)) [miette](https://crates.io/crates/miette), a library for error handling that is beautiful both in code and output.
 - ([409](https://this-week-in-rust.org/blog/2021/09/22/this-week-in-rust-409/)) [flowistry](https://github.com/willcrichton/flowistry), a VS code extension to visualize data flow in Rust code.
 - ([408](https://this-week-in-rust.org/blog/2021/09/15/this-week-in-rust-408/)) [qcell](https://github.com/uazu/qcell), with a type that works like a compile-time `RefCell`. 
