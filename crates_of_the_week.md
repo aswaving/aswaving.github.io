@@ -2,8 +2,9 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2021
+- ([415](https://this-week-in-rust.org/blog/2021/11/03/this-week-in-rust-415/)) [roogle](https://github.com/hkmatsumoto/roogle), a type-based Rust API search engine inspired by Haskell's Hoogle.
 - ([414](https://this-week-in-rust.org/blog/2021/10/27/this-week-in-rust-414/)) [cargo-crev](https://web.crev.dev/rust-reviews/), a tool to distribute security review of the crates we all depend on.
-- ([413](https://this-week-in- rust.org/blog/2021/10/20/this-week-in-rust-413/)) [serde_with](https://docs.rs/serde_with), helper macros to ease implementing serde traits for your types.
+- ([413](https://this-week-in-rust.org/blog/2021/10/20/this-week-in-rust-413/)) [serde_with](https://docs.rs/serde_with), helper macros to ease implementing serde traits for your types.
 - ([412](https://this-week-in-rust.org/blog/2021/10/13/this-week-in-rust-412/)) [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge), a memory-safe binding generator for Flutter/Dart ↔ Rust.
 - ([411](https://this-week-in-rust.org/blog/2021/10/06/this-week-in-rust-411/)) [pubgrub](https://crates.io/crates/pubgrub), a Rust implementation of the state of the art version solving algorithm.
 - ([410](https://this-week-in-rust.org/blog/2021/09/29/this-week-in-rust-410/)) [miette](https://crates.io/crates/miette), a library for error handling that is beautiful both in code and output.
