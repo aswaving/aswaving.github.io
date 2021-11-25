@@ -2,6 +2,8 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2021
+- ([418](https://this-week-in-rust.org/blog/2021/11/24/this-week-in-rust-418/)) [rustc_codegen_nvvm](https://crates.io/crates/rustc_codegen_nvvm), a rustc codegen backend that targets NVIDIA's libnvvm CUDA library.
+- ([417](https://this-week-in-rust.org/blog/2021/11/17/this-week-in-rust-417/)) [starship](https://github.com/starship/starship), a fast featureful customizable UNIX terminal prompt.
 - ([416](https://this-week-in-rust.org/blog/2021/11/10/this-week-in-rust-416/)) [chumsky](https://github.com/zesterer/chumsky), a friendly parser combinator crate.
 - ([415](https://this-week-in-rust.org/blog/2021/11/03/this-week-in-rust-415/)) [roogle](https://github.com/hkmatsumoto/roogle), a type-based Rust API search engine inspired by Haskell's Hoogle.
 - ([414](https://this-week-in-rust.org/blog/2021/10/27/this-week-in-rust-414/)) [cargo-crev](https://web.crev.dev/rust-reviews/), a tool to distribute security review of the crates we all depend on.
