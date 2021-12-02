@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2021
+- ([419](https://this-week-in-rust.org/blog/2021/12/01/this-week-in-rust-419/)) [poem-openapi](https://crates.io/crates/poem-openapi), a framework to implement OpenAPI services.
 - ([418](https://this-week-in-rust.org/blog/2021/11/24/this-week-in-rust-418/)) [rustc_codegen_nvvm](https://crates.io/crates/rustc_codegen_nvvm), a rustc codegen backend that targets NVIDIA's libnvvm CUDA library.
 - ([417](https://this-week-in-rust.org/blog/2021/11/17/this-week-in-rust-417/)) [starship](https://github.com/starship/starship), a fast featureful customizable UNIX terminal prompt.
 - ([416](https://this-week-in-rust.org/blog/2021/11/10/this-week-in-rust-416/)) [chumsky](https://github.com/zesterer/chumsky), a friendly parser combinator crate.
