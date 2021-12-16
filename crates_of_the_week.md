@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2021
+- ([421](https://this-week-in-rust.org/blog/2021/12/15/this-week-in-rust-421/)) [efg](https://crates.io/crates/efg), a proc macro to allow boolean expression like syntax for `#[cfg]`s.
 - ([420](https://this-week-in-rust.org/blog/2021/12/08/this-week-in-rust-420/)) [tap](https://crates.io/crates/tap), a library with extension traits to provide suffix-position pipeline behavior.
 - ([419](https://this-week-in-rust.org/blog/2021/12/01/this-week-in-rust-419/)) [poem-openapi](https://crates.io/crates/poem-openapi), a framework to implement OpenAPI services.
 - ([418](https://this-week-in-rust.org/blog/2021/11/24/this-week-in-rust-418/)) [rustc_codegen_nvvm](https://crates.io/crates/rustc_codegen_nvvm), a rustc codegen backend that targets NVIDIA's libnvvm CUDA library.
