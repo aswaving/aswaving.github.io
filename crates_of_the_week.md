@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2021
+- ([423](https://this-week-in-rust.org/blog/2021/12/29/this-week-in-rust-423/)) [zoxide](https://github.com/ajeetdsouza/zoxide), a smarter `cd` command.
 - ([422](https://this-week-in-rust.org/blog/2021/12/22/this-week-in-rust-422/)) [kajiya](https://github.com/EmbarkStudios/kajiya), an experimental real-time global illumination renderer made with Rust and Vulkan.
 - ([421](https://this-week-in-rust.org/blog/2021/12/15/this-week-in-rust-421/)) [efg](https://crates.io/crates/efg), a proc macro to allow boolean expression like syntax for `#[cfg]`s.
 - ([420](https://this-week-in-rust.org/blog/2021/12/08/this-week-in-rust-420/)) [tap](https://crates.io/crates/tap), a library with extension traits to provide suffix-position pipeline behavior.
