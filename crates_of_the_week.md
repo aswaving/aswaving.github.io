@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2021
+- ([426](https://this-week-in-rust.org/blog/2022/01/19/this-week-in-rust-426/)) [cargo-release](https://crates.io/crates/cargo-release), a cargo subcommand that makes every crate release a breeze.
 - ([425](https://this-week-in-rust.org/blog/2022/01/12/this-week-in-rust-425/)) [rustix](https://github.com/bytecodealliance/rustix), with safe bindings to POSIX-ish syscalls.
 - ([424](https://this-week-in-rust.org/blog/2022/01/05/this-week-in-rust-424/)) [fltk-rs](https://crates.io/crates/fltk), with bindings to the [FLTK](https://github.com/fltk/fltk) GUI toolkit.
 - ([423](https://this-week-in-rust.org/blog/2021/12/29/this-week-in-rust-423/)) [zoxide](https://github.com/ajeetdsouza/zoxide), a smarter `cd` command.
