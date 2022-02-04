@@ -1,11 +1,14 @@
 # Rust crates of the week
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
-## 2021
+## 2022
+- ([428](https://this-week-in-rust.org/blog/2022/02/02/this-week-in-rust-428/)) [update-informer](https://github.com/mgrachev/update-informer) a library to embed an update check into your CLI project and [blake3](https://crates.io/crates/blake3) a fast cryptographic hash function.
 - ([427](https://this-week-in-rust.org/blog/2022/01/26/this-week-in-rust-427/)) [html5gum](https://github.com/untitaker/html5gum), a WHATWG HTML spec-compliant HTML5 tokenizer.
 - ([426](https://this-week-in-rust.org/blog/2022/01/19/this-week-in-rust-426/)) [cargo-release](https://crates.io/crates/cargo-release), a cargo subcommand that makes every crate release a breeze.
 - ([425](https://this-week-in-rust.org/blog/2022/01/12/this-week-in-rust-425/)) [rustix](https://github.com/bytecodealliance/rustix), with safe bindings to POSIX-ish syscalls.
 - ([424](https://this-week-in-rust.org/blog/2022/01/05/this-week-in-rust-424/)) [fltk-rs](https://crates.io/crates/fltk), with bindings to the [FLTK](https://github.com/fltk/fltk) GUI toolkit.
+
+## 2021
 - ([423](https://this-week-in-rust.org/blog/2021/12/29/this-week-in-rust-423/)) [zoxide](https://github.com/ajeetdsouza/zoxide), a smarter `cd` command.
 - ([422](https://this-week-in-rust.org/blog/2021/12/22/this-week-in-rust-422/)) [kajiya](https://github.com/EmbarkStudios/kajiya), an experimental real-time global illumination renderer made with Rust and Vulkan.
 - ([421](https://this-week-in-rust.org/blog/2021/12/15/this-week-in-rust-421/)) [efg](https://crates.io/crates/efg), a proc macro to allow boolean expression like syntax for `#[cfg]`s.
