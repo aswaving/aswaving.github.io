@@ -2,8 +2,9 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
-- ([429](https://this-week-in-rust.org/blog/2022/02/09/this-week-in-rust-429/)) [document-features](https://crates.io/crates/document-features) a small proc macro to parse your `Cargo.toml` and generate docs for your features.
-- ([428](https://this-week-in-rust.org/blog/2022/02/02/this-week-in-rust-428/)) [update-informer](https://github.com/mgrachev/update-informer) a library to embed an update check into your CLI project and [blake3](https://crates.io/crates/blake3) a fast cryptographic hash function.
+- ([430](https://this-week-in-rust.org/blog/2022/02/16/this-week-in-rust-430/)) [assay](https://lib.rs/crates/assay), a test macro that puts each test in its own process and filesystem. 
+- ([429](https://this-week-in-rust.org/blog/2022/02/09/this-week-in-rust-429/)) [document-features](https://crates.io/crates/document-features), a small proc macro to parse your `Cargo.toml` and generate docs for your features.
+- ([428](https://this-week-in-rust.org/blog/2022/02/02/this-week-in-rust-428/)) [update-informer](https://github.com/mgrachev/update-informer), a library to embed an update check into your CLI project and [blake3](https://crates.io/crates/blake3), a fast cryptographic hash function.
 - ([427](https://this-week-in-rust.org/blog/2022/01/26/this-week-in-rust-427/)) [html5gum](https://github.com/untitaker/html5gum), a WHATWG HTML spec-compliant HTML5 tokenizer.
 - ([426](https://this-week-in-rust.org/blog/2022/01/19/this-week-in-rust-426/)) [cargo-release](https://crates.io/crates/cargo-release), a cargo subcommand that makes every crate release a breeze.
 - ([425](https://this-week-in-rust.org/blog/2022/01/12/this-week-in-rust-425/)) [rustix](https://github.com/bytecodealliance/rustix), with safe bindings to POSIX-ish syscalls.
