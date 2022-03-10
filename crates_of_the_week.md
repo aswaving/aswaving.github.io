@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
+- ([433](https://this-week-in-rust.org/blog/2022/03/09/this-week-in-rust-433/)) [cfb](https://crates.io/crates/cfb) to read/write Compound File Binary (structured storage) files.
 - ([432](https://this-week-in-rust.org/blog/2022/03/02/this-week-in-rust-432/)) [prae](https://github.com/teenjuna/prae), a crate with macros to define types with inbuilt invariants.
 - ([431](https://this-week-in-rust.org/blog/2022/02/23/this-week-in-rust-431/)) [cargo-nextest](https://nexte.st/), a fast test runner.
 - ([430](https://this-week-in-rust.org/blog/2022/02/16/this-week-in-rust-430/)) [assay](https://lib.rs/crates/assay), a test macro that puts each test in its own process and filesystem. 
