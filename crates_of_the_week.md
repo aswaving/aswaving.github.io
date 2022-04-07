@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
+- ([437](https://this-week-in-rust.org/blog/2022/04/06/this-week-in-rust-437/)) [bet](https://github.com/Canop/bet), a library of binary expression trees.
 - ([436](https://this-week-in-rust.org/blog/2022/03/30/this-week-in-rust-436/)) [lapce](https://lapce.dev/), a lightning-fast powerful code editor.
 - ([435](https://this-week-in-rust.org/blog/2022/03/23/this-week-in-rust-435/)) [heph](https://docs.rs/heph), an event-driven, non-blocking I/O, share-nothing actor framework.
 - ([434](https://this-week-in-rust.org/blog/2022/03/16/this-week-in-rust-434/)) [noline](https://crates.io/crates/noline), a small no-std compatible readline-like line editor.
