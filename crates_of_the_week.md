@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
+- ([440](https://this-week-in-rust.org/blog/2022/04/27/this-week-in-rust-440/)) [czkawka](https://github.com/qarmin/czkawka), a GTK-based duplicate finder.
 - ([439](https://this-week-in-rust.org/blog/2022/04/20/this-week-in-rust-439/)) [ttrpc](https://github.com/containerd/ttrpc-rust), a GRPC-like protocol implementation for memory-constrained environments.
 - ([438](https://this-week-in-rust.org/blog/2022/04/13/this-week-in-rust-438/)) [hifitime](https://github.com/nyx-space/hifitime), a high fidelity time management library.
 - ([437](https://this-week-in-rust.org/blog/2022/04/06/this-week-in-rust-437/)) [bet](https://github.com/Canop/bet), a library of binary expression trees.
