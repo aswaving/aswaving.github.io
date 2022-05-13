@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
+- ([442](https://this-week-in-rust.org/blog/2022/05/11/this-week-in-rust-442/)) [enum_dispatch](https://crates.io/crates/enum_dispatch)
 - ([441](https://this-week-in-rust.org/blog/2022/05/04/this-week-in-rust-441/)) [shuttle](https://shuttle.rs/), a declarative deployment solution for and at your service.
 - ([440](https://this-week-in-rust.org/blog/2022/04/27/this-week-in-rust-440/)) [czkawka](https://github.com/qarmin/czkawka), a GTK-based duplicate finder.
 - ([439](https://this-week-in-rust.org/blog/2022/04/20/this-week-in-rust-439/)) [ttrpc](https://github.com/containerd/ttrpc-rust), a GRPC-like protocol implementation for memory-constrained environments.
