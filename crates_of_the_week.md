@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
+- ([443](https://this-week-in-rust.org/blog/2022/05/18/this-week-in-rust-443/)) [cargo-supply-chain](https://crates.io/crates/cargo-supply-chain), a cargo subcommand to gather author, contributor and publisher data on crates in your dependency graph.
 - ([442](https://this-week-in-rust.org/blog/2022/05/11/this-week-in-rust-442/)) [enum_dispatch](https://crates.io/crates/enum_dispatch), a proc-macro-attribute to replace dynamic dispatch with enum dispatch to gain performance.
 - ([441](https://this-week-in-rust.org/blog/2022/05/04/this-week-in-rust-441/)) [shuttle](https://shuttle.rs/), a declarative deployment solution for and at your service.
 - ([440](https://this-week-in-rust.org/blog/2022/04/27/this-week-in-rust-440/)) [czkawka](https://github.com/qarmin/czkawka), a GTK-based duplicate finder.
