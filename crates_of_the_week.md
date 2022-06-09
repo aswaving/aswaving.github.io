@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
+- ([446](https://this-week-in-rust.org/blog/2022/06/08/this-week-in-rust-446/)) [osmpbf](https://lib.rs/crates/osmpbf), an OpenStreetMap pbf-file reader.
 - ([445](https://this-week-in-rust.org/blog/2022/06/01/this-week-in-rust-445/)) [pgfplots](https://github.com/DJDuque/pgfplots), a crate to generate publication-quality figures (with or without LaTeX).
 - ([444](https://this-week-in-rust.org/blog/2022/05/25/this-week-in-rust-444/)) [rustdoc-types](https://docs.rs/rustdoc-types), a crate with types to deserialize Rustdoc's JSON output.
 - ([443](https://this-week-in-rust.org/blog/2022/05/18/this-week-in-rust-443/)) [cargo-supply-chain](https://crates.io/crates/cargo-supply-chain), a cargo subcommand to gather author, contributor and publisher data on crates in your dependency graph.
