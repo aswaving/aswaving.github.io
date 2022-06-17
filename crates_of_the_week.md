@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
+- ([447](https://this-week-in-rust.org/blog/2022/06/15/this-week-in-rust-447/)) [dxf-rs](https://github.com/IxMilia/dxf-rs), a library to parse AutoCAD files.
 - ([446](https://this-week-in-rust.org/blog/2022/06/08/this-week-in-rust-446/)) [osmpbf](https://lib.rs/crates/osmpbf), an OpenStreetMap pbf-file reader.
 - ([445](https://this-week-in-rust.org/blog/2022/06/01/this-week-in-rust-445/)) [pgfplots](https://github.com/DJDuque/pgfplots), a crate to generate publication-quality figures (with or without LaTeX).
 - ([444](https://this-week-in-rust.org/blog/2022/05/25/this-week-in-rust-444/)) [rustdoc-types](https://docs.rs/rustdoc-types), a crate with types to deserialize Rustdoc's JSON output.
