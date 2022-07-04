@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
+- ([449](https://this-week-in-rust.org/blog/2022/06/29/this-week-in-rust-449/)) [cap-std](https://github.com/bytecodealliance/cap-std), a std-replacement that introduces capabilities to facilitate defense-in-depth sandboxing.
 - ([448](https://this-week-in-rust.org/blog/2022/06/22/this-week-in-rust-448/)) [error_stack](https://docs.rs/error-stack/latest/error_stack/), a currently nightly-only error handling library that optimizes for ease of use while allowing to add arbitrary context data to errors..
 - ([447](https://this-week-in-rust.org/blog/2022/06/15/this-week-in-rust-447/)) [dxf-rs](https://github.com/IxMilia/dxf-rs), a library to parse AutoCAD files.
 - ([446](https://this-week-in-rust.org/blog/2022/06/08/this-week-in-rust-446/)) [osmpbf](https://lib.rs/crates/osmpbf), an OpenStreetMap pbf-file reader.
