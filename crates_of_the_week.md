@@ -2,10 +2,10 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
-- ([455](https://this-week-in-rust.org/blog/2022/08/10/this-week-in-rust-455/) [fang](https://github.com/ayrat555/fang), an async background processing crate.
-- ([454](https://this-week-in-rust.org/blog/2022/08/03/this-week-in-rust-454/) [lending-iterator](https://lib.rs/crates/lending-iterator), a type similar to `std::iter::Iterator`, but with some type trickery that allows it to `.windows_mut(_)` safely.
-- ([453](https://this-week-in-rust.org/blog/2022/07/27/this-week-in-rust-453/) [cargo-semver-checks](https://crates.io/crates/cargo-semver-checks), a CI-friendly tool to check your library's API.
-- ([452](https://this-week-in-rust.org/blog/2022/07/20/this-week-in-rust-452/) [bnum](https://crates.io/crates/bnum), a library of arbitrarily sized fixed-size numerals.
+- ([455](https://this-week-in-rust.org/blog/2022/08/10/this-week-in-rust-455/)) [fang](https://github.com/ayrat555/fang), an async background processing crate.
+- ([454](https://this-week-in-rust.org/blog/2022/08/03/this-week-in-rust-454/)) [lending-iterator](https://lib.rs/crates/lending-iterator), a type similar to `std::iter::Iterator`, but with some type trickery that allows it to `.windows_mut(_)` safely.
+- ([453](https://this-week-in-rust.org/blog/2022/07/27/this-week-in-rust-453/)) [cargo-semver-checks](https://crates.io/crates/cargo-semver-checks), a CI-friendly tool to check your library's API.
+- ([452](https://this-week-in-rust.org/blog/2022/07/20/this-week-in-rust-452/)) [bnum](https://crates.io/crates/bnum), a library of arbitrarily sized fixed-size numerals.
 - ([451](https://this-week-in-rust.org/blog/2022/07/13/this-week-in-rust-451/)) [shame](https://github.com/RayMarch/shame), a shader EDSL for writing render and compute pipelines. 
 - ([450](https://this-week-in-rust.org/blog/2022/07/06/this-week-in-rust-450/)) [coprosize](https://crates.io/crates/coprosize), a program to aiding the study of dinosaur dung.
 - ([449](https://this-week-in-rust.org/blog/2022/06/29/this-week-in-rust-449/)) [cap-std](https://github.com/bytecodealliance/cap-std), a std-replacement that introduces capabilities to facilitate defense-in-depth sandboxing.
