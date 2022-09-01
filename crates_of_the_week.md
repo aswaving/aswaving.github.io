@@ -38,7 +38,10 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 - ([425](https://this-week-in-rust.org/blog/2022/01/12/this-week-in-rust-425/)) [rustix](https://github.com/bytecodealliance/rustix), with safe bindings to POSIX-ish syscalls.
 - ([424](https://this-week-in-rust.org/blog/2022/01/05/this-week-in-rust-424/)) [fltk-rs](https://crates.io/crates/fltk), with bindings to the [FLTK](https://github.com/fltk/fltk) GUI toolkit.
 
-## 2021
+<details>
+  <summary>2021</summary>
+  
+  
 - ([423](https://this-week-in-rust.org/blog/2021/12/29/this-week-in-rust-423/)) [zoxide](https://github.com/ajeetdsouza/zoxide), a smarter `cd` command.
 - ([422](https://this-week-in-rust.org/blog/2021/12/22/this-week-in-rust-422/)) [kajiya](https://github.com/EmbarkStudios/kajiya), an experimental real-time global illumination renderer made with Rust and Vulkan.
 - ([421](https://this-week-in-rust.org/blog/2021/12/15/this-week-in-rust-421/)) [efg](https://crates.io/crates/efg), a proc macro to allow boolean expression like syntax for `#[cfg]`s.
@@ -92,8 +95,12 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 - ([373](https://this-week-in-rust.org/blog/2021/01/13/this-week-in-rust-373/)) [fast-float](https://github.com/aldanor/fast-float-rust), provides methods to 
 parse floats really fast. 
 - ([372](https://this-week-in-rust.org/blog/2021/01/06/this-week-in-rust-372/)) [nom-supreme](https://crates.io/crates/nom-supreme), utilities for nom parsers, especially for great parse error handling.
+</details>
 
-## 2020
+<details>
+  <summary>2020</summary>
+  
+  
 - ([371](https://this-week-in-rust.org/blog/2020/12/30/this-week-in-rust-371/)) [autograd](https://github.com/raskr/rust-autograd), a library of differentiable operations and tensors for machine learning applications.
 - ([370](https://this-week-in-rust.org/blog/2020/12/23/this-week-in-rust-370/)) [RustFFT](https://github.com/ejmahler/RustFFT), a mixed-radix FFT implementation.
 - ([369](https://this-week-in-rust.org/blog/2020/12/16/this-week-in-rust-369/)) [thermite](https://github.com/raygon-renderer/thermite), a SIMD struct-of-arrays-algorithms library.
@@ -146,8 +153,12 @@ parse floats really fast.
 - ([322](https://this-week-in-rust.org/blog/2020/01/21/this-week-in-rust-322/)) [fasteval](https://crates.io/crates/fasteval), for fast and safe evaluation of algebraic expressions.
 - ([321](https://this-week-in-rust.org/blog/2020/01/14/this-week-in-rust-321/)) [cxx](https://github.com/dtolnay/cxx), to build a C++ FFI safely by taking care of both sides.
 - ([320](https://this-week-in-rust.org/blog/2020/01/07/this-week-in-rust-320/)) [sqlx](https://crates.io/crates/sqlx), a modern SQL client library.
+</details>
 
-## 2019
+<details>
+  <summary>2019</summary>
+  
+  
 - ([319](https://this-week-in-rust.org/blog/2019/12/31/this-week-in-rust-319/)) [attohttpc](https://crates.io/crates/attohttpc), a tiny synchronous HTTP client library.
 - ([318](https://this-week-in-rust.org/blog/2019/12/24/this-week-in-rust-318/)) [bstr](https://github.com/o0Ignition0o/cargo-scout), a cargo subcommand to run clippy on only the changed code in your crate (following git diff).
 - ([317](https://this-week-in-rust.org/blog/2019/12/17/this-week-in-rust-317/)) [bstr](https://github.com/BurntSushi/bstr), a string type for Rust that is not required to be valid UTF-8.
@@ -200,8 +211,12 @@ parse floats really fast.
 - ([269](https://this-week-in-rust.org/blog/2019/01/15/this-week-in-rust-269/)) [ropey](https://github.com/cessen/ropey), an editable text buffer data structure.
 - ([268](https://this-week-in-rust.org/blog/2019/01/08/this-week-in-rust-268/)) [gfx-hal](https://crates.io/crates/gfx-hal), a hardware abstraction for fox-rs.
 - ([267](https://this-week-in-rust.org/blog/2019/01/01/this-week-in-rust-267/)) [Dose Response](https://tryjumping.itch.io/dose-response), an online-playable tonguelike game with a probably bleak outcome.
+</details>
 
-## 2018
+<details>
+  <summary>2018</summary>
+  
+  
 - ([266](https://this-week-in-rust.org/blog/2018/12/25/this-week-in-rust-266/)) [sandspiel](https://sandspiel.club/), a WASM-powered online sandbox automaton game.
 - ([265](https://this-week-in-rust.org/blog/2018/12/18/this-week-in-rust-265/)) [yasered](https://github.com/media-io/yaserde), a specialized (de)serialisation crate compatible with serde
 - ([264](https://this-week-in-rust.org/blog/2018/12/11/this-week-in-rust-264/)) [lsd](https://github.com/Peltoche/lsd), a colorful and fast `ls` replacement.
@@ -253,8 +268,12 @@ parse floats really fast.
 - ([217](https://this-week-in-rust.org/blog/2018/01/16/this-week-in-rust-217/)) [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat), a cargo subcommand to find out how much space crates/functions take up in an executable.
 - ([216](https://this-week-in-rust.org/blog/2018/01/09/this-week-in-rust-216/)) [artifact](https://github.com/vitiral/artifact), a design documentation tool.
 - ([215](https://this-week-in-rust.org/blog/2018/01/02/this-week-in-rust-215/)) [YEW](https://github.com/DenisKolodin/yew), a framework for making Elm/React/Angular-like client web-apps with Rust.
+</details>
 
-## 2017
+<details>
+  <summary>2017</summary>
+  
+  
 - ([214](https://this-week-in-rust.org/blog/2017/12/26/this-week-in-rust-214/)) [crossbeam-channel](https://crates.io/crates/crossbeam-channel), a crate that improves multi-producer multi-consumer channels compared to what the standard library offers.
 - ([213](https://this-week-in-rust.org/blog/2017/12/19/this-week-in-rust-213/)) [cargo-audit](https://crates.io/crates/cargo-audit), a cargo subcommand to look through a crates dependencies for known insecure versions.
 - ([212](https://this-week-in-rust.org/blog/2017/12/12/this-week-in-rust-212/)) [printpdf](https://crates.io/crates/printpdf), a pure Rust PDF-writing library that already has a lot of features (though I note a lot of bool-taking methods).
@@ -298,8 +317,12 @@ parse floats really fast.
 - ([165](https://this-week-in-rust.org/blog/2017/01/17/this-week-in-rust-165/)) [alacritty](https://github.com/jwilm/alacritty), an OpenGL-propelled Terminal application. Really fast, nice looking. Missing scrollback.
 - ([164](https://this-week-in-rust.org/blog/2017/01/10/this-week-in-rust-164/)) [trust](https://github.com/japaric/trust), a Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows.
 - ([163](https://this-week-in-rust.org/blog/2017/01/03/this-week-in-rust-163/)) [rocket](https://crates.io/crates/rocket), an experimental web framework (will need a nightly Rust!) with a focus on ease-of-use, expressability and speed.
+</details>
 
-## 2016
+<details>
+  <summary>2016</summary>
+  
+  
 - ([162](https://this-week-in-rust.org/blog/2016/12/27/this-week-in-rust-162/)) [raster](https://github.com/kosinix/raster), an image processing library.
 - ([161](https://this-week-in-rust.org/blog/2016/12/20/this-week-in-rust-161/)) [ruru](https://github.com/d-unseductable/ruru), a wrapper around Ruby's C-API.
 - ([159](https://this-week-in-rust.org/blog/2016/12/06/this-week-in-rust-159/)) [seahash](https://crates.io/crates/seahash), a statistically well-tested fast hash.
@@ -341,8 +364,12 @@ parse floats really fast.
 - ([114](https://this-week-in-rust.org/blog/2016/01/18/this-week-in-rust-114/)) [toml](https://github.com/alexcrichton/toml-rs), for all our configuration needs, simple yet effective.
 - ([113](https://this-week-in-rust.org/blog/2016/01/11/this-week-in-rust-113/)) [crossbeam](https://crates.io/crates/crossbeam), a library of non-blocking data structures and synchronization primitives that makes writing concurrent programs easier and more efficient (both in terms of code and runtime).
 - ([112](https://this-week-in-rust.org/blog/2016/01/04/this-week-in-rust-112/)) [rustfmt](https://crates.io/crates/rustfmt/), because it's nice to Rust with style.
+</details>
 
-## 2015
+<details>
+  <summary>2015</summary>
+  
+  
 - ([111](https://this-week-in-rust.org/blog/2015/12/28/this-week-in-rust-111/)) [handlebars-rust](https://github.com/sunng87/handlebars-rust), an implementation of the Handlebars templating language for Rust. It also allows custom helpers and template inheritance for real-world usage.
 - ([110](https://this-week-in-rust.org/blog/2015/12/21/this-week-in-rust-110/)) [clippy](https://github.com/Manishearth/rust-clippy), a collection of lints for better Rust code.
 - ([109](https://this-week-in-rust.org/blog/2015/12/14/this-week-in-rust-109/)) [quick-error](https://github.com/tailhook/quick-error), a rust-macro which makes errors easy to write.
@@ -358,3 +385,4 @@ parse floats really fast.
 - ([99]()) [itertools](https://github.com/bluss/rust-itertools)
 - ([98]()) [quickcheck](https://github.com/BurntSushi/quickcheck) 
 - ([97]()) [lazy_static](https://crates.io/crates/lazy_static)
+</details>
