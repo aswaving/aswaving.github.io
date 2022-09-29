@@ -2,6 +2,8 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
+- ([462](https://this-week-in-rust.org/blog/2022/09/28/this-week-in-rust-462/)) [serde-transcode](https://docs.rs/serde-transcode), to efficiently convert between various serde-supporting formats.
+- ([461](https://this-week-in-rust.org/blog/2022/09/21/this-week-in-rust-461/)) [match_deref](https://crates.io/crates/match_deref), a macro crate to implement deref patterns on stable Rust.
 - ([460](https://this-week-in-rust.org/blog/2022/09/14/this-week-in-rust-460/)) [bstr](https://lib.rs/crates/bstr), a fast and featureful byte-string library.
 - ([459](https://this-week-in-rust.org/blog/2022/09/07/this-week-in-rust-459/)) [sql-query-builder](https://crates.io/crates/sql_query_builder), a library to write SQL queries in a simple and composable way.
 - ([458](https://this-week-in-rust.org/blog/2022/08/31/this-week-in-rust-458/)) [bytehound](https://github.com/koute/bytehound), a memory profiler for Rust.
