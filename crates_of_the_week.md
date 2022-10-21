@@ -2,6 +2,8 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
+- ([465](https://this-week-in-rust.org/blog/2022/10/19/this-week-in-rust-465/)) [HyperQueue](https://github.com/It4innovations/hyperqueue), a runtime for ergonomic execution of programs on a distributed cluster.
+- ([464](https://this-week-in-rust.org/blog/2022/10/12/this-week-in-rust-464/)) [pci-driver](https://crates.io/crates/pci-driver), to develop user-space PCI(e) linux drivers.
 - ([463](https://this-week-in-rust.org/blog/2022/10/05/this-week-in-rust-463/)) [humansize](https://lib.rs/crates/humansize), a size formatting crate.
 - ([462](https://this-week-in-rust.org/blog/2022/09/28/this-week-in-rust-462/)) [serde-transcode](https://docs.rs/serde-transcode), to efficiently convert between various serde-supporting formats.
 - ([461](https://this-week-in-rust.org/blog/2022/09/21/this-week-in-rust-461/)) [match_deref](https://crates.io/crates/match_deref), a macro crate to implement deref patterns on stable Rust.
