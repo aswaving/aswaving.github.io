@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
+- ([468](https://this-week-in-rust.org/blog/2022/11/09/this-week-in-rust-468/)) [enum_delegate](https://crates.io/crates/enum_delegate), a crate to replace dynamic dispatch with enum dispatch.
 - ([467](https://this-week-in-rust.org/blog/2022/11/02/this-week-in-rust-467/)) [type_description](https://crates.io/crates/type_description), o make types discoverable for users by explaining them in a way that a user can understand without knowing implementation details.
 - ([466](https://this-week-in-rust.org/blog/2022/10/26/this-week-in-rust-466/)) [humantime](https://lib.rs/crates/humantime), a parser and formatter for `std::time::{Duration, SystemTime}`.
 - ([465](https://this-week-in-rust.org/blog/2022/10/19/this-week-in-rust-465/)) [HyperQueue](https://github.com/It4innovations/hyperqueue), a runtime for ergonomic execution of programs on a distributed cluster.
