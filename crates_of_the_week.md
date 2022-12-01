@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
+- ([471](https://this-week-in-rust.org/blog/2022/11/30/this-week-in-rust-471/)) [code-radio-cli](https://github.com/JasonWei512/code-radio-cli), a command line interface for listening to freeCodeCamp's Code Radio music stream.
 - ([470](https://this-week-in-rust.org/blog/2022/11/23/this-week-in-rust-470/)) [graph](https://crates.io/crates/graph), a collection of high-performance graph algorithms.
 - ([469](https://this-week-in-rust.org/blog/2022/11/16/this-week-in-rust-469/)) [lngcnv](https://crates.io/crates/lngcnv), a linguistic command line tool.
 - ([468](https://this-week-in-rust.org/blog/2022/11/09/this-week-in-rust-468/)) [enum_delegate](https://crates.io/crates/enum_delegate), a crate to replace dynamic dispatch with enum dispatch.
