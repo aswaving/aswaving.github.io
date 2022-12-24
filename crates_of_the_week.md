@@ -2,6 +2,8 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
+- ([474](https://this-week-in-rust.org/blog/2022/12/21/this-week-in-rust-474/)) [dhat](https://docs.rs/dhat), a crate providing DHAT-like allocation profiling capabilities.
+- ([473](https://this-week-in-rust.org/blog/2022/12/14/this-week-in-rust-473/)) [lazy_format](https://docs.rs/lazy_format), a lazy version of format! for more efficient composed string formatting operations.
 - ([472](https://this-week-in-rust.org/blog/2022/12/07/this-week-in-rust-472/)) [zeroize](https://crates.io/crates/zeroize), to securely clear secrets from memory either manually or on drop, with both methods for your types being but one `#[derive]` away.
 - ([471](https://this-week-in-rust.org/blog/2022/11/30/this-week-in-rust-471/)) [code-radio-cli](https://github.com/JasonWei512/code-radio-cli), a command line interface for listening to freeCodeCamp's Code Radio music stream.
 - ([470](https://this-week-in-rust.org/blog/2022/11/23/this-week-in-rust-470/)) [graph](https://crates.io/crates/graph), a collection of high-performance graph algorithms.
