@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2022
+- ([476](https://this-week-in-rust.org/blog/2023/01/04/this-week-in-rust-476/)) [Sniffnet](https://github.com/GyulyVGC/sniffnet), a cross-platform GUI application to analyze your network traffic.
 - ([475](https://this-week-in-rust.org/blog/2022/12/28/this-week-in-rust-475/)) [scraper](https://crates.io/crates/scraper), a crate for HTML parsing and querying with CSS selectors.
 - ([474](https://this-week-in-rust.org/blog/2022/12/21/this-week-in-rust-474/)) [dhat](https://docs.rs/dhat), a crate providing DHAT-like allocation profiling capabilities.
 - ([473](https://this-week-in-rust.org/blog/2022/12/14/this-week-in-rust-473/)) [lazy_format](https://docs.rs/lazy_format), a lazy version of format! for more efficient composed string formatting operations.
