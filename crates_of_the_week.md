@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([477](https://this-week-in-rust.org/blog/2023/01/11/this-week-in-rust-477/)) [schnellru](https://crates.io/crates/schnellru), contains a fast and flexible LRU map.
 - ([476](https://this-week-in-rust.org/blog/2023/01/04/this-week-in-rust-476/)) [Sniffnet](https://github.com/GyulyVGC/sniffnet), a cross-platform GUI application to analyze your network traffic.
 
 <details>
