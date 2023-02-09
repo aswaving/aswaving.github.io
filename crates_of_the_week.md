@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([481](https://this-week-in-rust.org/blog/2023/02/08/this-week-in-rust-481/)) [envious](https://github.com/TheNeikos/envious), a serde-based deserializer from environment variables.
 - ([480](https://this-week-in-rust.org/blog/2023/02/01/this-week-in-rust-480/)) [symphonia](https://lib.rs/crates/symphonia), a collection of pure-Rust audio decoders for many common formats.
 - ([479](https://this-week-in-rust.org/blog/2023/01/25/this-week-in-rust-479/)) [darkbird](https://github.com/Rustixir/darkbird), a mnesia-inspired high concurrency, real time, in-memory storage library.
 - ([478](https://this-week-in-rust.org/blog/2023/01/18/this-week-in-rust-478/)) [syntactic-for](https://crates.io/crates/syntactic-for), a syntactic "for" loop Rust macro.
