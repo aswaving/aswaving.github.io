@@ -2,7 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
-- ([483](https://this-week-in-rust.org/blog/2023/02/22/this-week-in-rust-483/)) [darkbird](https://github.com/Rustixir/darkbird), a high-concurrency real-time in-memory database.
+- ([483](https://this-week-in-rust.org/blog/2023/02/22/this-week-in-rust-483/)) [darkbird](https://github.com/Rustixir/darkbird), a high-concurrency real-time in-memory database (darkbird again???? wtf!).
 - ([482](https://this-week-in-rust.org/blog/2023/02/15/this-week-in-rust-482/)) [bkmr](https://github.com/sysid/bkmr), a fast CLI bookmark manager and launcher.
 - ([481](https://this-week-in-rust.org/blog/2023/02/08/this-week-in-rust-481/)) [envious](https://github.com/TheNeikos/envious), a serde-based deserializer from environment variables.
 - ([480](https://this-week-in-rust.org/blog/2023/02/01/this-week-in-rust-480/)) [symphonia](https://lib.rs/crates/symphonia), a collection of pure-Rust audio decoders for many common formats.
