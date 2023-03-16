@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([486](https://this-week-in-rust.org/blog/2023/03/15/this-week-in-rust-486/)) [duplicate](https://docs.rs/duplicate), a proc macro crate for easy parametric code duplication.
 - ([485](https://this-week-in-rust.org/blog/2023/03/08/this-week-in-rust-485/)) [man-in-the-middle-proxy](https://github.com/emanuele-em/man-in-the-middle-proxy).
 - ([484](https://this-week-in-rust.org/blog/2023/03/01/this-week-in-rust-484/)) [goku](https://github.com/jcaromiq/goku/), a HTTP load tester.
 - ([483](https://this-week-in-rust.org/blog/2023/02/22/this-week-in-rust-483/)) [darkbird](https://github.com/Rustixir/darkbird), a high-concurrency real-time in-memory database (darkbird again???? wtf!).
