@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([488](https://this-week-in-rust.org/blog/2023/03/29/this-week-in-rust-488/)) [typst](https://github.com/typst/typst), a modern LaTeX replacement.
 - ([487](https://this-week-in-rust.org/blog/2023/03/22/this-week-in-rust-487/)) [Speedy2D](https://github.com/QuantumBadger/Speedy2D), offering cross-platform Hardware-accelerated drawing of shapes, images, and text, with an easy to use API.
 - ([486](https://this-week-in-rust.org/blog/2023/03/15/this-week-in-rust-486/)) [duplicate](https://docs.rs/duplicate), a proc macro crate for easy parametric code duplication.
 - ([485](https://this-week-in-rust.org/blog/2023/03/08/this-week-in-rust-485/)) [man-in-the-middle-proxy](https://github.com/emanuele-em/man-in-the-middle-proxy).
