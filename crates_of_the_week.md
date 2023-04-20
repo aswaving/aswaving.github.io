@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([491](https://this-week-in-rust.org/blog/2023/04/19/this-week-in-rust-491/)) [onlyerror](https://crates.io/crates/onlyerror), a `#[derive(Error)]` macro with support for `no_std` on nightly compilers.
 - ([490](https://this-week-in-rust.org/blog/2023/04/12/this-week-in-rust-490/)) [spacedisplay](https://github.com/funbiscuit/spacedisplay-rs), a small terminal app for analyzing used disk space.
 - ([489](https://this-week-in-rust.org/blog/2023/04/05/this-week-in-rust-489/)) [keshvar](https://github.com/pouriya/keshvar), a library providing a host of information on every country.
 - ([488](https://this-week-in-rust.org/blog/2023/03/29/this-week-in-rust-488/)) [typst](https://github.com/typst/typst), a modern LaTeX replacement.
