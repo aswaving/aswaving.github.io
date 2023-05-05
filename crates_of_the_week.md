@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([493](https://this-week-in-rust.org/blog/2023/05/03/this-week-in-rust-493/)) [script-macro](https://github.com/untitaker/script-macro), an experimental way of writing simple proc-macros inline.
 - ([492](https://this-week-in-rust.org/blog/2023/04/26/this-week-in-rust-492/)) [system-deps](https://crates.io/crates/system-deps), a crate that will compile your pkg-config-based dependencies for you.
 - ([491](https://this-week-in-rust.org/blog/2023/04/19/this-week-in-rust-491/)) [onlyerror](https://crates.io/crates/onlyerror), a `#[derive(Error)]` macro with support for `no_std` on nightly compilers.
 - ([490](https://this-week-in-rust.org/blog/2023/04/12/this-week-in-rust-490/)) [spacedisplay](https://github.com/funbiscuit/spacedisplay-rs), a small terminal app for analyzing used disk space.
