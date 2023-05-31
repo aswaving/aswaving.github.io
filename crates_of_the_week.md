@@ -2,6 +2,8 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([496](https://this-week-in-rust.org/blog/2023/05/24/this-week-in-rust-496/)) [whichlang](https://github.com/quickwit-oss/whichlang), a fast no-dependencies OSS natural language detector.
+- ([495](https://this-week-in-rust.org/blog/2023/05/17/this-week-in-rust-495/)) [Qdrant](https://github.com/qdrant/qdrant), an open source production ready vector database/similarity search engine written in Rust.
 - ([494](https://this-week-in-rust.org/blog/2023/05/10/this-week-in-rust-494/)) [dlhn](https://crates.io/crates/dlhn), a serde-compatible serialization format geared for performance.
 - ([493](https://this-week-in-rust.org/blog/2023/05/03/this-week-in-rust-493/)) [script-macro](https://github.com/untitaker/script-macro), an experimental way of writing simple proc-macros inline.
 - ([492](https://this-week-in-rust.org/blog/2023/04/26/this-week-in-rust-492/)) [system-deps](https://crates.io/crates/system-deps), a crate that will compile your pkg-config-based dependencies for you.
