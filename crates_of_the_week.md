@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([497](https://this-week-in-rust.org/blog/2023/05/31/this-week-in-rust-497/)) [progenitor](https://github.com/oxidecomputer/progenitor), an OpenAPI client generator with support for strongly typed mock tests.
 - ([496](https://this-week-in-rust.org/blog/2023/05/24/this-week-in-rust-496/)) [whichlang](https://github.com/quickwit-oss/whichlang), a fast no-dependencies OSS natural language detector.
 - ([495](https://this-week-in-rust.org/blog/2023/05/17/this-week-in-rust-495/)) [Qdrant](https://github.com/qdrant/qdrant), an open source production ready vector database/similarity search engine written in Rust.
 - ([494](https://this-week-in-rust.org/blog/2023/05/10/this-week-in-rust-494/)) [dlhn](https://crates.io/crates/dlhn), a serde-compatible serialization format geared for performance.
