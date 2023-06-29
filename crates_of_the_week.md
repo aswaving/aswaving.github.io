@@ -2,6 +2,10 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([501](https://this-week-in-rust.org/blog/2023/06/28/this-week-in-rust-501/)) [Parsel](https://docs.rs/parsel), an easy to use parser generator.
+- ([500](https://this-week-in-rust.org/blog/2023/06/21/this-week-in-rust-500/)) [release-plz](https://github.com/MarcoIeni/release-plz), a crate to automate changelog generation, GitHub/Gitea release tagging, publishing on [crates.io](https://crates.io) and bumping the version.
+- ([499](https://this-week-in-rust.org/blog/2023/06/14/this-week-in-rust-499/)) [mailtutan](https://github.com/mailtutan/mailtutan), a simulating SMTP server.
+- ([498](https://this-week-in-rust.org/blog/2023/06/07/this-week-in-rust-498/)) [kanata](https://github.com/jtroo/kanata), a keyboard remapper for Linux and Windows. 
 - ([497](https://this-week-in-rust.org/blog/2023/05/31/this-week-in-rust-497/)) [progenitor](https://github.com/oxidecomputer/progenitor), an OpenAPI client generator with support for strongly typed mock tests.
 - ([496](https://this-week-in-rust.org/blog/2023/05/24/this-week-in-rust-496/)) [whichlang](https://github.com/quickwit-oss/whichlang), a fast no-dependencies OSS natural language detector.
 - ([495](https://this-week-in-rust.org/blog/2023/05/17/this-week-in-rust-495/)) [Qdrant](https://github.com/qdrant/qdrant), an open source production ready vector database/similarity search engine written in Rust.
