@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([502](https://this-week-in-rust.org/blog/2023/07/05/this-week-in-rust-502/)) [rustypaste](https://github.com/orhun/rustypaste), a minimal file upload/pastebin service.
 - ([501](https://this-week-in-rust.org/blog/2023/06/28/this-week-in-rust-501/)) [Parsel](https://docs.rs/parsel), an easy to use parser generator.
 - ([500](https://this-week-in-rust.org/blog/2023/06/21/this-week-in-rust-500/)) [release-plz](https://github.com/MarcoIeni/release-plz), a crate to automate changelog generation, GitHub/Gitea release tagging, publishing on [crates.io](https://crates.io) and bumping the version.
 - ([499](https://this-week-in-rust.org/blog/2023/06/14/this-week-in-rust-499/)) [mailtutan](https://github.com/mailtutan/mailtutan), a simulating SMTP server.
