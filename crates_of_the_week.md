@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([503](https://this-week-in-rust.org/blog/2023/07/12/this-week-in-rust-503/)) [dusk](https://dystroy.org/dysk/), a nice `df` like utility to display the fill level of your disks.
 - ([502](https://this-week-in-rust.org/blog/2023/07/05/this-week-in-rust-502/)) [rustypaste](https://github.com/orhun/rustypaste), a minimal file upload/pastebin service.
 - ([501](https://this-week-in-rust.org/blog/2023/06/28/this-week-in-rust-501/)) [Parsel](https://docs.rs/parsel), an easy to use parser generator.
 - ([500](https://this-week-in-rust.org/blog/2023/06/21/this-week-in-rust-500/)) [release-plz](https://github.com/MarcoIeni/release-plz), a crate to automate changelog generation, GitHub/Gitea release tagging, publishing on [crates.io](https://crates.io) and bumping the version.
