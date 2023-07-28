@@ -2,6 +2,8 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([505](https://this-week-in-rust.org/blog/2023/07/26/this-week-in-rust-505/)) [tower-async](https://github.com/plabayo/tower-async), a currently nightly-only async library to build network servers, based on [tower](https://docs.rs/tower).
+- ([504](https://this-week-in-rust.org/blog/2023/07/19/this-week-in-rust-504/)) [ratatui](https://docs.rs/ratatui), to build rich terminal user interfaces and dashboards.
 - ([503](https://this-week-in-rust.org/blog/2023/07/12/this-week-in-rust-503/)) [dusk](https://dystroy.org/dysk/), a nice `df` like utility to display the fill level of your disks.
 - ([502](https://this-week-in-rust.org/blog/2023/07/05/this-week-in-rust-502/)) [rustypaste](https://github.com/orhun/rustypaste), a minimal file upload/pastebin service.
 - ([501](https://this-week-in-rust.org/blog/2023/06/28/this-week-in-rust-501/)) [Parsel](https://docs.rs/parsel), an easy to use parser generator.
