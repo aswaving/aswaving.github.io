@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([508](https://this-week-in-rust.org/blog/2023/08/16/this-week-in-rust-508/)) [agree](https://crates.io/crates/agree), a command-line tool implementing Shamir's Secret Sharing. 
 - ([507](https://this-week-in-rust.org/blog/2023/08/09/this-week-in-rust-507/)) [deep_causality](https://github.com/deepcausality-rs/deep_causality), a hyper-geometric computational causality library.
 - ([506](https://this-week-in-rust.org/blog/2023/08/02/this-week-in-rust-506/)) [allocator-api2](https://docs.rs/allocator-api2), a forward-compatibility shim to use the nightly allocator API on stable Rust.
 - ([505](https://this-week-in-rust.org/blog/2023/07/26/this-week-in-rust-505/)) [tower-async](https://github.com/plabayo/tower-async), a currently nightly-only async library to build network servers, based on [tower](https://docs.rs/tower).
