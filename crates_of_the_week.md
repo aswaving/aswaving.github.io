@@ -2,6 +2,8 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([510](https://this-week-in-rust.org/blog/2023/08/30/this-week-in-rust-510/)) [dprint](https://github.com/dprint/dprint), a fast code formatter that formats Markdown, TypeScript, JavaScript, JSON, TOML and many other types natively via Wasm plugins.
+- ([509](https://this-week-in-rust.org/blog/2023/08/23/this-week-in-rust-509/)) [document-features](https://github.com/slint-ui/document-features), to extract documentation for the feature flags from comments in Cargo.toml.
 - ([508](https://this-week-in-rust.org/blog/2023/08/16/this-week-in-rust-508/)) [agree](https://crates.io/crates/agree), a command-line tool implementing Shamir's Secret Sharing. 
 - ([507](https://this-week-in-rust.org/blog/2023/08/09/this-week-in-rust-507/)) [deep_causality](https://github.com/deepcausality-rs/deep_causality), a hyper-geometric computational causality library.
 - ([506](https://this-week-in-rust.org/blog/2023/08/02/this-week-in-rust-506/)) [allocator-api2](https://docs.rs/allocator-api2), a forward-compatibility shim to use the nightly allocator API on stable Rust.
