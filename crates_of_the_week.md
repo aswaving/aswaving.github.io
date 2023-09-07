@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([511](https://this-week-in-rust.org/blog/2023/09/06/this-week-in-rust-511/)) [str0m](https://github.com/algesten/str0m), a synchronous sans-IO WebRTC implementation.
 - ([510](https://this-week-in-rust.org/blog/2023/08/30/this-week-in-rust-510/)) [dprint](https://github.com/dprint/dprint), a fast code formatter that formats Markdown, TypeScript, JavaScript, JSON, TOML and many other types natively via Wasm plugins.
 - ([509](https://this-week-in-rust.org/blog/2023/08/23/this-week-in-rust-509/)) [document-features](https://github.com/slint-ui/document-features), to extract documentation for the feature flags from comments in Cargo.toml.
 - ([508](https://this-week-in-rust.org/blog/2023/08/16/this-week-in-rust-508/)) [agree](https://crates.io/crates/agree), a command-line tool implementing Shamir's Secret Sharing. 
