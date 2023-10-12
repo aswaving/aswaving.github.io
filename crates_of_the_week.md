@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([516](https://this-week-in-rust.org/blog/2023/10/11/this-week-in-rust-516/)) [yarer](https://crates.io/crates/yarer), a library and command-line tool to evaluate mathematical expressions.
 - ([515](https://this-week-in-rust.org/blog/2023/10/04/this-week-in-rust-515/)) [loole](https://github.com/mahdi-shojaee/loole),  another multiple-producer multiple-consumer channel.
 - ([514](https://this-week-in-rust.org/blog/2023/09/27/this-week-in-rust-514/)) [async_fn_traits](https://docs.rs/async_fn_traits), a crate with async function traits to enable using higher ranked trait bounds in async functions.
 - ([513](https://this-week-in-rust.org/blog/2023/09/20/this-week-in-rust-513/)) [RustQuant](https://github.com/avhz/RustQuant), a crate for quantitative finance. 
