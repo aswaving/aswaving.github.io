@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([519](https://this-week-in-rust.org/blog/2023/11/01/this-week-in-rust-519/)) [silkenweb](https://crates.io/crates/silkenweb), a library for building web apps with fine-grained reactivity and a clean separation of logic and UI.
 - ([518](https://this-week-in-rust.org/blog/2023/10/25/this-week-in-rust-518/)) [cargo-show-asm](https://lib.rs/crates/cargo-show-asm),  a cargo subcommand to show the optimized assembly of any function.
 - ([517](https://this-week-in-rust.org/blog/2023/10/18/this-week-in-rust-517/)) [rinf](https://github.com/cunarist/rinf), a library to write Rust in Flutter.
 - ([516](https://this-week-in-rust.org/blog/2023/10/11/this-week-in-rust-516/)) [yarer](https://crates.io/crates/yarer), a library and command-line tool to evaluate mathematical expressions.
