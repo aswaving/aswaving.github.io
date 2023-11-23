@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([522](https://this-week-in-rust.org/blog/2023/11/22/this-week-in-rust-522/)) [rocket](https://rocket.rs/), an opinionated web framework that aims to be really ergonomic while still being fast.
 - ([521](https://this-week-in-rust.org/blog/2023/11/15/this-week-in-rust-521/)) [cargo-msrv](https://github.com/foresterre/cargo-msrv), a cargo subcommand to find out the Minimum Supported Rust Version (MSRV) of your crate.
 - ([520](https://this-week-in-rust.org/blog/2023/11/08/this-week-in-rust-520/)) [floem](https://github.com/lapce/floem), a native Rust UI library with fine-grained reactivity.
 - ([519](https://this-week-in-rust.org/blog/2023/11/01/this-week-in-rust-519/)) [silkenweb](https://crates.io/crates/silkenweb), a library for building web apps with fine-grained reactivity and a clean separation of logic and UI.
