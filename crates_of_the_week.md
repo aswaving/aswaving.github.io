@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([525](https://this-week-in-rust.org/blog/2023/12/13/this-week-in-rust-525/)) [io-adapters](https://github.com/SUPERCILEX/io-adapters), lets you convert between different writeable APIs (`io` vs. `fmt`).
 - ([524](https://this-week-in-rust.org/blog/2023/12/06/this-week-in-rust-524/)) [symbols](https://crates.io/crates/symbols), a utility to quickly create proc-macros to solidify database tables into enums enabling compile time foreign key checks.
 - ([523](https://this-week-in-rust.org/blog/2023/11/29/this-week-in-rust-523/)) [tokio-graceful](https://docs.rs/tokio-graceful), a library for graceful shutdown of tokio-based async servers.
 - ([522](https://this-week-in-rust.org/blog/2023/11/22/this-week-in-rust-522/)) [rocket](https://rocket.rs/), an opinionated web framework that aims to be really ergonomic while still being fast.
