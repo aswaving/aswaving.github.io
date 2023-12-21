@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2023
+- ([526](https://this-week-in-rust.org/blog/2023/12/20/this-week-in-rust-526/)) [constcat](https://crates.io/crates/constcat), a `std::concat!`-replacement with support for const variables and expressions.
 - ([525](https://this-week-in-rust.org/blog/2023/12/13/this-week-in-rust-525/)) [io-adapters](https://github.com/SUPERCILEX/io-adapters), lets you convert between different writeable APIs (`io` vs. `fmt`).
 - ([524](https://this-week-in-rust.org/blog/2023/12/06/this-week-in-rust-524/)) [symbols](https://crates.io/crates/symbols), a utility to quickly create proc-macros to solidify database tables into enums enabling compile time foreign key checks.
 - ([523](https://this-week-in-rust.org/blog/2023/11/29/this-week-in-rust-523/)) [tokio-graceful](https://docs.rs/tokio-graceful), a library for graceful shutdown of tokio-based async servers.
