@@ -1,7 +1,11 @@
 # Rust crates of the week
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
+## 2024
+- ([528](https://this-week-in-rust.org/blog/2024/01/03/this-week-in-rust-528/)) [fast_pool](https://crates.io/crates/fast_pool), a fast async pool based on the flume channel crate.
 
-## 2023
+<details>
+  <summary>2023</summary>
+
 - ([527](https://this-week-in-rust.org/blog/2023/12/27/this-week-in-rust-527/)) [rouille](https://crates.io/crates/rouille), a small synchronous web framework.
 - ([526](https://this-week-in-rust.org/blog/2023/12/20/this-week-in-rust-526/)) [constcat](https://crates.io/crates/constcat), a `std::concat!`-replacement with support for const variables and expressions.
 - ([525](https://this-week-in-rust.org/blog/2023/12/13/this-week-in-rust-525/)) [io-adapters](https://github.com/SUPERCILEX/io-adapters), lets you convert between different writeable APIs (`io` vs. `fmt`).
@@ -54,6 +58,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 - ([478](https://this-week-in-rust.org/blog/2023/01/18/this-week-in-rust-478/)) [syntactic-for](https://crates.io/crates/syntactic-for), a syntactic "for" loop Rust macro.
 - ([477](https://this-week-in-rust.org/blog/2023/01/11/this-week-in-rust-477/)) [schnellru](https://crates.io/crates/schnellru), contains a fast and flexible LRU map.
 - ([476](https://this-week-in-rust.org/blog/2023/01/04/this-week-in-rust-476/)) [Sniffnet](https://github.com/GyulyVGC/sniffnet), a cross-platform GUI application to analyze your network traffic.
+</details>
 
 <details>
   <summary>2022</summary>
