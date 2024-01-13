@@ -1,6 +1,7 @@
 # Rust crates of the week
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 ## 2024
+- ([529](https://this-week-in-rust.org/blog/2024/01/10/this-week-in-rust-529/)) [named-sem](https://crates.io/crates/named-sem), a wrapper library for named semaphores on Linux & Windows.
 - ([528](https://this-week-in-rust.org/blog/2024/01/03/this-week-in-rust-528/)) [fast_pool](https://crates.io/crates/fast_pool), a fast async pool based on the flume channel crate.
 
 <details>
