@@ -1,6 +1,7 @@
 # Rust crates of the week
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 ## 2024
+- ([532](https://this-week-in-rust.org/blog/2024/01/31/this-week-in-rust-532/)) [Apache Iceberg Rust](https://github.com/apache/iceberg-rust/), a Rust implementation of a table format for huge analytic datasets.
 - ([531](https://this-week-in-rust.org/blog/2024/01/24/this-week-in-rust-531/)) [apistos](https://github.com/netwo-io/apistos), an OpenAPI documentation tool.
 - ([530](https://this-week-in-rust.org/blog/2024/01/17/this-week-in-rust-530/)) [fish](https://github.com/fish-shell/fish-shell), a friendly interactive shell that used to be written in C++, but was recently rewritten in Rust (though admittedly they'll have to do some work until it hits your distro's repos).
 - ([529](https://this-week-in-rust.org/blog/2024/01/10/this-week-in-rust-529/)) [named-sem](https://crates.io/crates/named-sem), a wrapper library for named semaphores on Linux & Windows.
