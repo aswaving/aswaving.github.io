@@ -1,6 +1,7 @@
 # Rust crates of the week
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 ## 2024
+- ([534](https://this-week-in-rust.org/blog/2024/02/14/this-week-in-rust-534/)) [microflow](https://github.com/matteocarnelos/microflow-rs), a robust and efficient TinyML inference engine for embedded systems.
 - ([533](https://this-week-in-rust.org/blog/2024/02/07/this-week-in-rust-533/)) [embedded-cli-rs](https://github.com/funbiscuit/embedded-cli-rs), a library that makes it easy to create CLIs on embedded devices.
 - ([532](https://this-week-in-rust.org/blog/2024/01/31/this-week-in-rust-532/)) [Apache Iceberg Rust](https://github.com/apache/iceberg-rust/), a Rust implementation of a table format for huge analytic datasets.
 - ([531](https://this-week-in-rust.org/blog/2024/01/24/this-week-in-rust-531/)) [apistos](https://github.com/netwo-io/apistos), an OpenAPI documentation tool.
