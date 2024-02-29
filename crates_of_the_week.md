@@ -2,6 +2,7 @@
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2024
+- ([536](https://this-week-in-rust.org/blog/2024/02/28/this-week-in-rust-536/)) [web-audio-api-rs](https://github.com/orottier/web-audio-api-rs), a Rust implementation of the Web Audio API for use outside the browser.
 - ([535](https://this-week-in-rust.org/blog/2024/02/21/this-week-in-rust-535/)) [kind](https://github.com/wingbackapp/kind/), a helper crate for typed UUIDs.
 - ([534](https://this-week-in-rust.org/blog/2024/02/14/this-week-in-rust-534/)) [microflow](https://github.com/matteocarnelos/microflow-rs), a robust and efficient TinyML inference engine for embedded systems.
 - ([533](https://this-week-in-rust.org/blog/2024/02/07/this-week-in-rust-533/)) [embedded-cli-rs](https://github.com/funbiscuit/embedded-cli-rs), a library that makes it easy to create CLIs on embedded devices.
