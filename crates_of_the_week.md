@@ -1,7 +1,10 @@
 # Rust crates of the week
+
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
 ## 2024
+
+- ([539](https://this-week-in-rust.org/blog/2024/03/20/this-week-in-rust-539/)) [heck](https://docs.rs/heck), a `no_std` crate to perform case conversions.
 - ([538](https://this-week-in-rust.org/blog/2024/03/13/this-week-in-rust-538/)) [biscotti](https://github.com/LukeMathWalker/biscotti), an opinionated library to deal with HTTP cookies on the server side.
 - ([537](https://this-week-in-rust.org/blog/2024/03/06/this-week-in-rust-537/)) [srgn](https://github.com/alexpovel/srgn), a mix of tr, sed, rip-grep and tree-sitter.
 - ([536](https://this-week-in-rust.org/blog/2024/02/28/this-week-in-rust-536/)) [web-audio-api-rs](https://github.com/orottier/web-audio-api-rs), a Rust implementation of the Web Audio API for use outside the browser.
