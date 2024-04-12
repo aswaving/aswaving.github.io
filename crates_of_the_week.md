@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2024
 
+- ([542](https://this-week-in-rust.org/blog/2024/04/10/this-week-in-rust-542/)) [archspec-rs](https://github.com/prefix-dev/archspec-rs), a library to track system architecture aspects.
 - ([541](https://this-week-in-rust.org/blog/2024/04/03/this-week-in-rust-541/)) [cargo-unfmt](https://crates.io/crates/cargo-unfmt), a formatter that formats your code into block-justified text, which sacrifices some readability for esthetics.
 - ([540](https://this-week-in-rust.org/blog/2024/03/27/this-week-in-rust-540/)) [coffee-break](https://github.com/radekvit/coffee_break), the premier crate for those who think Rust compile times are too fast.
 - ([539](https://this-week-in-rust.org/blog/2024/03/20/this-week-in-rust-539/)) [heck](https://docs.rs/heck), a `no_std` crate to perform case conversions.
