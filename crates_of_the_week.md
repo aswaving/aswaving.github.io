@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2024
 
+- ([546](https://this-week-in-rust.org/blog/2024/05/08/this-week-in-rust-546/)) [derive_more](https://docs.rs/derive_more), for deriving a whole lot of traits. 
 - ([545](https://this-week-in-rust.org/blog/2024/05/01/this-week-in-rust-545/)) [efs](https://codeberg.org/RatCornu/efs), a no-std ext2 filesystem implementation with plans to add other file systems in the future. 
 - ([544](https://this-week-in-rust.org/blog/2024/04/24/this-week-in-rust-544/)) [scandir](https://crates.io/crates/scandir), a high-performance file tree scanner.
 - ([543](https://this-week-in-rust.org/blog/2024/04/17/this-week-in-rust-543/)) [venndb](https://crates.io/crates/venndb), an append-only memory DB whose tables can be build via a derive macro.
