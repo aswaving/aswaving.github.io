@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2024
 
+- ([552](https://this-week-in-rust.org/blog/2024/06/19/this-week-in-rust-552/)) [yazi](https://yazi-rs.github.io/), a blazing fast terminal file manager based on async I/O.
 - ([551](https://this-week-in-rust.org/blog/2024/06/12/this-week-in-rust-551/)) [hydra](https://github.com/dtzxporter/hydra), an actor framework inspired by Erlang/Elixir.
 - ([550](https://this-week-in-rust.org/blog/2024/06/05/this-week-in-rust-550/)) [layoutparser-ort](https://docs.rs/layoutparser-ort), a simplified port of LayoutParser for ML-based document layout element detection.
 - ([549](https://this-week-in-rust.org/blog/2024/05/29/this-week-in-rust-549/)) [pulso](https://github.com/guapodero/pulso), a simple metrics collector for TCP/IP.
