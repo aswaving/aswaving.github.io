@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2024
 
+- ([554](https://this-week-in-rust.org/blog/2024/07/03/this-week-in-rust-554/)) [asak](https://github.com/chaosprint/asak), a terminal-based audio recording/playback TUI.
 - ([553](https://this-week-in-rust.org/blog/2024/06/26/this-week-in-rust-553/)) [cargo-binstall](https://github.com/cargo-bins/cargo-binstall), a cargo subcommand to install crates from binaries out of their github releases.
 - ([552](https://this-week-in-rust.org/blog/2024/06/19/this-week-in-rust-552/)) [yazi](https://yazi-rs.github.io/), a blazing fast terminal file manager based on async I/O.
 - ([551](https://this-week-in-rust.org/blog/2024/06/12/this-week-in-rust-551/)) [hydra](https://github.com/dtzxporter/hydra), an actor framework inspired by Erlang/Elixir.
