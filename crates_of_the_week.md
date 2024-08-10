@@ -4,6 +4,11 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2024
 
+- ([559](https://this-week-in-rust.org/blog/2024/08/07/this-week-in-rust-559/)) [WhenFS](https://github.com/lvkv/whenfs), a FUSE filesystem that misuses your google calendar as storage. And yes, your schedule will look as packed as mine once you store one or two files in there.
+- ([558](https://this-week-in-rust.org/blog/2024/07/31/this-week-in-rust-558/)) [static-keys](https://crates.io/crates/static-keys),  a nightly-only mechanism to speed up checks of rarely changed features and [bon](https://elastio.github.io/bon/docs/guide/overview), yet another crate to autogenerate builders from functions, methods and structs.
+- ([557](https://this-week-in-rust.org/blog/2024/07/24/this-week-in-rust-557/)) [diatomic-waker](https://crates.io/crates/diatomic-waker), a spinlock-less library for async task wakeup.
+- ([556](https://this-week-in-rust.org/blog/2024/07/17/this-week-in-rust-556/)) [cargo-wizard](https://github.com/Kobzol/cargo-wizard), a cargo subcommand that applies profile and config templates to your Cargo project to configure it for maximum performance, fast compile times or minimal binary size.
+- ([555](https://this-week-in-rust.org/blog/2024/07/10/this-week-in-rust-555/)) [derive_deflty](https://docs.rs/derive-deftly/latest/derive_deftly/), a proc macro to create derive macros from declarative code.
 - ([554](https://this-week-in-rust.org/blog/2024/07/03/this-week-in-rust-554/)) [asak](https://github.com/chaosprint/asak), a terminal-based audio recording/playback TUI.
 - ([553](https://this-week-in-rust.org/blog/2024/06/26/this-week-in-rust-553/)) [cargo-binstall](https://github.com/cargo-bins/cargo-binstall), a cargo subcommand to install crates from binaries out of their github releases.
 - ([552](https://this-week-in-rust.org/blog/2024/06/19/this-week-in-rust-552/)) [yazi](https://yazi-rs.github.io/), a blazing fast terminal file manager based on async I/O.
