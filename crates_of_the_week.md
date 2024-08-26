@@ -4,6 +4,8 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2024
 
+- ([561](https://this-week-in-rust.org/blog/2024/08/21/this-week-in-rust-561/)) [discret](https://github.com/discretlib/discret), a graphQL-based peer-to-peer implementation library.
+- ([560](https://this-week-in-rust.org/blog/2024/08/14/this-week-in-rust-560/)) [rencfs](https://github.com/radumarias/rencfs), a FUSE-based encrypted filesystem for Linux.
 - ([559](https://this-week-in-rust.org/blog/2024/08/07/this-week-in-rust-559/)) [WhenFS](https://github.com/lvkv/whenfs), a FUSE filesystem that misuses your google calendar as storage. And yes, your schedule will look as packed as mine once you store one or two files in there.
 - ([558](https://this-week-in-rust.org/blog/2024/07/31/this-week-in-rust-558/)) [static-keys](https://crates.io/crates/static-keys),  a nightly-only mechanism to speed up checks of rarely changed features and [bon](https://elastio.github.io/bon/docs/guide/overview), yet another crate to autogenerate builders from functions, methods and structs.
 - ([557](https://this-week-in-rust.org/blog/2024/07/24/this-week-in-rust-557/)) [diatomic-waker](https://crates.io/crates/diatomic-waker), a spinlock-less library for async task wakeup.
