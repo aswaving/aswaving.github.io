@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2024
 
+- ([564](https://this-week-in-rust.org/blog/2024/09/11/this-week-in-rust-564/)) [cargo-override](https://github.com/eopb/cargo-override/), a cargo plugin for quick overriding of dependencies.
 - ([563](https://this-week-in-rust.org/blog/2024/09/04/this-week-in-rust-563/)) [vimania-uri-rs](https://github.com/sysid/vimania-uri-rs), a VIM plugin for file and URI handling.
 - ([562](https://this-week-in-rust.org/blog/2024/08/28/this-week-in-rust-562/)) [wtx](https://github.com/c410-f3r/wtx), a batteries-included web application framework.
 - ([561](https://this-week-in-rust.org/blog/2024/08/21/this-week-in-rust-561/)) [discret](https://github.com/discretlib/discret), a graphQL-based peer-to-peer implementation library.
