@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2024
 
+- ([566](https://this-week-in-rust.org/blog/2024/09/25/this-week-in-rust-566/)) [perpetual](https://github.com/perpetual-ml/perpetual), a self-generalizing gradient boosting implementation.
 - ([565](https://this-week-in-rust.org/blog/2024/09/18/this-week-in-rust-565/)) [lepton-jpeg-rust](https://github.com/microsoft/lepton_jpeg_rust), Microsoft's port of Dropbox' lepton space-saving JPEG compressor library to Rust.
 - ([564](https://this-week-in-rust.org/blog/2024/09/11/this-week-in-rust-564/)) [cargo-override](https://github.com/eopb/cargo-override/), a cargo plugin for quick overriding of dependencies.
 - ([563](https://this-week-in-rust.org/blog/2024/09/04/this-week-in-rust-563/)) [vimania-uri-rs](https://github.com/sysid/vimania-uri-rs), a VIM plugin for file and URI handling.
