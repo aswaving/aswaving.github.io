@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2024
 
+- ([568](https://this-week-in-rust.org/blog/2024/10/09/this-week-in-rust-568/)) [float8](https://crates.io/crates/float8), an 8-bit float implementation.
 - ([567](https://this-week-in-rust.org/blog/2024/10/02/this-week-in-rust-567/)) [binsider](https://binsider.dev/), a terminal UI tool for analyzing binary files.
 - ([566](https://this-week-in-rust.org/blog/2024/09/25/this-week-in-rust-566/)) [perpetual](https://github.com/perpetual-ml/perpetual), a self-generalizing gradient boosting implementation.
 - ([565](https://this-week-in-rust.org/blog/2024/09/18/this-week-in-rust-565/)) [lepton-jpeg-rust](https://github.com/microsoft/lepton_jpeg_rust), Microsoft's port of Dropbox' lepton space-saving JPEG compressor library to Rust.
