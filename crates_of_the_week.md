@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2024
 
+- ([569](https://this-week-in-rust.org/blog/2024/10/16/this-week-in-rust-569/)) [bacon](https://dystroy.org/bacon), a terminal application to run your cargo tasks on change in background.
 - ([568](https://this-week-in-rust.org/blog/2024/10/09/this-week-in-rust-568/)) [float8](https://crates.io/crates/float8), an 8-bit float implementation.
 - ([567](https://this-week-in-rust.org/blog/2024/10/02/this-week-in-rust-567/)) [binsider](https://binsider.dev/), a terminal UI tool for analyzing binary files.
 - ([566](https://this-week-in-rust.org/blog/2024/09/25/this-week-in-rust-566/)) [perpetual](https://github.com/perpetual-ml/perpetual), a self-generalizing gradient boosting implementation.
