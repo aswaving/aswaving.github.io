@@ -4,6 +4,8 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2024
 
+- ([571](https://this-week-in-rust.org/blog/2024/10/30/this-week-in-rust-571/)) [tower-http-client](https://github.com/alekseysidorov/tower-http-client), a library of middlewares and various utilities for HTTP-clients.
+- ([570](https://this-week-in-rust.org/blog/2024/10/23/this-week-in-rust-570/)) [trait-gen](https://crates.io/crates/trait-gen), an attribute macro to generate the trait implementations for several types without needing custom declarative macros, code repetition, or blanket implementations.
 - ([569](https://this-week-in-rust.org/blog/2024/10/16/this-week-in-rust-569/)) [bacon](https://dystroy.org/bacon), a terminal application to run your cargo tasks on change in background.
 - ([568](https://this-week-in-rust.org/blog/2024/10/09/this-week-in-rust-568/)) [float8](https://crates.io/crates/float8), an 8-bit float implementation.
 - ([567](https://this-week-in-rust.org/blog/2024/10/02/this-week-in-rust-567/)) [binsider](https://binsider.dev/), a terminal UI tool for analyzing binary files.
