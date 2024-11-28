@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2024
 
+- ([575](https://this-week-in-rust.org/blog/2024/11/27/this-week-in-rust-575/)) [postcard](https://docs.rs/postcard), a battle-tested, well-documented `#[no_std]` compatible serializer/deserializer geared towards use in embedded devices.
 - ([574](https://this-week-in-rust.org/blog/2024/11/20/this-week-in-rust-574/)) [fixed-slice-vec](https://crates.io/crates/fixed-slice-vec), a no-std dynamic length Vec with runtime-determined maximum capacity backed by a slice.
 - ([573](https://this-week-in-rust.org/blog/2024/11/13/this-week-in-rust-573/)) [struct-split](https://github.com/wdanilo/struct-split), a proc macro to implement partial borrows.
 - ([572](https://this-week-in-rust.org/blog/2024/11/06/this-week-in-rust-572/)) [wtransport](https://crates.io/crates/wtransport), an implementation of the WebTransport specification, a successor to WebSockets with many additional features. 
