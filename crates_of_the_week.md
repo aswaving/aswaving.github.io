@@ -4,6 +4,8 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2024
 
+- ([577](https://this-week-in-rust.org/blog/2024/12/11/this-week-in-rust-577/)) [include-utils](https://github.com/alekseysidorov/include-utils), a more powerful replacement for the standard library's include_str macro.
+- ([576](https://this-week-in-rust.org/blog/2024/12/04/this-week-in-rust-576/)) [augurs](https://github.com/grafana/augurs), a time-series toolkit for Rust with bindings to JS & Python.
 - ([575](https://this-week-in-rust.org/blog/2024/11/27/this-week-in-rust-575/)) [postcard](https://docs.rs/postcard), a battle-tested, well-documented `#[no_std]` compatible serializer/deserializer geared towards use in embedded devices.
 - ([574](https://this-week-in-rust.org/blog/2024/11/20/this-week-in-rust-574/)) [fixed-slice-vec](https://crates.io/crates/fixed-slice-vec), a no-std dynamic length Vec with runtime-determined maximum capacity backed by a slice.
 - ([573](https://this-week-in-rust.org/blog/2024/11/13/this-week-in-rust-573/)) [struct-split](https://github.com/wdanilo/struct-split), a proc macro to implement partial borrows.
