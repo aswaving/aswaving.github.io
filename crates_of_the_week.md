@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2024
 
+- ([578](https://this-week-in-rust.org/blog/2024/12/18/this-week-in-rust-578/)) [cmd_lib](https://crates.io/crates/cmd_lib), a library of command-line macros and utilities to write shell-script like tasks easily in Rust.
 - ([577](https://this-week-in-rust.org/blog/2024/12/11/this-week-in-rust-577/)) [include-utils](https://github.com/alekseysidorov/include-utils), a more powerful replacement for the standard library's include_str macro.
 - ([576](https://this-week-in-rust.org/blog/2024/12/04/this-week-in-rust-576/)) [augurs](https://github.com/grafana/augurs), a time-series toolkit for Rust with bindings to JS & Python.
 - ([575](https://this-week-in-rust.org/blog/2024/11/27/this-week-in-rust-575/)) [postcard](https://docs.rs/postcard), a battle-tested, well-documented `#[no_std]` compatible serializer/deserializer geared towards use in embedded devices.
