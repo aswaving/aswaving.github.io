@@ -1,1 +1,3 @@
 theme: jekyll-theme-minimal
+baseurl: /rust/
+url: https://aswaving.github.io/
