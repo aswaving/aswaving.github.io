@@ -2,7 +2,14 @@
 
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
-## 2024
+## 2025
+
+- ([581](https://this-week-in-rust.org/blog/2025/01/08/this-week-in-rust-581/)) [terminal-colorsaurus](https://crates.io/crates/terminal-colorsaurus), a small library to detect whether the terminal is in light or dark mode.
+- ([580](https://this-week-in-rust.org/blog/2025/01/01/this-week-in-rust-580/)) [fake](https://crates.io/crates/fake), a library (and recently console utility) to generate fake data of various types.
+
+<details>
+  <summary>2024</summary>
+4
 
 - ([579](https://this-week-in-rust.org/blog/2024/12/25/this-week-in-rust-579/)) [OmniLED](https://github.com/llMBQll/OmniLED),  a helper to display things like time or audio volumne on a LED matrix that some peripherials (such as gaming keyboards) have.
 - ([578](https://this-week-in-rust.org/blog/2024/12/18/this-week-in-rust-578/)) [cmd_lib](https://crates.io/crates/cmd_lib), a library of command-line macros and utilities to write shell-script like tasks easily in Rust.
@@ -56,6 +63,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 - ([530](https://this-week-in-rust.org/blog/2024/01/17/this-week-in-rust-530/)) [fish](https://github.com/fish-shell/fish-shell), a friendly interactive shell that used to be written in C++, but was recently rewritten in Rust (though admittedly they'll have to do some work until it hits your distro's repos).
 - ([529](https://this-week-in-rust.org/blog/2024/01/10/this-week-in-rust-529/)) [named-sem](https://crates.io/crates/named-sem), a wrapper library for named semaphores on Linux & Windows.
 - ([528](https://this-week-in-rust.org/blog/2024/01/03/this-week-in-rust-528/)) [fast_pool](https://crates.io/crates/fast_pool), a fast async pool based on the flume channel crate.
+</details>
 
 <details>
   <summary>2023</summary>
