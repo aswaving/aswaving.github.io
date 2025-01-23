@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([583](https://this-week-in-rust.org/blog/2025/01/22/this-week-in-rust-583/)) [resvg](https://crates.io/crates/resvg), an SVG rendering library.
 - ([582](https://this-week-in-rust.org/blog/2025/01/15/this-week-in-rust-582/)) [vidyut](https://github.com/ambuda-org/vidyut), a Sanskrit toolkit containing functionality about meter, segmentation, inflections, etc.
 - ([581](https://this-week-in-rust.org/blog/2025/01/08/this-week-in-rust-581/)) [terminal-colorsaurus](https://crates.io/crates/terminal-colorsaurus), a small library to detect whether the terminal is in light or dark mode.
 - ([580](https://this-week-in-rust.org/blog/2025/01/01/this-week-in-rust-580/)) [fake](https://crates.io/crates/fake), a library (and recently console utility) to generate fake data of various types.
