@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([584](https://this-week-in-rust.org/blog/2025/01/29/this-week-in-rust-584/)) [embed_it](https://github.com/riberk/embed_it), a crate that helps you to embed assets into your binary and generates structs / trait implementations for each file or directory.
 - ([583](https://this-week-in-rust.org/blog/2025/01/22/this-week-in-rust-583/)) [resvg](https://crates.io/crates/resvg), an SVG rendering library.
 - ([582](https://this-week-in-rust.org/blog/2025/01/15/this-week-in-rust-582/)) [vidyut](https://github.com/ambuda-org/vidyut), a Sanskrit toolkit containing functionality about meter, segmentation, inflections, etc.
 - ([581](https://this-week-in-rust.org/blog/2025/01/08/this-week-in-rust-581/)) [terminal-colorsaurus](https://crates.io/crates/terminal-colorsaurus), a small library to detect whether the terminal is in light or dark mode.
