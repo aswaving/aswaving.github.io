@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([587](https://this-week-in-rust.org/blog/2025/02/19/this-week-in-rust-587/)) [httpmock](https://crates.io/crates/httpmock), which is quite unsurprisingly a HTTP mocking library for Rust.
 - ([586](https://this-week-in-rust.org/blog/2025/02/12/this-week-in-rust-586/)) [esp32-mender-client](https://github.com/virust-ai/esp32-mender-client), a client for ESP32 to execute firmware updates and remote commands.
 - ([585](https://this-week-in-rust.org/blog/2025/02/05/this-week-in-rust-585/)) [ratzilla](https://github.com/orhun/ratzilla), a library for building terminal-themed web applications with Rust and WebAssembly.
 - ([584](https://this-week-in-rust.org/blog/2025/01/29/this-week-in-rust-584/)) [embed_it](https://github.com/riberk/embed_it), a crate that helps you to embed assets into your binary and generates structs / trait implementations for each file or directory.
