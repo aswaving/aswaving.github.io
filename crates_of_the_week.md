@@ -4,6 +4,9 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([590](https://this-week-in-rust.org/blog/2025/03/12/this-week-in-rust-590/)) [eval-macro](https://crates.io/crates/eval-macro), a crate that allows to evaluate macros at compile time, giving similar feel to Zig's comptime.
+- ([589](https://this-week-in-rust.org/blog/2025/03/05/this-week-in-rust-589/)) [wild](https://crates.io/crates/wild-linker), a pretty fast linker written in Rust.
+- ([588](https://this-week-in-rust.org/blog/2025/02/26/this-week-in-rust-588/)) [hiqlite](https://github.com/sebadob/hiqlite/), a database project combining SQLite with OpenRaft to enable high-availability applications with embedded database.
 - ([587](https://this-week-in-rust.org/blog/2025/02/19/this-week-in-rust-587/)) [httpmock](https://crates.io/crates/httpmock), which is quite unsurprisingly a HTTP mocking library for Rust.
 - ([586](https://this-week-in-rust.org/blog/2025/02/12/this-week-in-rust-586/)) [esp32-mender-client](https://github.com/virust-ai/esp32-mender-client), a client for ESP32 to execute firmware updates and remote commands.
 - ([585](https://this-week-in-rust.org/blog/2025/02/05/this-week-in-rust-585/)) [ratzilla](https://github.com/orhun/ratzilla), a library for building terminal-themed web applications with Rust and WebAssembly.
