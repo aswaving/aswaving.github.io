@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([594](https://this-week-in-rust.org/blog/2025/04/09/this-week-in-rust-594/)) [graft](https://github.com/orbitinghail/graft), a transactional storage engine optimized for lazy, partial, and strongly consistent replication.
 - ([593](https://this-week-in-rust.org/blog/2025/04/02/this-week-in-rust-593/)) [candystore](https://docs.rs/candystore/latest/candystore/), a fast, persistent key-value store that does not require LSM or WALs.
 - ([592](https://this-week-in-rust.org/blog/2025/03/26/this-week-in-rust-592/)) [jiff](https://crates.io/crates/jiff), a datetime library.
 - ([591](https://this-week-in-rust.org/blog/2025/03/19/this-week-in-rust-591/)) [dom_smoothie](https://github.com/niklak/dom_smoothie), a crate for extracting readable content from web pages.
