@@ -4,6 +4,8 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([596](https://this-week-in-rust.org/blog/2025/04/23/this-week-in-rust-596/)) [Maycoon](https://maycoon-ui.github.io/), an experimental vello/wGPU-based UI framework.
+- ([595](https://this-week-in-rust.org/blog/2025/04/16/this-week-in-rust-595/)) [wgpu](https://docs.rs/wgpu), a cross-platform graphics and compute library based on WebGPU.
 - ([594](https://this-week-in-rust.org/blog/2025/04/09/this-week-in-rust-594/)) [graft](https://github.com/orbitinghail/graft), a transactional storage engine optimized for lazy, partial, and strongly consistent replication.
 - ([593](https://this-week-in-rust.org/blog/2025/04/02/this-week-in-rust-593/)) [candystore](https://docs.rs/candystore/latest/candystore/), a fast, persistent key-value store that does not require LSM or WALs.
 - ([592](https://this-week-in-rust.org/blog/2025/03/26/this-week-in-rust-592/)) [jiff](https://crates.io/crates/jiff), a datetime library.
