@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([598](https://this-week-in-rust.org/blog/2025/05/07/this-week-in-rust-598/)) [structstruck](https://crates.io/crates/structstruck), a proc-macro crate for enabling nested struct/enum definitions.
 - ([597](https://this-week-in-rust.org/blog/2025/04/30/this-week-in-rust-597/)) [rust-sel4](https://github.com/seL4/rust-sel4/), a no_std crate to bind to the Se4L microkernel APIs.
 - ([596](https://this-week-in-rust.org/blog/2025/04/23/this-week-in-rust-596/)) [Maycoon](https://maycoon-ui.github.io/), an experimental vello/wGPU-based UI framework.
 - ([595](https://this-week-in-rust.org/blog/2025/04/16/this-week-in-rust-595/)) [wgpu](https://docs.rs/wgpu), a cross-platform graphics and compute library based on WebGPU.
