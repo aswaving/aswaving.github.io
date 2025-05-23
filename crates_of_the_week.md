@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([600](https://this-week-in-rust.org/blog/2025/05/21/this-week-in-rust-600/)) [makepad](https://makepad.nl/), an in development shader based live designable OSS UI-Framework.
 - ([599](https://this-week-in-rust.org/blog/2025/05/14/this-week-in-rust-599/)) [brush](https://github.com/reubeno/brush/), a bash compatible shell implemented completely in Rust.
 - ([598](https://this-week-in-rust.org/blog/2025/05/07/this-week-in-rust-598/)) [structstruck](https://crates.io/crates/structstruck), a proc-macro crate for enabling nested struct/enum definitions.
 - ([597](https://this-week-in-rust.org/blog/2025/04/30/this-week-in-rust-597/)) [rust-sel4](https://github.com/seL4/rust-sel4/), a no_std crate to bind to the Se4L microkernel APIs.
