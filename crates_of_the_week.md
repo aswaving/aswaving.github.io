@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([601](https://this-week-in-rust.org/blog/2025/05/28/this-week-in-rust-601/)) [boreal](https://github.com/vthib/boreal), a safe and performant [YARA](https://virustotal.github.io/yara/) rules evaluator.
 - ([600](https://this-week-in-rust.org/blog/2025/05/21/this-week-in-rust-600/)) [makepad](https://makepad.nl/), an in development shader based live designable OSS UI-Framework.
 - ([599](https://this-week-in-rust.org/blog/2025/05/14/this-week-in-rust-599/)) [brush](https://github.com/reubeno/brush/), a bash compatible shell implemented completely in Rust.
 - ([598](https://this-week-in-rust.org/blog/2025/05/07/this-week-in-rust-598/)) [structstruck](https://crates.io/crates/structstruck), a proc-macro crate for enabling nested struct/enum definitions.
