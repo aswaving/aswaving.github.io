@@ -4,6 +4,8 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([603](https://this-week-in-rust.org/blog/2025/06/11/this-week-in-rust-603/)) [optics](https://crates.io/crates/optics), a typesafe, fully featured lens library.
+- ([602](https://this-week-in-rust.org/blog/2025/06/04/this-week-in-rust-602/)), [context-logger](https://github.com/alekseysidorov/context-logger), a lightweight, ergonomic library for adding structured context to your logs.
 - ([601](https://this-week-in-rust.org/blog/2025/05/28/this-week-in-rust-601/)) [boreal](https://github.com/vthib/boreal), a safe and performant [YARA](https://virustotal.github.io/yara/) rules evaluator.
 - ([600](https://this-week-in-rust.org/blog/2025/05/21/this-week-in-rust-600/)) [makepad](https://makepad.nl/), an in development shader based live designable OSS UI-Framework.
 - ([599](https://this-week-in-rust.org/blog/2025/05/14/this-week-in-rust-599/)) [brush](https://github.com/reubeno/brush/), a bash compatible shell implemented completely in Rust.
