@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([604](https://this-week-in-rust.org/blog/2025/06/18/this-week-in-rust-604/)) [RobustMQ](https://github.com/robustmq/robustmq), a next-generation, high-performance, multi-protocol message queue.
 - ([603](https://this-week-in-rust.org/blog/2025/06/11/this-week-in-rust-603/)) [optics](https://crates.io/crates/optics), a typesafe, fully featured lens library.
 - ([602](https://this-week-in-rust.org/blog/2025/06/04/this-week-in-rust-602/)), [context-logger](https://github.com/alekseysidorov/context-logger), a lightweight, ergonomic library for adding structured context to your logs.
 - ([601](https://this-week-in-rust.org/blog/2025/05/28/this-week-in-rust-601/)) [boreal](https://github.com/vthib/boreal), a safe and performant [YARA](https://virustotal.github.io/yara/) rules evaluator.
