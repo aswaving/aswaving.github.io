@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([606](https://this-week-in-rust.org/blog/2025/07/02/this-week-in-rust-606/)) [ansic](https://crates.io/crates/ansic), a proc macro providing a DSL to output ANSI escape strings with zero runtime overhead.
 - ([605](https://this-week-in-rust.org/blog/2025/06/25/this-week-in-rust-605/)) [primitive_fixed_point_decimal](https://docs.rs/primitive_fixed_point_decimal), a crate of *real* fixed-point decimal types.
 - ([604](https://this-week-in-rust.org/blog/2025/06/18/this-week-in-rust-604/)) [RobustMQ](https://github.com/robustmq/robustmq), a next-generation, high-performance, multi-protocol message queue.
 - ([603](https://this-week-in-rust.org/blog/2025/06/11/this-week-in-rust-603/)) [optics](https://crates.io/crates/optics), a typesafe, fully featured lens library.
