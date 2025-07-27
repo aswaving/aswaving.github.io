@@ -4,6 +4,9 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([609](https://this-week-in-rust.org/blog/2025/07/23/this-week-in-rust-609/)) [index_permute](https://crates.io/crates/index_permute), a library for in-place clone-less permutation on mutable slices.
+- ([608](https://this-week-in-rust.org/blog/2025/07/16/this-week-in-rust-608/)) [oxvg](https://github.com/noahbald/oxvg), a SVG optimizer.
+- ([607](https://this-week-in-rust.org/blog/2025/07/09/this-week-in-rust-607/)) [flac-codec](https://crates.io/crates/flac-codec), an implementation of the Free Lossless Audio Codec (FLAC) file format.
 - ([606](https://this-week-in-rust.org/blog/2025/07/02/this-week-in-rust-606/)) [ansic](https://crates.io/crates/ansic), a proc macro providing a DSL to output ANSI escape strings with zero runtime overhead.
 - ([605](https://this-week-in-rust.org/blog/2025/06/25/this-week-in-rust-605/)) [primitive_fixed_point_decimal](https://docs.rs/primitive_fixed_point_decimal), a crate of *real* fixed-point decimal types.
 - ([604](https://this-week-in-rust.org/blog/2025/06/18/this-week-in-rust-604/)) [RobustMQ](https://github.com/robustmq/robustmq), a next-generation, high-performance, multi-protocol message queue.
