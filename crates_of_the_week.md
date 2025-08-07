@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([610](https://this-week-in-rust.org/blog/2025/07/30/this-week-in-rust-610/) [qop](https://github.com/cchexcode/qop), a standalone SQL migration tool.
 - ([609](https://this-week-in-rust.org/blog/2025/07/23/this-week-in-rust-609/)) [index_permute](https://crates.io/crates/index_permute), a library for in-place clone-less permutation on mutable slices.
 - ([608](https://this-week-in-rust.org/blog/2025/07/16/this-week-in-rust-608/)) [oxvg](https://github.com/noahbald/oxvg), a SVG optimizer.
 - ([607](https://this-week-in-rust.org/blog/2025/07/09/this-week-in-rust-607/)) [flac-codec](https://crates.io/crates/flac-codec), an implementation of the Free Lossless Audio Codec (FLAC) file format.
