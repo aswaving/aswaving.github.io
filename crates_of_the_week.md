@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([613](https://this-week-in-rust.org/blog/2025/08/20/this-week-in-rust-613/)) [tur](https://github.com/rezigned/tur), a turing machine emulator with text-mode user interface.
 - ([612](https://this-week-in-rust.org/blog/2025/08/13/this-week-in-rust-612/)) [MOMA](https://crates.io/crates/moma), a framework for Moving Origin Modular Arithmetic, with applications in number theory, cryptography and bioinformatics.
 - ([611](https://this-week-in-rust.org/blog/2025/08/06/this-week-in-rust-611/)) [saphyr](https://crates.io/crates/saphyr), an actively maintained fork of yaml-rust.
 - ([610](https://this-week-in-rust.org/blog/2025/07/30/this-week-in-rust-610/) [qop](https://github.com/cchexcode/qop), a standalone SQL migration tool.
