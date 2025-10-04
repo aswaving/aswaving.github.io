@@ -4,6 +4,11 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([619](https://this-week-in-rust.org/blog/2025/10/01/this-week-in-rust-619/)) [blogr](https://github.com/bahdotsh/blogr), a fast, lightweight static site generator.
+- ([618](https://this-week-in-rust.org/blog/2025/09/24/this-week-in-rust-618/)) [faer](https://docs.rs/faer), a general-purpose linear algebra library for rust, with a focus on high performance for algebraic operations on medium/large matrices, as well as matrix decompositions.
+- ([617](https://this-week-in-rust.org/blog/2025/09/17/this-week-in-rust-617/)) [asciinema](https://crates.io/crates/asciinema), a well-known command-line tool for recording, replaying and streaming terminal sessions recently rewritten in Rust.
+- ([616](https://this-week-in-rust.org/blog/2025/09/10/this-week-in-rust-616/)) [GrimoireCSS](https://crates.io/crates/grimoire_css), a CSS engine crafted in Rust, focusing on unmatched flexibility, reusable dynamic styling, and optimized performance for every environment.
+- ([615](https://this-week-in-rust.org/blog/2025/09/03/this-week-in-rust-615/)) [aehobak](https://crates.io/crates/aehobak), a transcoder for bsdiff binary patches.
 - ([614](https://this-week-in-rust.org/blog/2025/08/27/this-week-in-rust-614/)) [web-route](https://crates.io/crates/web-route), a library to ergonomically define and manage web server routes in Rust.
 - ([613](https://this-week-in-rust.org/blog/2025/08/20/this-week-in-rust-613/)) [tur](https://github.com/rezigned/tur), a turing machine emulator with text-mode user interface.
 - ([612](https://this-week-in-rust.org/blog/2025/08/13/this-week-in-rust-612/)) [MOMA](https://crates.io/crates/moma), a framework for Moving Origin Modular Arithmetic, with applications in number theory, cryptography and bioinformatics.
