@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([620](https://this-week-in-rust.org/blog/2025/10/08/this-week-in-rust-620/)) [tokio-netem](https://crates.io/crates/tokio-netem), a toolbox of Tokio AsyncRead /AsyncWrite adapters to emulate latency, throttling, slicing, termination, forced shutdown, data injection and data corruption.
 - ([619](https://this-week-in-rust.org/blog/2025/10/01/this-week-in-rust-619/)) [blogr](https://github.com/bahdotsh/blogr), a fast, lightweight static site generator.
 - ([618](https://this-week-in-rust.org/blog/2025/09/24/this-week-in-rust-618/)) [faer](https://docs.rs/faer), a general-purpose linear algebra library for rust, with a focus on high performance for algebraic operations on medium/large matrices, as well as matrix decompositions.
 - ([617](https://this-week-in-rust.org/blog/2025/09/17/this-week-in-rust-617/)) [asciinema](https://crates.io/crates/asciinema), a well-known command-line tool for recording, replaying and streaming terminal sessions recently rewritten in Rust.
