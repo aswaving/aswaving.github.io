@@ -4,6 +4,8 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([622](https://this-week-in-rust.org/blog/2025/10/22/this-week-in-rust-622/)) [extend_mut](https://docs.rs/extend_mut), a library to safely extend the lifetime of an exclusive reference under some constraints.
+- ([621](https://this-week-in-rust.org/blog/2025/10/15/this-week-in-rust-621/)) [mitsein](https://github.com/olson-sean-k/mitsein), a library of non-empty collections.
 - ([620](https://this-week-in-rust.org/blog/2025/10/08/this-week-in-rust-620/)) [tokio-netem](https://crates.io/crates/tokio-netem), a toolbox of Tokio AsyncRead /AsyncWrite adapters to emulate latency, throttling, slicing, termination, forced shutdown, data injection and data corruption.
 - ([619](https://this-week-in-rust.org/blog/2025/10/01/this-week-in-rust-619/)) [blogr](https://github.com/bahdotsh/blogr), a fast, lightweight static site generator.
 - ([618](https://this-week-in-rust.org/blog/2025/09/24/this-week-in-rust-618/)) [faer](https://docs.rs/faer), a general-purpose linear algebra library for rust, with a focus on high performance for algebraic operations on medium/large matrices, as well as matrix decompositions.
