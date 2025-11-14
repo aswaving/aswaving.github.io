@@ -4,6 +4,9 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([625](https://this-week-in-rust.org/blog/2025/11/12/this-week-in-rust-625/)) automesh[](https://docs.rs/automesh), a crate for high-performance automatic mesh generation.
+- ([624](https://this-week-in-rust.org/blog/2025/11/05/this-week-in-rust-624/)) [dioxus](https://docs.rs/dioxus), a framework for building cross-platform apps.
+- ([623](https://this-week-in-rust.org/blog/2025/10/29/this-week-in-rust-623/)) [tower-resilience](https://github.com/joshrotenberg/tower-resilience), a library offering resilience features for tower.
 - ([622](https://this-week-in-rust.org/blog/2025/10/22/this-week-in-rust-622/)) [extend_mut](https://docs.rs/extend_mut), a library to safely extend the lifetime of an exclusive reference under some constraints.
 - ([621](https://this-week-in-rust.org/blog/2025/10/15/this-week-in-rust-621/)) [mitsein](https://github.com/olson-sean-k/mitsein), a library of non-empty collections.
 - ([620](https://this-week-in-rust.org/blog/2025/10/08/this-week-in-rust-620/)) [tokio-netem](https://crates.io/crates/tokio-netem), a toolbox of Tokio AsyncRead /AsyncWrite adapters to emulate latency, throttling, slicing, termination, forced shutdown, data injection and data corruption.
