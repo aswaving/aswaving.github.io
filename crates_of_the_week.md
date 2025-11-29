@@ -4,6 +4,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([627](https://this-week-in-rust.org/blog/2025/11/26/this-week-in-rust-627/)) [grapheme-utils](https://github.com/rustkins/grapheme-utils), a library of functions to ergonomically work with UTF graphemes.
 - ([626](https://this-week-in-rust.org/blog/2025/11/19/this-week-in-rust-626/)) [cargo-cat](https://crates.io/crates/cat-ascii-faces), a cargo-subcommand to put a random ascii cat face on your terminal.
 - ([625](https://this-week-in-rust.org/blog/2025/11/12/this-week-in-rust-625/)) [automesh](https://docs.rs/automesh), a crate for high-performance automatic mesh generation.
 - ([624](https://this-week-in-rust.org/blog/2025/11/05/this-week-in-rust-624/)) [dioxus](https://docs.rs/dioxus), a framework for building cross-platform apps.
