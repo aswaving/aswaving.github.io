@@ -4,6 +4,8 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([630](https://this-week-in-rust.org/blog/2025/12/17/this-week-in-rust-630/)) [logos](https://github.com/maciejhirsz/logos), a modern lexer generator.
+- ([629](https://this-week-in-rust.org/blog/2025/12/10/this-week-in-rust-629/)) [mdbook-lint](https://github.com/joshrotenberg/mdbook-lint), a markdown linter geared towards mdbook, but useful with any markdown.
 - ([628](https://this-week-in-rust.org/blog/2025/12/03/this-week-in-rust-628/)) [corosensei](https://github.com/Amanieu/corosensei), allows you to write stackful coroutines on stable.
 - ([627](https://this-week-in-rust.org/blog/2025/11/26/this-week-in-rust-627/)) [grapheme-utils](https://github.com/rustkins/grapheme-utils), a library of functions to ergonomically work with UTF graphemes.
 - ([626](https://this-week-in-rust.org/blog/2025/11/19/this-week-in-rust-626/)) [cargo-cat](https://crates.io/crates/cat-ascii-faces), a cargo-subcommand to put a random ascii cat face on your terminal.
