@@ -1,3 +1,7 @@
+---
+title: Rust crates of the week
+---
+
 # Rust crates of the week
 
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
