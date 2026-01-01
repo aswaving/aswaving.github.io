@@ -1,1 +1,0 @@
-# aswaving's github pages
