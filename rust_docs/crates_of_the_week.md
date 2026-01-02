@@ -8,6 +8,8 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2025
 
+- ([632](https://this-week-in-rust.org/blog/2025/12/31/this-week-in-rust-632/)) [wsgl-bindgen](https://github.com/Swoorup/wgsl-bindgen), a binding generator for WGSL, the WebGPU shading language, to be used with [wgpu](https://github.com/gfx-rs/wgpu).
+- ([631](https://this-week-in-rust.org/blog/2025/12/24/this-week-in-rust-631/)) [arcshift](https://docs.rs/arcshift), an Arc replacement for read-heavy workloads that supports lock-free atomic replacement.
 - ([630](https://this-week-in-rust.org/blog/2025/12/17/this-week-in-rust-630/)) [logos](https://github.com/maciejhirsz/logos), a modern lexer generator.
 - ([629](https://this-week-in-rust.org/blog/2025/12/10/this-week-in-rust-629/)) [mdbook-lint](https://github.com/joshrotenberg/mdbook-lint), a markdown linter geared towards mdbook, but useful with any markdown.
 - ([628](https://this-week-in-rust.org/blog/2025/12/03/this-week-in-rust-628/)) [corosensei](https://github.com/Amanieu/corosensei), allows you to write stackful coroutines on stable.
