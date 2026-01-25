@@ -6,6 +6,12 @@ title: Rust crates of the week
 
 All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-in-rust.org) newsletter, on a single page.
 
+## 2026
+
+- ([635](https://this-week-in-rust.org/blog/2026/01/21/this-week-in-rust-635/)) [throtted-tracing](https://crates.io/crates/throttled-tracing), a crate of periodic and throttled logging macros.
+- ([634](https://this-week-in-rust.org/blog/2026/01/14/this-week-in-rust-634/)) [diesel-guard](https://github.com/ayarotsky/diesel-guard), a linter against dangerous Postgres migrations.
+- ([633](https://this-week-in-rust.org/blog/2026/01/07/this-week-in-rust-633/)) [kameo](https://github.com/tqwewe/kameo),  an asynchronous actor framework with clear, trait-based abstractions for actors and typed messages.
+
 ## 2025
 
 - ([632](https://this-week-in-rust.org/blog/2025/12/31/this-week-in-rust-632/)) [wsgl-bindgen](https://github.com/Swoorup/wgsl-bindgen), a binding generator for WGSL, the WebGPU shading language, to be used with [wgpu](https://github.com/gfx-rs/wgpu).
