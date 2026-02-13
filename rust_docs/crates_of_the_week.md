@@ -8,6 +8,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2026
 
+- ([638](https://this-week-in-rust.org/blog/2026/02/11/this-week-in-rust-638/)) [zedbar](https://crates.io/crates/zedbar), a crate to read QR codes and a bunch of other barcode formats from images.
 - ([637](https://this-week-in-rust.org/blog/2026/02/04/this-week-in-rust-637/)) [vortex](https://github.com/Nehliin/vortex), a linux only `io_uring` based BitTorrent library and TUI.
 - ([636](https://this-week-in-rust.org/blog/2026/01/28/this-week-in-rust-636/)) [dynamodb-crud](https://github.com/dariocurr/dynamodb-crud), a type-safe API for working with DynamoDB tables.
 - ([635](https://this-week-in-rust.org/blog/2026/01/21/this-week-in-rust-635/)) [throtted-tracing](https://crates.io/crates/throttled-tracing), a crate of periodic and throttled logging macros.
