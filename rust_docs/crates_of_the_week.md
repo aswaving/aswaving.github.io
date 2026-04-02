@@ -8,6 +8,8 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2026
 
+- ([645](https://this-week-in-rust.org/blog/2026/04/01/this-week-in-rust-645/)) [tsastat](https://github.com/AnkurRathore/tsastat), a high-resolution Thread State Analysis (TSA) tool for Linux.
+- ([644](https://this-week-in-rust.org/blog/2026/03/25/this-week-in-rust-644/)) [noq](https://github.com/n0-computer/noq), a general purpose implementation of the QUIC transport protocol in pure rust.
 - ([643](https://this-week-in-rust.org/blog/2026/03/18/this-week-in-rust-643/)) [grab](https://github.com/anwitars/grab), a command-line tool to quickly convert CSV to JSON.
 - ([642](https://this-week-in-rust.org/blog/2026/03/11/this-week-in-rust-642/)) [sentencex](https://github.com/wikimedia/sentencex), a fast sentence segmentation library.
 - ([641](https://this-week-in-rust.org/blog/2026/03/04/this-week-in-rust-641/)) [offcie2pdf](https://github.com/developer0hye/office2pdf), a standalone library or binary to generate PDF from OOXML (docx, xlsx, etc.) files.
