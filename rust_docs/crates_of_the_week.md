@@ -8,6 +8,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2026
 
+- ([648](https://this-week-in-rust.org/blog/2026/04/22/this-week-in-rust-648/)) [farben](https://github.com/razkar-studio/farben), a German-named macro crate for terminal colors.
 - ([647](https://this-week-in-rust.org/blog/2026/04/15/this-week-in-rust-647/)) [Myth Engine](https://github.com/panxinmiao/myth), a high-performance, cross-platform rendering engine.
 - ([646](https://this-week-in-rust.org/blog/2026/04/08/this-week-in-rust-646/)) [aimdb-core](https://crates.io/crates/aimdb-core), a type-safe and platform-agnostic data pipeline where the Rust type system is the schema and trait implementations define its behavior.
 - ([645](https://this-week-in-rust.org/blog/2026/04/01/this-week-in-rust-645/)) [tsastat](https://github.com/AnkurRathore/tsastat), a high-resolution Thread State Analysis (TSA) tool for Linux.
