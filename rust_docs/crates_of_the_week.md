@@ -8,6 +8,8 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2026
 
+- ([650](https://this-week-in-rust.org/blog/2026/05/06/this-week-in-rust-650/)) [burn](https://github.com/tracel-ai/burn),  a tensor and deep learning library.§
+- ([649](https://this-week-in-rust.org/blog/2026/04/29/this-week-in-rust-649/)) [dithr](https://github.com/pbkx/dithr), a buffer-first dithering and halftoning library.
 - ([648](https://this-week-in-rust.org/blog/2026/04/22/this-week-in-rust-648/)) [farben](https://github.com/razkar-studio/farben), a German-named macro crate for terminal colors.
 - ([647](https://this-week-in-rust.org/blog/2026/04/15/this-week-in-rust-647/)) [Myth Engine](https://github.com/panxinmiao/myth), a high-performance, cross-platform rendering engine.
 - ([646](https://this-week-in-rust.org/blog/2026/04/08/this-week-in-rust-646/)) [aimdb-core](https://crates.io/crates/aimdb-core), a type-safe and platform-agnostic data pipeline where the Rust type system is the schema and trait implementations define its behavior.
