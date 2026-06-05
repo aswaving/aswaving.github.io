@@ -8,7 +8,11 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2026
 
-- ([650](https://this-week-in-rust.org/blog/2026/05/06/this-week-in-rust-650/)) [burn](https://github.com/tracel-ai/burn),  a tensor and deep learning library.§
+- ([654](https://this-week-in-rust.org/blog/2026/06/03/this-week-in-rust-654/)) [remyx](https://github.com/manuelgdlvh/remyx), a framework for building TUIs on top of Ratatui.
+- ([653](https://this-week-in-rust.org/blog/2026/05/27/this-week-in-rust-653/)) [inline_tweak](https://docs.rs/inline_tweak), a crate to embed tweakable constants inside your Rust application without full recompilation.
+- ([652](https://this-week-in-rust.org/blog/2026/05/20/this-week-in-rust-652/)) [cargo-crap](https://github.com/minikin/cargo-crap), a cargo subcommand to calculate the Change Risk Anti-Patterns metric for a crate.
+- ([651](https://this-week-in-rust.org/blog/2026/05/13/this-week-in-rust-651/)) [cloakrs](https://github.com/kadir/cloakrs), a library and CLI tool for detecting and masking personally identifiable information.
+- ([650](https://this-week-in-rust.org/blog/2026/05/06/this-week-in-rust-650/)) [burn](https://github.com/tracel-ai/burn),  a tensor and deep learning library.
 - ([649](https://this-week-in-rust.org/blog/2026/04/29/this-week-in-rust-649/)) [dithr](https://github.com/pbkx/dithr), a buffer-first dithering and halftoning library.
 - ([648](https://this-week-in-rust.org/blog/2026/04/22/this-week-in-rust-648/)) [farben](https://github.com/razkar-studio/farben), a German-named macro crate for terminal colors.
 - ([647](https://this-week-in-rust.org/blog/2026/04/15/this-week-in-rust-647/)) [Myth Engine](https://github.com/panxinmiao/myth), a high-performance, cross-platform rendering engine.
