@@ -8,6 +8,11 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2026
 
+- ([659](https://this-week-in-rust.org/blog/2026/07/08/this-week-in-rust-659/)) [api-saltans](https://crates.io/crates/apis-saltans-core), a Zigbee implementation including a coordinator API.
+- ([658](https://this-week-in-rust.org/blog/2026/07/01/this-week-in-rust-658/)) [deconvolution](https://github.com/pbkx/deconvolution), an image deconvolution and restoration library.
+- ([657](https://this-week-in-rust.org/blog/2026/06/24/this-week-in-rust-657/)) [cargo-rdme](https://github.com/orium/cargo-rdme), a cargo command to create your README from your crate’s documentation.
+- ([656](https://this-week-in-rust.org/blog/2026/06/17/this-week-in-rust-656/)) [marser](https://github.com/ArneCode/marser), a parser combinator library with a twist.
+- ([655](https://this-week-in-rust.org/blog/2026/06/10/this-week-in-rust-655/)) [rustion](https://github.com/handewo/rustion), a SSH bastion server.
 - ([654](https://this-week-in-rust.org/blog/2026/06/03/this-week-in-rust-654/)) [remyx](https://github.com/manuelgdlvh/remyx), a framework for building TUIs on top of Ratatui.
 - ([653](https://this-week-in-rust.org/blog/2026/05/27/this-week-in-rust-653/)) [inline_tweak](https://docs.rs/inline_tweak), a crate to embed tweakable constants inside your Rust application without full recompilation.
 - ([652](https://this-week-in-rust.org/blog/2026/05/20/this-week-in-rust-652/)) [cargo-crap](https://github.com/minikin/cargo-crap), a cargo subcommand to calculate the Change Risk Anti-Patterns metric for a crate.
