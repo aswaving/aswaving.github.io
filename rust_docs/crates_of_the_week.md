@@ -8,6 +8,7 @@ All Rust's crates of the weeks, from the [This Week in Rust](https://this-week-i
 
 ## 2026
 
+- ([660](https://this-week-in-rust.org/blog/2026/07/15/this-week-in-rust-660/)) [dashu](https://crates.io/crates/dashu), a pure Rust set of libraries of arbitrary precision numbers.
 - ([659](https://this-week-in-rust.org/blog/2026/07/08/this-week-in-rust-659/)) [api-saltans](https://crates.io/crates/apis-saltans-core), a Zigbee implementation including a coordinator API.
 - ([658](https://this-week-in-rust.org/blog/2026/07/01/this-week-in-rust-658/)) [deconvolution](https://github.com/pbkx/deconvolution), an image deconvolution and restoration library.
 - ([657](https://this-week-in-rust.org/blog/2026/06/24/this-week-in-rust-657/)) [cargo-rdme](https://github.com/orium/cargo-rdme), a cargo command to create your README from your crate’s documentation.
